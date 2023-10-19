@@ -1,0 +1,892 @@
+Address,Price,Info_1,Info_2,Info_3,Info_4,Info_5,Info_6,Info_7,Info_8,Error
+"20/9A Esplanade Road, Mount Eden, Auckland City",$360 per week,Unit,1,1,1,,,,,
+"46 Montrose Street, Point Chevalier, Auckland City",$650 per week,House,2,1,2,,,,,
+"1/351 Mount Eden Road, Mount Eden, Auckland City",$530 per week,House,2,1,,,,1 Separate toilet,,
+"64 School Road, Kingsland, Auckland City",$750 per week,House,3,1,2,,,,,
+"2E/25 Rutland Street, Auckland Central, Auckland City",$370 per week,Apartment,1,1,Non furnished,,,,,
+,,,,,,,,,,"Message: timeout: Timed out receiving message from renderer: 258.238
+  (Session info: chrome=118.0.5993.70)
+Stacktrace:
+0   chromedriver                        0x0000000100864510 chromedriver + 4310288
+1   chromedriver                        0x000000010085c4bc chromedriver + 4277436
+2   chromedriver                        0x000000010048fb6c chromedriver + 293740
+3   chromedriver                        0x0000000100477f54 chromedriver + 196436
+4   chromedriver                        0x0000000100477d60 chromedriver + 195936
+5   chromedriver                        0x00000001004761ac chromedriver + 188844
+6   chromedriver                        0x0000000100476e1c chromedriver + 192028
+7   chromedriver                        0x00000001004863d0 chromedriver + 254928
+8   chromedriver                        0x000000010049b140 chromedriver + 340288
+9   chromedriver                        0x000000010047756c chromedriver + 193900
+10  chromedriver                        0x000000010049af64 chromedriver + 339812
+11  chromedriver                        0x000000010050ffac chromedriver + 819116
+12  chromedriver                        0x00000001004c8fd0 chromedriver + 528336
+13  chromedriver                        0x00000001004c9e7c chromedriver + 532092
+14  chromedriver                        0x000000010082a834 chromedriver + 4073524
+15  chromedriver                        0x000000010082e7fc chromedriver + 4089852
+16  chromedriver                        0x000000010082ec58 chromedriver + 4090968
+17  chromedriver                        0x00000001008348f8 chromedriver + 4114680
+18  chromedriver                        0x000000010082f234 chromedriver + 4092468
+19  chromedriver                        0x0000000100809604 chromedriver + 3937796
+20  chromedriver                        0x000000010084bee8 chromedriver + 4210408
+21  chromedriver                        0x000000010084c064 chromedriver + 4210788
+22  chromedriver                        0x000000010085c134 chromedriver + 4276532
+23  libsystem_pthread.dylib             0x000000018a7be26c _pthread_start + 148
+24  libsystem_pthread.dylib             0x000000018a7b908c thread_start + 8
+"
+"4G/16 Market Place Viaduct, Auckland Central, Auckland City",$520 per week,Apartment,1,1,,,,1 Separate toilet,,
+"29/139 Quay Street, Auckland Central, Auckland City",$790 per week,Apartment,1,1,Furnished,,,,,
+"147 Quay Street, Auckland Central, Auckland City",$780 per week,Apartment,1,1,Furnished,,,,,
+"174A White Swan Road, Mount Roskill, Auckland City",$695 per week,House,3,2,1,2,Non furnished,,,
+"B3/15 Scanlan Street, Grey Lynn, Auckland City",$750 per week,Townhouse,2,1,1,Non furnished,,,,
+,,,,,,,,,,"Message: timeout: Timed out receiving message from renderer: 260.897
+  (Session info: chrome=118.0.5993.70)
+Stacktrace:
+0   chromedriver                        0x0000000100864510 chromedriver + 4310288
+1   chromedriver                        0x000000010085c4bc chromedriver + 4277436
+2   chromedriver                        0x000000010048fb6c chromedriver + 293740
+3   chromedriver                        0x0000000100477f54 chromedriver + 196436
+4   chromedriver                        0x0000000100477d60 chromedriver + 195936
+5   chromedriver                        0x00000001004761ac chromedriver + 188844
+6   chromedriver                        0x0000000100476e1c chromedriver + 192028
+7   chromedriver                        0x00000001004863d0 chromedriver + 254928
+8   chromedriver                        0x000000010049b140 chromedriver + 340288
+9   chromedriver                        0x000000010047756c chromedriver + 193900
+10  chromedriver                        0x000000010049af64 chromedriver + 339812
+11  chromedriver                        0x000000010050ffac chromedriver + 819116
+12  chromedriver                        0x00000001004c8fd0 chromedriver + 528336
+13  chromedriver                        0x00000001004c9e7c chromedriver + 532092
+14  chromedriver                        0x000000010082a834 chromedriver + 4073524
+15  chromedriver                        0x000000010082e7fc chromedriver + 4089852
+16  chromedriver                        0x000000010082ec58 chromedriver + 4090968
+17  chromedriver                        0x00000001008348f8 chromedriver + 4114680
+18  chromedriver                        0x000000010082f234 chromedriver + 4092468
+19  chromedriver                        0x0000000100809604 chromedriver + 3937796
+20  chromedriver                        0x000000010084bee8 chromedriver + 4210408
+21  chromedriver                        0x000000010084c064 chromedriver + 4210788
+22  chromedriver                        0x000000010085c134 chromedriver + 4276532
+23  libsystem_pthread.dylib             0x000000018a7be26c _pthread_start + 148
+24  libsystem_pthread.dylib             0x000000018a7b908c thread_start + 8
+"
+,,,,,,,,,,"Message: timeout: Timed out receiving message from renderer: 288.820
+  (Session info: chrome=118.0.5993.70)
+Stacktrace:
+0   chromedriver                        0x0000000100864510 chromedriver + 4310288
+1   chromedriver                        0x000000010085c4bc chromedriver + 4277436
+2   chromedriver                        0x000000010048fb6c chromedriver + 293740
+3   chromedriver                        0x0000000100477f54 chromedriver + 196436
+4   chromedriver                        0x0000000100477d60 chromedriver + 195936
+5   chromedriver                        0x00000001004761ac chromedriver + 188844
+6   chromedriver                        0x0000000100476e1c chromedriver + 192028
+7   chromedriver                        0x00000001004863d0 chromedriver + 254928
+8   chromedriver                        0x000000010049b140 chromedriver + 340288
+9   chromedriver                        0x000000010047756c chromedriver + 193900
+10  chromedriver                        0x000000010049af64 chromedriver + 339812
+11  chromedriver                        0x000000010050ffac chromedriver + 819116
+12  chromedriver                        0x00000001004c8fd0 chromedriver + 528336
+13  chromedriver                        0x00000001004c9e7c chromedriver + 532092
+14  chromedriver                        0x000000010082a834 chromedriver + 4073524
+15  chromedriver                        0x000000010082e7fc chromedriver + 4089852
+16  chromedriver                        0x000000010082ec58 chromedriver + 4090968
+17  chromedriver                        0x00000001008348f8 chromedriver + 4114680
+18  chromedriver                        0x000000010082f234 chromedriver + 4092468
+19  chromedriver                        0x0000000100809604 chromedriver + 3937796
+20  chromedriver                        0x000000010084bee8 chromedriver + 4210408
+21  chromedriver                        0x000000010084c064 chromedriver + 4210788
+22  chromedriver                        0x000000010085c134 chromedriver + 4276532
+23  libsystem_pthread.dylib             0x000000018a7be26c _pthread_start + 148
+24  libsystem_pthread.dylib             0x000000018a7b908c thread_start + 8
+"
+"3/1223 New North Road, Mount Albert, Auckland City",$580 per week,Unit,3,1,2,Non furnished,,,,
+"2/24 West End Road, Herne Bay, Auckland City","$1,795 per week",House,7,2,Non furnished,,,,,
+"1006/8 Ronayne Street, Auckland Central, Auckland City",$780 per week,Apartment,2,2,2,Furnished,,,,
+"10 Green Lane East, Remuera, Auckland City","$1,250 per week",House,5,2,2,4,Non furnished,,,
+"G06/246 Khyber Pass Rd, Newmarket, Auckland City",$750 per week,House,2,1,,,,1 Separate toilet,,
+"132 Allum Road, Kohimarama, Auckland City",$500 per week,Unit,1,1,1,Furnished,,,,
+"6 Ruarangi Road, Mount Albert, Auckland City",$535 per week,House,1,1,1,Non furnished,,,,
+"6E 2 Queen Street, Auckland Central, Auckland City","$1,500 per week",Apartment,2,2,1,,,,,
+"39 Sackville Street, Grey Lynn, Auckland City",$420 per week,Unit,1,1,1,Non furnished,,,,
+"36D Staveley Avenue, Mount Roskill, Auckland City","$1,000 per week",Unit,4,3,1,1,Non furnished,,,
+"2/38 Marjorie Jayne Crescent, Otahuhu, Auckland City",$635 per week,Unit,3,1,1,1,Non furnished,,,
+"40 Eastbourne Road, Remuera, Auckland City","$2,980 per week",House,4,4,2,3,,,,
+"34 Kingston Street, Auckland Central, Auckland City",$425 per week,Apartment,1,1,,,,8 storey,,
+"33/139 Quay Street, Auckland Central, Auckland City",$825 per week,Apartment,1,1,Furnished,,,,,
+"1/51 Aranui Road, Mount Wellington, Auckland City",$950 per week,Townhouse,4,3,3,Non furnished,,,,
+"145 Quay Street, Auckland Central, Auckland City","$1,800 per week",Apartment,3,2,Furnished,,,,,
+"43 Ash Street, Avondale, Auckland City",$750 per week,House,3,2,3,Non furnished,,,,
+"5/137 Jervois Road, Herne Bay, Auckland City",$595 per week,Unit,1,1,1,Non furnished,,,,
+"717/430 Queen Street, Auckland Central, Auckland City",$580 per week,Apartment,2,1,Furnished,,,,,
+"7/118 Grafton Road, Grafton, Auckland City",$690 per week,Unit,3,1,2,,,,,
+"L8/30 Symonds Street, Auckland Central, Auckland City",$450 per week,Apartment,2,1,Furnished,,,,,
+"3/285 Point Chevalier Road, Point Chevalier, Auckland City",$980 per week,House,4,2,2,,,,,
+"6 Winchester Street, Grey Lynn, Auckland City",$870 per week,Apartment,3,1,1,Furnished,,,,
+"35 Saxon Street, Waterview, Auckland City","$1,100 per week",House,4,2,1,Furnished,,,,
+"1 Enfield Street, Mount Eden, Auckland City","$1,099 per week",Apartment,2,2,1,Furnished,,,,
+"161A Portland Road, Remuera, Auckland City","$1,250 per week",House,5,3,3,1,Non furnished,,,
+"122/72 Nelson Street, Auckland Central, Auckland City",$495 per week,Apartment,2,1,Furnished,,,,,
+"3E/182 Federal St, Auckland Central, Auckland City",$560 per week,House,2,1,,,,,,
+"1/341 Hillsborough Road, Hillsborough, Auckland City","$1,000 per week",House,4,3,2,2,Non furnished,,,
+"3/70 Ashby Avenue, Saint Heliers, Auckland City",$535 per week,Apartment,2,1,1,,,,,
+"2/14 Richard Farrell Avenue, Remuera, Auckland City",$420 per week,House,1,1,1,Non furnished,,,,
+,,,,,,,,,,"Message: timeout: Timed out receiving message from renderer: 264.848
+  (Session info: chrome=118.0.5993.70)
+Stacktrace:
+0   chromedriver                        0x0000000100864510 chromedriver + 4310288
+1   chromedriver                        0x000000010085c4bc chromedriver + 4277436
+2   chromedriver                        0x000000010048fb6c chromedriver + 293740
+3   chromedriver                        0x0000000100477f54 chromedriver + 196436
+4   chromedriver                        0x0000000100477d60 chromedriver + 195936
+5   chromedriver                        0x00000001004761ac chromedriver + 188844
+6   chromedriver                        0x0000000100476e1c chromedriver + 192028
+7   chromedriver                        0x00000001004863d0 chromedriver + 254928
+8   chromedriver                        0x000000010049b140 chromedriver + 340288
+9   chromedriver                        0x000000010047756c chromedriver + 193900
+10  chromedriver                        0x000000010049af64 chromedriver + 339812
+11  chromedriver                        0x000000010050ffac chromedriver + 819116
+12  chromedriver                        0x00000001004c8fd0 chromedriver + 528336
+13  chromedriver                        0x00000001004c9e7c chromedriver + 532092
+14  chromedriver                        0x000000010082a834 chromedriver + 4073524
+15  chromedriver                        0x000000010082e7fc chromedriver + 4089852
+16  chromedriver                        0x000000010082ec58 chromedriver + 4090968
+17  chromedriver                        0x00000001008348f8 chromedriver + 4114680
+18  chromedriver                        0x000000010082f234 chromedriver + 4092468
+19  chromedriver                        0x0000000100809604 chromedriver + 3937796
+20  chromedriver                        0x000000010084bee8 chromedriver + 4210408
+21  chromedriver                        0x000000010084c064 chromedriver + 4210788
+22  chromedriver                        0x000000010085c134 chromedriver + 4276532
+23  libsystem_pthread.dylib             0x000000018a7be26c _pthread_start + 148
+24  libsystem_pthread.dylib             0x000000018a7b908c thread_start + 8
+"
+"8 Hereford Street, Freemans Bay, Auckland City",$655 per week,Apartment,1,1,1,,,,,
+"25 Gibraltar Crescent, Parnell, Auckland City","$3,500 per week",House,3,3,2,,,,,
+"52A Carlton Gore Road, Grafton, Auckland City",$580 per week,Unit,2,1,Non furnished,,,,,
+"603/1 Enfield Street, Mount Eden, Auckland City","$2,199 per week",Apartment,3,2,2,Furnished,,,,
+"3/91 Sarsfield Street, Herne Bay, Auckland City",$850 per week,House,3,1,Non furnished,,,,,
+"34 Morning Side Drive, Mount Albert, Auckland City",$580 per week,House,2,1,1,1,Non furnished,,,
+"14 Keystone Avenue, Mount Roskill, Auckland City","$1,300 per week",House,5,2,3,Furnished,,,,
+"2 Auckland Road, Saint Heliers, Auckland City","$1,875 per week",House,4,3,2,New build,,,,
+"10/277 Mt Eden Road, Mount Eden, Auckland City",$675 per week,Apartment,3,1,Non furnished,,,,,
+"31 Day Street, Auckland Central, Auckland City",$695 per week,Apartment,1,1,1,Furnished,,,,
+"1/35 Brown Street, Ponsonby, Auckland City","$1,000 per week",House,4,1,1,Non furnished,,,,
+"72 Nelson Street, Auckland Central, Auckland City",$375 per week,Apartment,1,1,,,,5 storey,,
+"7B/15 Mount Street, Auckland Central, Auckland City",$650 per week,Apartment,2,1,1,Furnished,,,,
+"4A Prospero Terrace, Mount Albert, Auckland City",$525 per week,Unit,1,1,1,Non furnished,,,,
+"4/56 Felton Mathew Ave, Saint Johns, Auckland City",$495 per week,House,2,1,,,,,,
+"701/85 Nuffield Street, Newmarket, Auckland City","$1,200 per week",Apartment,2,2,1,,,,,
+"35B Wallace Street, Herne Bay, Auckland City","$1,450 per week",House,4,2,2,Non furnished,,,,
+"32A Carbine Road, Mount Wellington, Auckland City",$300 per week,House,1,1,3,,,,,
+"165A Line Road, Glen Innes, Auckland City",$560 per week,House,3,1,Non furnished,,,,,
+"309/59 France Street, Eden Terrace, Auckland City",$800 per week,Apartment,2,1,,,,Pets allowed,,
+"5AL/14 Waterloo Quadrant , Auckland Central, Auckland City",$750 per week,Apartment,2,2,115m2,1,,,,
+"A/66 Rawhitiroa Road, Kohimarama, Auckland City","$1,550 per week",House,4,3,2,1,Non furnished,,,
+"3/14 Tomuri Place, Mount Wellington, Auckland City","$1,100 per week",House,4,4,,,,3 storey,,
+"6/14 Tomuri Place, Mount Wellington, Auckland City","$1,100 per week",House,4,4,,,,3 storey,,
+"4/14 Tomuri PLace, Mount Wellington, Auckland City","$1,100 per week",House,4,4,,,,3 storey,,
+"5/14 Tomuri Place, Mount Wellington, Auckland City","$1,100 per week",House,4,4,,,,3 storey,,
+"35 Chesterfield Ave, Glendowie, Auckland City","$1,250 per week",Townhouse,3,2,1,1,Non furnished,,,
+"4/3 Eden Crescent, Auckland Central, Auckland City",$700 per week,Apartment,2,1,1,Furnished,,,,
+"3C Ngatiawa Street, One Tree Hill, Auckland City",$750 per week,House,3,1,2,,,,,
+"2/22 St Leonards Rd, Mount Eden, Auckland City",$440 per week,Unit,1,1,1,,,,,
+"430 Queen Street, Auckland Central, Auckland City",$520 per week,Apartment,2,1,,,,17 storey,,
+"9 Princes Street, Auckland Central, Auckland City","$2,200 per week",Apartment,2,2,178m2,1,,,,
+"32 Queen Mary Avenue, Epsom, Auckland City","$1,850 per week",House,5,3,2,4,Non furnished,,,
+"64/139 Quay Street, , Auckland Central, Auckland City","$1,095 per week",Apartment,2,1,,,,,,
+"21XX/6 Lorne Street, Auckland Central, Auckland City",$980 per week,Apartment,2,2,1 ensuite,,,,,
+"701 Great North Road, Grey Lynn, Auckland City","$1,250 per week",House,5,2,4,Non furnished,,,,
+"76 Albert Street, Auckland Central, Auckland City",$530 per week,Apartment,2,1,Furnished,,,,,
+"8 Airedale , Auckland Central, Auckland City",$580 per week,Apartment,1,1,,,,10 storey,,
+"1 Clare Place, Mount Wellington, Auckland City",$690 per week,House,3,1,,,,1 storey,,
+"18 Charlton Avenue, Mount Eden, Auckland City","$1,850 per week",House,5,4,2,2,Furnished,,,
+"12 Waima Street, Grey Lynn, Auckland City","$1,500 per week",House,7,2,,,,,,
+"57A Anita Avenue, Mount Roskill, Auckland City",$890 per week,Townhouse,4,3,Non furnished,,,,,
+"83 Grand Drive, Remuera, Auckland City",$940 per week,Townhouse,3,2,New build,,,,,
+"10/5 Orakei Road, Remuera, Auckland City",$635 per week,Unit,1,1,Non furnished,,,,,
+"22 Roseville Street, New Windsor, Auckland City",$585 per week,House,3,1,Non furnished,,,,,
+"9/3 Eden Crescent, Auckland Central, Auckland City",$620 per week,Apartment,2,1,1,,,,,
+"4/326 Mt Eden Road, Mount Eden, Auckland City",$550 per week,Unit,2,1,1,Non furnished,,,,
+"33 Dovedale Place, Parnell, Auckland City",$800 per week,Townhouse,3,2,1,,,,,
+"21 Parawai Crescent , Ponsonby, Auckland City",$925 per week,House,3,1,Non furnished,,,,,
+"7/22 Oak Street, Royal Oak, Auckland City",$320 per week,House,1,1,Non furnished,,,,,
+,,,,,,,,,,"Message: timeout: Timed out receiving message from renderer: 247.218
+  (Session info: chrome=118.0.5993.70)
+Stacktrace:
+0   chromedriver                        0x0000000100864510 chromedriver + 4310288
+1   chromedriver                        0x000000010085c4bc chromedriver + 4277436
+2   chromedriver                        0x000000010048fb6c chromedriver + 293740
+3   chromedriver                        0x0000000100477f54 chromedriver + 196436
+4   chromedriver                        0x0000000100477d60 chromedriver + 195936
+5   chromedriver                        0x00000001004761ac chromedriver + 188844
+6   chromedriver                        0x0000000100476e1c chromedriver + 192028
+7   chromedriver                        0x00000001004863d0 chromedriver + 254928
+8   chromedriver                        0x000000010049b140 chromedriver + 340288
+9   chromedriver                        0x000000010047756c chromedriver + 193900
+10  chromedriver                        0x000000010049af64 chromedriver + 339812
+11  chromedriver                        0x000000010050ffac chromedriver + 819116
+12  chromedriver                        0x00000001004c8fd0 chromedriver + 528336
+13  chromedriver                        0x00000001004c9e7c chromedriver + 532092
+14  chromedriver                        0x000000010082a834 chromedriver + 4073524
+15  chromedriver                        0x000000010082e7fc chromedriver + 4089852
+16  chromedriver                        0x000000010082ec58 chromedriver + 4090968
+17  chromedriver                        0x00000001008348f8 chromedriver + 4114680
+18  chromedriver                        0x000000010082f234 chromedriver + 4092468
+19  chromedriver                        0x0000000100809604 chromedriver + 3937796
+20  chromedriver                        0x000000010084bee8 chromedriver + 4210408
+21  chromedriver                        0x000000010084c064 chromedriver + 4210788
+22  chromedriver                        0x000000010085c134 chromedriver + 4276532
+23  libsystem_pthread.dylib             0x000000018a7be26c _pthread_start + 148
+24  libsystem_pthread.dylib             0x000000018a7b908c thread_start + 8
+"
+"24 Paku Lane, Mount Wellington, Auckland City",$895 per week,House,4,2,1,1,,,,
+"D/72 Fairburn Road, Otahuhu, Auckland City",Additional features,Townhouse,3,2,139m2,1,,,,
+"D/72 Fairburn Road, Otahuhu, Auckland City",Otahuhu insights,Townhouse,3,2,139m2,1,,,,
+"G01/45 Union Street, Auckland Central, Auckland City",$700 per week,Apartment,2,1,Furnished,,,,,
+,,,,,,,,,,"Message: timeout: Timed out receiving message from renderer: 270.312
+  (Session info: chrome=118.0.5993.70)
+Stacktrace:
+0   chromedriver                        0x0000000100864510 chromedriver + 4310288
+1   chromedriver                        0x000000010085c4bc chromedriver + 4277436
+2   chromedriver                        0x000000010048fb6c chromedriver + 293740
+3   chromedriver                        0x0000000100477f54 chromedriver + 196436
+4   chromedriver                        0x0000000100477d60 chromedriver + 195936
+5   chromedriver                        0x00000001004761ac chromedriver + 188844
+6   chromedriver                        0x0000000100476e1c chromedriver + 192028
+7   chromedriver                        0x00000001004863d0 chromedriver + 254928
+8   chromedriver                        0x000000010049b140 chromedriver + 340288
+9   chromedriver                        0x000000010047756c chromedriver + 193900
+10  chromedriver                        0x000000010049af64 chromedriver + 339812
+11  chromedriver                        0x000000010050ffac chromedriver + 819116
+12  chromedriver                        0x00000001004c8fd0 chromedriver + 528336
+13  chromedriver                        0x00000001004c9e7c chromedriver + 532092
+14  chromedriver                        0x000000010082a834 chromedriver + 4073524
+15  chromedriver                        0x000000010082e7fc chromedriver + 4089852
+16  chromedriver                        0x000000010082ec58 chromedriver + 4090968
+17  chromedriver                        0x00000001008348f8 chromedriver + 4114680
+18  chromedriver                        0x000000010082f234 chromedriver + 4092468
+19  chromedriver                        0x0000000100809604 chromedriver + 3937796
+20  chromedriver                        0x000000010084bee8 chromedriver + 4210408
+21  chromedriver                        0x000000010084c064 chromedriver + 4210788
+22  chromedriver                        0x000000010085c134 chromedriver + 4276532
+23  libsystem_pthread.dylib             0x000000018a7be26c _pthread_start + 148
+24  libsystem_pthread.dylib             0x000000018a7b908c thread_start + 8
+"
+"PU17/36-38 Parry Road, Mount Wellington, Auckland City",$660 per week,Townhouse,2,1,1,Furnished,,,,
+"102 Taniwha Street, Waiotaiki Bay, Auckland City",$600 per week,House,2,1,1,,,,,
+"6/960 New North Road, Mount Albert, Auckland City",$650 per week,Apartment,3,1,Non furnished,,,,,
+"GF/83 New North Road, Eden Terrace, Auckland City",$530 per week,Apartment,1,1,1,,,,,
+"103/70 Pitt Street, Auckland Central, Auckland City",$650 per week,Apartment,2,2,Furnished,,,,,
+,,,,,,,,,,"Message: timeout: Timed out receiving message from renderer: 237.219
+  (Session info: chrome=118.0.5993.70)
+Stacktrace:
+0   chromedriver                        0x0000000100864510 chromedriver + 4310288
+1   chromedriver                        0x000000010085c4bc chromedriver + 4277436
+2   chromedriver                        0x000000010048fb6c chromedriver + 293740
+3   chromedriver                        0x0000000100477f54 chromedriver + 196436
+4   chromedriver                        0x0000000100477d60 chromedriver + 195936
+5   chromedriver                        0x00000001004761ac chromedriver + 188844
+6   chromedriver                        0x0000000100476e1c chromedriver + 192028
+7   chromedriver                        0x00000001004863d0 chromedriver + 254928
+8   chromedriver                        0x000000010049b140 chromedriver + 340288
+9   chromedriver                        0x000000010047756c chromedriver + 193900
+10  chromedriver                        0x000000010049af64 chromedriver + 339812
+11  chromedriver                        0x000000010050ffac chromedriver + 819116
+12  chromedriver                        0x00000001004c8fd0 chromedriver + 528336
+13  chromedriver                        0x00000001004c9e7c chromedriver + 532092
+14  chromedriver                        0x000000010082a834 chromedriver + 4073524
+15  chromedriver                        0x000000010082e7fc chromedriver + 4089852
+16  chromedriver                        0x000000010082ec58 chromedriver + 4090968
+17  chromedriver                        0x00000001008348f8 chromedriver + 4114680
+18  chromedriver                        0x000000010082f234 chromedriver + 4092468
+19  chromedriver                        0x0000000100809604 chromedriver + 3937796
+20  chromedriver                        0x000000010084bee8 chromedriver + 4210408
+21  chromedriver                        0x000000010084c064 chromedriver + 4210788
+22  chromedriver                        0x000000010085c134 chromedriver + 4276532
+23  libsystem_pthread.dylib             0x000000018a7be26c _pthread_start + 148
+24  libsystem_pthread.dylib             0x000000018a7b908c thread_start + 8
+"
+"L2/11 Pakenham Steet, Auckland Central, Auckland City",$75 per week,Carpark,1,,,,,,,
+"L2A/8 Upper Queen Street, Auckland Central, Auckland City",$500 per week,Apartment,1,1,Furnished,,,,,
+"210 Richmond Road, Grey Lynn, Auckland City","$1,750 per week",House,6,2,2,Non furnished,,,,
+"150B Tripoli Road, Point England, Auckland City",$990 per week,House,4,3,2,Non furnished,,,,
+"430 Queen Street, Auckland Central, Auckland City",$530 per week,Apartment,2,1,,,,,,
+"4H/19 Fleet Street, Eden Terrace, Auckland City",$695 per week,House,2,1,1,,,,,
+"104/2 Finch Street, Morningside, Auckland City",$570 per week,House,1,1,,,,,,
+"1/65 Selwyn Avenue, Mission Bay, Auckland City",$795 per week,House,3,1,2,Non furnished,,,,
+"14 brookland Place, Remuera, Auckland City","$1,250 per week",House,4,3,2,3,1 ensuite,,,
+,,,,,,,,,,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""h1[data-test='listing-title']""}
+  (Session info: chrome=118.0.5993.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000100864510 chromedriver + 4310288
+1   chromedriver                        0x000000010085c4bc chromedriver + 4277436
+2   chromedriver                        0x000000010048fb6c chromedriver + 293740
+3   chromedriver                        0x00000001004d5040 chromedriver + 577600
+4   chromedriver                        0x000000010050fe60 chromedriver + 818784
+5   chromedriver                        0x00000001004c8fd0 chromedriver + 528336
+6   chromedriver                        0x00000001004c9e7c chromedriver + 532092
+7   chromedriver                        0x000000010082a834 chromedriver + 4073524
+8   chromedriver                        0x000000010082e7fc chromedriver + 4089852
+9   chromedriver                        0x000000010082ec58 chromedriver + 4090968
+10  chromedriver                        0x00000001008348f8 chromedriver + 4114680
+11  chromedriver                        0x000000010082f234 chromedriver + 4092468
+12  chromedriver                        0x0000000100809604 chromedriver + 3937796
+13  chromedriver                        0x000000010084bee8 chromedriver + 4210408
+14  chromedriver                        0x000000010084c064 chromedriver + 4210788
+15  chromedriver                        0x000000010085c134 chromedriver + 4276532
+16  libsystem_pthread.dylib             0x000000018a7be26c _pthread_start + 148
+17  libsystem_pthread.dylib             0x000000018a7b908c thread_start + 8
+"
+"406/138 Anzac Ave, Auckland Central, Auckland City",$320 per week,Apartment,1,1,1 ensuite,,,,,
+"121/72 Nelson St , Auckland Central, Auckland City",$470 per week,Apartment,2,1,,,,,,
+,,,,,,,,,,"Message: timeout: Timed out receiving message from renderer: 291.965
+  (Session info: chrome=118.0.5993.70)
+Stacktrace:
+0   chromedriver                        0x0000000100864510 chromedriver + 4310288
+1   chromedriver                        0x000000010085c4bc chromedriver + 4277436
+2   chromedriver                        0x000000010048fb6c chromedriver + 293740
+3   chromedriver                        0x0000000100477f54 chromedriver + 196436
+4   chromedriver                        0x0000000100477d60 chromedriver + 195936
+5   chromedriver                        0x00000001004761ac chromedriver + 188844
+6   chromedriver                        0x0000000100476e1c chromedriver + 192028
+7   chromedriver                        0x00000001004863d0 chromedriver + 254928
+8   chromedriver                        0x000000010049b140 chromedriver + 340288
+9   chromedriver                        0x000000010047756c chromedriver + 193900
+10  chromedriver                        0x000000010049af64 chromedriver + 339812
+11  chromedriver                        0x000000010050ffac chromedriver + 819116
+12  chromedriver                        0x00000001004c8fd0 chromedriver + 528336
+13  chromedriver                        0x00000001004c9e7c chromedriver + 532092
+14  chromedriver                        0x000000010082a834 chromedriver + 4073524
+15  chromedriver                        0x000000010082e7fc chromedriver + 4089852
+16  chromedriver                        0x000000010082ec58 chromedriver + 4090968
+17  chromedriver                        0x00000001008348f8 chromedriver + 4114680
+18  chromedriver                        0x000000010082f234 chromedriver + 4092468
+19  chromedriver                        0x0000000100809604 chromedriver + 3937796
+20  chromedriver                        0x000000010084bee8 chromedriver + 4210408
+21  chromedriver                        0x000000010084c064 chromedriver + 4210788
+22  chromedriver                        0x000000010085c134 chromedriver + 4276532
+23  libsystem_pthread.dylib             0x000000018a7be26c _pthread_start + 148
+24  libsystem_pthread.dylib             0x000000018a7b908c thread_start + 8
+"
+"4/183 Mt Albert Road, Sandringham, Auckland City",$620 per week,Unit,2,1,1,1,Non furnished,,,
+"6/245 Gillies Avenue, Epsom, Auckland City","$1,350 per week",House,4,3,2,,,,,
+"12/10 Ngauruhoe Street, Mount Eden, Auckland City",$470 per week,Unit,1,1,Non furnished,,,,,
+"1/92 Princes Street, Otahuhu, Auckland City",$420 per week,Unit,1,1,1,Non furnished,,,,
+,,,,,,,,,,"Message: timeout: Timed out receiving message from renderer: 293.034
+  (Session info: chrome=118.0.5993.70)
+Stacktrace:
+0   chromedriver                        0x0000000100864510 chromedriver + 4310288
+1   chromedriver                        0x000000010085c4bc chromedriver + 4277436
+2   chromedriver                        0x000000010048fb6c chromedriver + 293740
+3   chromedriver                        0x0000000100477f54 chromedriver + 196436
+4   chromedriver                        0x0000000100477d60 chromedriver + 195936
+5   chromedriver                        0x00000001004761ac chromedriver + 188844
+6   chromedriver                        0x0000000100476e1c chromedriver + 192028
+7   chromedriver                        0x00000001004863d0 chromedriver + 254928
+8   chromedriver                        0x000000010049b140 chromedriver + 340288
+9   chromedriver                        0x000000010047756c chromedriver + 193900
+10  chromedriver                        0x000000010049af64 chromedriver + 339812
+11  chromedriver                        0x000000010050ffac chromedriver + 819116
+12  chromedriver                        0x00000001004c8fd0 chromedriver + 528336
+13  chromedriver                        0x00000001004c9e7c chromedriver + 532092
+14  chromedriver                        0x000000010082a834 chromedriver + 4073524
+15  chromedriver                        0x000000010082e7fc chromedriver + 4089852
+16  chromedriver                        0x000000010082ec58 chromedriver + 4090968
+17  chromedriver                        0x00000001008348f8 chromedriver + 4114680
+18  chromedriver                        0x000000010082f234 chromedriver + 4092468
+19  chromedriver                        0x0000000100809604 chromedriver + 3937796
+20  chromedriver                        0x000000010084bee8 chromedriver + 4210408
+21  chromedriver                        0x000000010084c064 chromedriver + 4210788
+22  chromedriver                        0x000000010085c134 chromedriver + 4276532
+23  libsystem_pthread.dylib             0x000000018a7be26c _pthread_start + 148
+24  libsystem_pthread.dylib             0x000000018a7b908c thread_start + 8
+"
+,,,,,,,,,,"Message: timeout: Timed out receiving message from renderer: 256.282
+  (Session info: chrome=118.0.5993.70)
+Stacktrace:
+0   chromedriver                        0x0000000100864510 chromedriver + 4310288
+1   chromedriver                        0x000000010085c4bc chromedriver + 4277436
+2   chromedriver                        0x000000010048fb6c chromedriver + 293740
+3   chromedriver                        0x0000000100477f54 chromedriver + 196436
+4   chromedriver                        0x0000000100477d60 chromedriver + 195936
+5   chromedriver                        0x00000001004761ac chromedriver + 188844
+6   chromedriver                        0x0000000100476e1c chromedriver + 192028
+7   chromedriver                        0x00000001004863d0 chromedriver + 254928
+8   chromedriver                        0x000000010049b140 chromedriver + 340288
+9   chromedriver                        0x000000010047756c chromedriver + 193900
+10  chromedriver                        0x000000010049af64 chromedriver + 339812
+11  chromedriver                        0x000000010050ffac chromedriver + 819116
+12  chromedriver                        0x00000001004c8fd0 chromedriver + 528336
+13  chromedriver                        0x00000001004c9e7c chromedriver + 532092
+14  chromedriver                        0x000000010082a834 chromedriver + 4073524
+15  chromedriver                        0x000000010082e7fc chromedriver + 4089852
+16  chromedriver                        0x000000010082ec58 chromedriver + 4090968
+17  chromedriver                        0x00000001008348f8 chromedriver + 4114680
+18  chromedriver                        0x000000010082f234 chromedriver + 4092468
+19  chromedriver                        0x0000000100809604 chromedriver + 3937796
+20  chromedriver                        0x000000010084bee8 chromedriver + 4210408
+21  chromedriver                        0x000000010084c064 chromedriver + 4210788
+22  chromedriver                        0x000000010085c134 chromedriver + 4276532
+23  libsystem_pthread.dylib             0x000000018a7be26c _pthread_start + 148
+24  libsystem_pthread.dylib             0x000000018a7b908c thread_start + 8
+"
+"1A/1 Haverstock, Sandringham, Auckland City",$670 per week,House,3,1,1,1,,,,
+,,,,,,,,,,"Message: timeout: Timed out receiving message from renderer: 288.722
+  (Session info: chrome=118.0.5993.70)
+Stacktrace:
+0   chromedriver                        0x0000000100864510 chromedriver + 4310288
+1   chromedriver                        0x000000010085c4bc chromedriver + 4277436
+2   chromedriver                        0x000000010048fb6c chromedriver + 293740
+3   chromedriver                        0x0000000100477f54 chromedriver + 196436
+4   chromedriver                        0x0000000100477d60 chromedriver + 195936
+5   chromedriver                        0x00000001004761ac chromedriver + 188844
+6   chromedriver                        0x0000000100476e1c chromedriver + 192028
+7   chromedriver                        0x00000001004863d0 chromedriver + 254928
+8   chromedriver                        0x000000010049b140 chromedriver + 340288
+9   chromedriver                        0x000000010047756c chromedriver + 193900
+10  chromedriver                        0x000000010049af64 chromedriver + 339812
+11  chromedriver                        0x000000010050ffac chromedriver + 819116
+12  chromedriver                        0x00000001004c8fd0 chromedriver + 528336
+13  chromedriver                        0x00000001004c9e7c chromedriver + 532092
+14  chromedriver                        0x000000010082a834 chromedriver + 4073524
+15  chromedriver                        0x000000010082e7fc chromedriver + 4089852
+16  chromedriver                        0x000000010082ec58 chromedriver + 4090968
+17  chromedriver                        0x00000001008348f8 chromedriver + 4114680
+18  chromedriver                        0x000000010082f234 chromedriver + 4092468
+19  chromedriver                        0x0000000100809604 chromedriver + 3937796
+20  chromedriver                        0x000000010084bee8 chromedriver + 4210408
+21  chromedriver                        0x000000010084c064 chromedriver + 4210788
+22  chromedriver                        0x000000010085c134 chromedriver + 4276532
+23  libsystem_pthread.dylib             0x000000018a7be26c _pthread_start + 148
+24  libsystem_pthread.dylib             0x000000018a7b908c thread_start + 8
+"
+"20A Jamaica Place, Blockhouse Bay, Auckland City",$800 per week,Townhouse,4,2,1,1 ensuite,,,,
+"2/1976 Great North Road, Avondale, Auckland City",$590 per week,Apartment,2,1,,,,1 storey,,
+"4D/34 Kingston Street, Auckland Central, Auckland City",$450 per week,Apartment,2,1,Furnished,,,,,
+"17 Wimbledon Way, Remuera, Auckland City",$900 per week,House,3,1,2,Furnished,,,,
+"72 Nelson Street, Auckland Central, Auckland City",$480 per week,Apartment,2,1,,,,10 storey,,
+"13 Linden Street, Mount Roskill, Auckland City",$650 per week,House,2,1,Non furnished,,,,,
+"Q/35 Garnet Road, Westmere, Auckland City",$860 per week,Townhouse,3,2,2,1 ensuite,,,,
+"7 Elam Street, Parnell, Auckland City","$1,895 per week",House,3,3,265m2,2,,,,
+"3/683 Great South Road, Otahuhu, Auckland City",$425 per week,Unit,2,1,Non furnished,,,,,
+"301/26 Poynton Terrace, Auckland Central, Auckland City",$795 per week,House,2,2,1,,,,,
+"35 Hobson Street, Auckland Central, Auckland City",$465 per week,Apartment,1,1,Furnished,,,,,
+"711/22 Nelson Street, Auckland Central, Auckland City",$500 per week,Apartment,1,1,,,,,,
+"35A Ronaki Road, Mission Bay, Auckland City","$1,050 per week",House,3,2,1,1,1,Non furnished,,
+"65 Selwyn Avenue, Mission Bay, Auckland City",$795 per week,House,3,2,2,Non furnished,,,,
+,,,,,,,,,,"Message: timeout: Timed out receiving message from renderer: 287.732
+  (Session info: chrome=118.0.5993.70)
+Stacktrace:
+0   chromedriver                        0x000000010519c510 chromedriver + 4310288
+1   chromedriver                        0x00000001051944bc chromedriver + 4277436
+2   chromedriver                        0x0000000104dc7b6c chromedriver + 293740
+3   chromedriver                        0x0000000104daff54 chromedriver + 196436
+4   chromedriver                        0x0000000104dafd60 chromedriver + 195936
+5   chromedriver                        0x0000000104dae1ac chromedriver + 188844
+6   chromedriver                        0x0000000104daee1c chromedriver + 192028
+7   chromedriver                        0x0000000104dbe3d0 chromedriver + 254928
+8   chromedriver                        0x0000000104dd3140 chromedriver + 340288
+9   chromedriver                        0x0000000104daf56c chromedriver + 193900
+10  chromedriver                        0x0000000104dd2f64 chromedriver + 339812
+11  chromedriver                        0x0000000104e47fac chromedriver + 819116
+12  chromedriver                        0x0000000104e00fd0 chromedriver + 528336
+13  chromedriver                        0x0000000104e01e7c chromedriver + 532092
+14  chromedriver                        0x0000000105162834 chromedriver + 4073524
+15  chromedriver                        0x00000001051667fc chromedriver + 4089852
+16  chromedriver                        0x0000000105166c58 chromedriver + 4090968
+17  chromedriver                        0x000000010516c8f8 chromedriver + 4114680
+18  chromedriver                        0x0000000105167234 chromedriver + 4092468
+19  chromedriver                        0x0000000105141604 chromedriver + 3937796
+20  chromedriver                        0x0000000105183ee8 chromedriver + 4210408
+21  chromedriver                        0x0000000105184064 chromedriver + 4210788
+22  chromedriver                        0x0000000105194134 chromedriver + 4276532
+23  libsystem_pthread.dylib             0x000000018a7be26c _pthread_start + 148
+24  libsystem_pthread.dylib             0x000000018a7b908c thread_start + 8
+"
+"J/40A Monteith Crescent, Remuera, Auckland City",$980 per week,House,4,2,4,,,,,
+"82 St Marys Road, Saint Marys Bay, Auckland City","$2,300 per week",Apartment,2,3,198m2,4,,,,
+"2149B Great North Road, Avondale, Auckland City",$715 per week,House,3,1,132m2,274m2,2,,,
+"23 Paget Street, Freemans Bay, Auckland City","$2,450 per week",House,3,3,1,,,,,
+"73 Walters Road, Mount Wellington, Auckland City",$560 per week,House,2,1,1,2,Non furnished,,,
+"65A Shackleton Road, Mount Eden, Auckland City",$800 per week,House,3,1,Non furnished,,,,,
+"252 Mount Albert Road, Sandringham, Auckland City",$875 per week,House,3,2,,,,,,
+"503/135 Vincent Street, Auckland Central, Auckland City",$550 per week,Apartment,2,1,Furnished,,,,,
+"1A Kowhatu Road, One Tree Hill, Auckland City",$780 per week,House,3,1,,,,,,
+"1/74 Walmsley Road, Otahuhu, Auckland City",$480 per week,Unit,2,1,Non furnished,,,,,
+"66B Queenstown Road, Onehunga, Auckland City",$525 per week,Unit,2,1,Non furnished,,,,,
+"2/46 School Road, Morningside, Auckland City",$700 per week,Unit,2,1,56m2,1,,,,
+"11/37 Upland Road, Remuera, Auckland City",$950 per week,Townhouse,3,2,1,,,,,
+"137 Quay Street, Auckland Central, Auckland City",$580 per week,Apartment,1,1,,,,,,
+"116/77 Halsey Street, Auckland Central, Auckland City",$500 per week,Apartment,1,1,,,,1 storey,,
+"3 Warwick Avenue, Westmere, Auckland City","$1,295 per week",House,3,2,1,1,Non furnished,,,
+"18 Hobson Street, Auckland Central, Auckland City",$550 per week,Apartment,1,1,,,,,,
+"44 Ivanhoe Road, Grey Lynn, Auckland City",$750 per week,House,3,2,2,1,Non furnished,,,
+"15 Tamora Lane, Avondale, Auckland City",$875 per week,Townhouse,4,2,1,,,,,
+"5/15 Henry Street, Avondale, Auckland City",$790 per week,Townhouse,3,2,1,Non furnished,,,,
+"58 Margot Street, Epsom, Auckland City",$820 per week,House,3,2,2,Non furnished,,,,
+"514/53 Cook Street, Auckland Central, Auckland City",$520 per week,Apartment,2,1,,,,99 storey,,
+"7K/36 Day Street, Auckland Central, Auckland City",$630 per week,Apartment,2,1,1,,,,,
+"306/1 Kimiora Street, Three Kings, Auckland City",$740 per week,Apartment,2,2,1,,,,,
+"9/3 Rocklands Avenue, Mount Eden, Auckland City",$530 per week,Unit,2,1,1,Non furnished,,,,
+"26 Trevola Street, New Windsor, Auckland City",$760 per week,House,3,2,,,,,,
+"4A Westwood Terrace, Saint Marys Bay, Auckland City","$1,850 per week",House,5,2,2,,,,,
+"76 Ronayne Street, Parnell, Auckland City",$450 per week,Studio,1,1,,,,,,
+,,,,,,,,,,"Message: timeout: Timed out receiving message from renderer: 225.173
+  (Session info: chrome=118.0.5993.70)
+Stacktrace:
+0   chromedriver                        0x000000010519c510 chromedriver + 4310288
+1   chromedriver                        0x00000001051944bc chromedriver + 4277436
+2   chromedriver                        0x0000000104dc7b6c chromedriver + 293740
+3   chromedriver                        0x0000000104daff54 chromedriver + 196436
+4   chromedriver                        0x0000000104dafd60 chromedriver + 195936
+5   chromedriver                        0x0000000104dae1ac chromedriver + 188844
+6   chromedriver                        0x0000000104daee1c chromedriver + 192028
+7   chromedriver                        0x0000000104dbe3d0 chromedriver + 254928
+8   chromedriver                        0x0000000104dd3140 chromedriver + 340288
+9   chromedriver                        0x0000000104daf56c chromedriver + 193900
+10  chromedriver                        0x0000000104dd2f64 chromedriver + 339812
+11  chromedriver                        0x0000000104e47fac chromedriver + 819116
+12  chromedriver                        0x0000000104e00fd0 chromedriver + 528336
+13  chromedriver                        0x0000000104e01e7c chromedriver + 532092
+14  chromedriver                        0x0000000105162834 chromedriver + 4073524
+15  chromedriver                        0x00000001051667fc chromedriver + 4089852
+16  chromedriver                        0x0000000105166c58 chromedriver + 4090968
+17  chromedriver                        0x000000010516c8f8 chromedriver + 4114680
+18  chromedriver                        0x0000000105167234 chromedriver + 4092468
+19  chromedriver                        0x0000000105141604 chromedriver + 3937796
+20  chromedriver                        0x0000000105183ee8 chromedriver + 4210408
+21  chromedriver                        0x0000000105184064 chromedriver + 4210788
+22  chromedriver                        0x0000000105194134 chromedriver + 4276532
+23  libsystem_pthread.dylib             0x000000018a7be26c _pthread_start + 148
+24  libsystem_pthread.dylib             0x000000018a7b908c thread_start + 8
+"
+"321 Kohimaramara Rd, St Heliers, Auckland City","$1,150 per week",House,5,2,2,,,,,
+"4/68 Maskell Street, Saint Heliers, Auckland City",$800 per week,House,4,2,Non furnished,,,,,
+"3B/1 Ophir Street, Grey Lynn, Auckland City",$695 per week,Apartment,2,1,1,,,,,
+"12 Caledonian Place, Blockhouse Bay, Auckland City",$640 per week,House,3,1,Non furnished,,,,,
+"1/37 Upland Road, Remuera, Auckland City",$925 per week,Townhouse,3,2,1,1 ensuite,,,,
+"4/748 Remuera Road, Remuera, Auckland City",$950 per week,Townhouse,2,2,1,,,,,
+"70 Sale Street, Auckland Central, Auckland City",$600 per week,Apartment,1,1,,,,10 storey,,
+"1M/94 Dominion Road, Mount Eden, Auckland City",$520 per week,Apartment,1,1,,,,1 storey,,
+"C604/176 Broadway, Newmarket, Auckland City",$600 per week,Apartment,2,2,1,,,,,
+"30 Bell Road, Remuera, Auckland City","$1,350 per week",House,4,3,2,,,,,
+"10/291 Ellerslie-panmure Highway, Mount Wellington, Auckland City",$460 per week,Unit,1,1,1,Non furnished,,,,
+"602/145 Symonds Street, Eden Terrace, Auckland City",$700 per week,Apartment,1,1,Furnished,,,,,
+"72 Nelson Street, Auckland Central, Auckland City",$475 per week,Apartment,2,1,,,,7 storey,,
+"62 Olsen Avenue, Hillsborough, Auckland City",$700 per week,House,3,2,1 ensuite,,,,,
+"72 Bassett Road, Remuera, Auckland City","$1,000 per week",House,3,1,Non furnished,,,,,
+"40B Lewis Street, Blockhouse Bay, Auckland City",$995 per week,House,4,3,1,2,Non furnished,,,
+"2/175a Grey Street, Onehunga, Auckland City",$540 per week,House,1,1,1,,,,,
+"206/1 Coden Street, Auckland Central, Auckland City",$520 per week,Apartment,1,1,Non furnished,,,,,
+"103/9 Rawalpindi Street, Mount Albert, Auckland City",$620 per week,Apartment,2,1,1,,,,,
+"504/43a Gillies Avenue, Newmarket, Auckland City","$1,150 per week",Apartment,3,2,2,,,,,
+"28C Claude Road, Epsom, Auckland City","$1,190 per week",House,4,3,3,,,,,
+"3/43 Abbotts Way, Remuera, Auckland City",$595 per week,Unit,2,1,2,,,,,
+"5/118 Grafton Road, Grafton, Auckland City",$325 per week,Unit,1,1,,,,1 storey,,
+"3/12 Kipling Avenue, Epsom, Auckland City",$810 per week,Unit,3,2,Non furnished,,,,,
+"A/14 Wheturangi Road, Greenlane, Auckland City",$730 per week,House,2,1,,,,,,
+"168B Whitney Street, Blockhouse Bay, Auckland City",$745 per week,Townhouse,3,1,1,Non furnished,,,,
+"26 Eaton road, Hillsborough, Auckland City",$850 per week,House,4,2,1,,,,,
+"6/78 Rosebank Rd, Avondale, Auckland City",$430 per week,Unit,1,1,,,,,,
+"42 Kingsview Road, Mount Eden, Auckland City","$1,400 per week",House,5,2,,,,2 storey,,
+"2/28 Victoria Avenue, Remuera, Auckland City",$795 per week,Apartment,2,2,1,Non furnished,,,,
+"2011/11 Liverpool Street , Auckland Central, Auckland City",$385 per week,Apartment,1,1,,,,,,
+"502 Great North Road, Grey Lynn, Auckland City",$700 per week,Townhouse,3,1,1,Non furnished,,,,
+"6 Magma Crescent, Stonefields, Auckland City",$795 per week,House,2,1,,,,,,
+"811/76 Wakefield Street, Auckland Central, Auckland City",$550 per week,Apartment,2,1,Non furnished,,,,,
+"30A Dromorne Road, Remuera, Auckland City","$1,150 per week",Townhouse,4,2,Non furnished,,,,,
+"3/365 Great South Road, Ellerslie, Auckland City",$610 per week,Unit,2,1,1,1,Non furnished,,,
+"3D/31 Scanlan Street, Grey Lynn, Auckland City",$695 per week,Apartment,2,2,2,1 ensuite,,,,
+"5A Pasteur Place, New Windsor, Auckland City",$700 per week,House,3,2,1,Non furnished,,,,
+"24 Paku Lane, Mount Wellington, Auckland City",$895 per week,House,4,2,1,1,,,,
+"A/23 Watea Road, Sandringham, Auckland City","$1,350 per week",House,5,3,1 ensuite,,,,,
+"26 Old Mill Road , Grey Lynn, Auckland City","$2,450 per week",House,4,2,284m2,2,,,,
+"2/6 Prebble Place, Mission Bay, Auckland City",$775 per week,Unit,3,1,1,,,,,
+"223B Green Lane West, Epsom, Auckland City","$1,200 per week",Apartment,2,2,2,1 ensuite,,,,
+"10D/156 Vincent Street, Auckland Central, Auckland City",$580 per week,Apartment,2,1,,,,1 storey,,
+"2D Delemere Place, Glen Innes, Auckland City",$915 per week,Townhouse,4,2,1,1,Non furnished,,,
+"2/165 Tamaki Drive, Kohimarama, Auckland City","$1,300 per week",Apartment,3,2,1,Non furnished,,,,
+"16A Aorere Street, Parnell, Auckland City",$960 per week,House,3,2,Non furnished,,,,,
+"3/33 Beckenham Avenue, Royal Oak, Auckland City",$890 per week,Townhouse,3,3,1,Non furnished,,,,
+"5B/132 Vincent Street, Auckland Central, Auckland City",$880 per week,Apartment,2,2,Non furnished,,,,,
+"336 Hillsborough Road, Hillsborough, Auckland City",$780 per week,House,3,2,2,,,,,
+"89A Alfred Street, Onehunga, Auckland City",$795 per week,Townhouse,3,2,1,,,,,
+"89B Alfred Street, Onehunga, Auckland City",$995 per week,Townhouse,4,3,2,,,,,
+"15/533 Manukau Road, Epsom, Auckland City",$650 per week,Apartment,2,1,1,,,,,
+,,,,,,,,,,"Message: timeout: Timed out receiving message from renderer: 260.274
+  (Session info: chrome=118.0.5993.70)
+Stacktrace:
+0   chromedriver                        0x000000010519c510 chromedriver + 4310288
+1   chromedriver                        0x00000001051944bc chromedriver + 4277436
+2   chromedriver                        0x0000000104dc7b6c chromedriver + 293740
+3   chromedriver                        0x0000000104daff54 chromedriver + 196436
+4   chromedriver                        0x0000000104dafd60 chromedriver + 195936
+5   chromedriver                        0x0000000104dae1ac chromedriver + 188844
+6   chromedriver                        0x0000000104daee1c chromedriver + 192028
+7   chromedriver                        0x0000000104dbe3d0 chromedriver + 254928
+8   chromedriver                        0x0000000104dd3140 chromedriver + 340288
+9   chromedriver                        0x0000000104daf56c chromedriver + 193900
+10  chromedriver                        0x0000000104dd2f64 chromedriver + 339812
+11  chromedriver                        0x0000000104e47fac chromedriver + 819116
+12  chromedriver                        0x0000000104e00fd0 chromedriver + 528336
+13  chromedriver                        0x0000000104e01e7c chromedriver + 532092
+14  chromedriver                        0x0000000105162834 chromedriver + 4073524
+15  chromedriver                        0x00000001051667fc chromedriver + 4089852
+16  chromedriver                        0x0000000105166c58 chromedriver + 4090968
+17  chromedriver                        0x000000010516c8f8 chromedriver + 4114680
+18  chromedriver                        0x0000000105167234 chromedriver + 4092468
+19  chromedriver                        0x0000000105141604 chromedriver + 3937796
+20  chromedriver                        0x0000000105183ee8 chromedriver + 4210408
+21  chromedriver                        0x0000000105184064 chromedriver + 4210788
+22  chromedriver                        0x0000000105194134 chromedriver + 4276532
+23  libsystem_pthread.dylib             0x000000018a7be26c _pthread_start + 148
+24  libsystem_pthread.dylib             0x000000018a7b908c thread_start + 8
+"
+"409/4 Dockside Lane, Auckland Central, Auckland City",$580 per week,Apartment,2,1,1,,,,,
+"15 Hillsborough Road, Hillsborough, Auckland City","$1,400 per week",House,6,5,279m2,809m2,1,6,3 ensuites,
+"66A Albrecht Avenue, Mount Roskill, Auckland City",$720 per week,House,3,1,Non furnished,,,,,
+"6 Fontenoy Street, Mount Albert, Auckland City",$850 per week,House,3,2,2,1 ensuite,,,,
+"38A Kinross Street, Blockhouse Bay, Auckland City",$700 per week,House,3,1,2,Non furnished,,,,
+"15/3 Sherbourne Road, Mount Eden, Auckland City",$550 per week,Unit,1,1,1,Non furnished,,,,
+"5D/18 Cranbrook Place, Glendowie, Auckland City",$755 per week,House,3,1,90m2,2,,,,
+"52B King George Avenue, Epsom, Auckland City","$1,400 per week",House,5,3,2,1,Non furnished,,,
+"3/21 Montrose St, Point Chevalier, Auckland City",$450 per week,Apartment,1,1,New build,,,,,
+"72 Nelson Street, Auckland Central, Auckland City",$475 per week,Apartment,2,1,,,,2 storey,,
+"72 Nelson Street, Auckland Central, Auckland City",$375 per week,Apartment,1,1,,,,12 storey,,
+"2B/2 White Street, Auckland Central, Auckland City",Auckland Central insights,Apartment,2,1,Furnished,,,,,
+"1 Swinburne Street, Blockhouse Bay, Auckland City","$1,255 per week",House,6,4,5,,,,,
+"3/45 Mangere Road, Otahuhu, Auckland City",$380 per week,Unit,1,1,1,Non furnished,,,,
+"3/1280 New North Road, Avondale, Auckland City",$700 per week,House,3,2,2,2,Non furnished,,,
+"6/375 Great South Road, Greenlane, Auckland City","$1,100 per week",House,4,4,1,Non furnished,,,,
+"a/1 Hoheria Road, Onehunga, Auckland City",$680 per week,House,3,1,2,,,,,
+"2205/32 Swanson Street, Auckland Central, Auckland City",$460 per week,Apartment,1,1,Non furnished,,,,,
+"4 Dockside Lane, Auckland Central, Auckland City",$665 per week,Apartment,2,1,Non furnished,,,,,
+"12 Rangipawa Road, One Tree Hill, Auckland City",$950 per week,House,3,1,1,1,Non furnished,,,
+"12 May Road, Mount Albert, Auckland City",$760 per week,House,3,1,1,1,Non furnished,,,
+"205/4 Bluegrey Avenue, Stonefields, Auckland City",$540 per week,Apartment,1,1,1,Non furnished,,,,
+"46 Elm Street, Avondale, Auckland City",$670 per week,Townhouse,2,1,1,Non furnished,,,,
+"1/29 Dudley Road, Mission Bay, Auckland City",$600 per week,Unit,2,1,1,Non furnished,,,,
+"4J/250 Richmond Road, Grey Lynn, Auckland City",$550 per week,Apartment,1,1,1,,,,,
+"19/1 Glenside Crescent, Auckland Central, Auckland City",$750 per week,Townhouse,2,2,Non furnished,,,,,
+"3/296 Ellerslie Panmure Highway, Mount Wellington, Auckland City",$585 per week,Unit,2,1,1,Non furnished,,,,
+,,,,,,,,,,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":""h1[data-test='listing-title']""}
+  (Session info: chrome=118.0.5993.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010519c510 chromedriver + 4310288
+1   chromedriver                        0x00000001051944bc chromedriver + 4277436
+2   chromedriver                        0x0000000104dc7b6c chromedriver + 293740
+3   chromedriver                        0x0000000104e0d040 chromedriver + 577600
+4   chromedriver                        0x0000000104e47e60 chromedriver + 818784
+5   chromedriver                        0x0000000104e00fd0 chromedriver + 528336
+6   chromedriver                        0x0000000104e01e7c chromedriver + 532092
+7   chromedriver                        0x0000000105162834 chromedriver + 4073524
+8   chromedriver                        0x00000001051667fc chromedriver + 4089852
+9   chromedriver                        0x0000000105166c58 chromedriver + 4090968
+10  chromedriver                        0x000000010516c8f8 chromedriver + 4114680
+11  chromedriver                        0x0000000105167234 chromedriver + 4092468
+12  chromedriver                        0x0000000105141604 chromedriver + 3937796
+13  chromedriver                        0x0000000105183ee8 chromedriver + 4210408
+14  chromedriver                        0x0000000105184064 chromedriver + 4210788
+15  chromedriver                        0x0000000105194134 chromedriver + 4276532
+16  libsystem_pthread.dylib             0x000000018a7be26c _pthread_start + 148
+17  libsystem_pthread.dylib             0x000000018a7b908c thread_start + 8
+"
+"63/32 Edwin Street, Mount Eden, Auckland City",$820 per week,House,3,1,2,,,,,
+"6-8 Lorne Street, Auckland Central, Auckland City",$400 per week,Apartment,1,1,30m2,,,,,
+"8I/508 Queen Street, Auckland Central, Auckland City",$400 per week,Apartment,1,1,Furnished,,,,,
+"1/24 Douglas Road, Mount Eden, Auckland City",$670 per week,House,2,1,1,Non furnished,,,,
+"11C Athens Road, One Tree Hill, Auckland City","$1,000 per week",House,4,3,1,,,,,
+"47 Beach Road, Auckland Central, Auckland City",$520 per week,Apartment,1,1,37m2,1 ensuite,New build,,,
+"59/406 Great North Road, Grey Lynn, Auckland City",$820 per week,Townhouse,2,3,1,Non furnished,,,,
+,,,,,,,,,,"Message: timeout: Timed out receiving message from renderer: 286.175
+  (Session info: chrome=118.0.5993.70)
+Stacktrace:
+0   chromedriver                        0x000000010519c510 chromedriver + 4310288
+1   chromedriver                        0x00000001051944bc chromedriver + 4277436
+2   chromedriver                        0x0000000104dc7b6c chromedriver + 293740
+3   chromedriver                        0x0000000104daff54 chromedriver + 196436
+4   chromedriver                        0x0000000104dafd60 chromedriver + 195936
+5   chromedriver                        0x0000000104dae1ac chromedriver + 188844
+6   chromedriver                        0x0000000104daee1c chromedriver + 192028
+7   chromedriver                        0x0000000104dbe3d0 chromedriver + 254928
+8   chromedriver                        0x0000000104dd3140 chromedriver + 340288
+9   chromedriver                        0x0000000104daf56c chromedriver + 193900
+10  chromedriver                        0x0000000104dd2f64 chromedriver + 339812
+11  chromedriver                        0x0000000104e47fac chromedriver + 819116
+12  chromedriver                        0x0000000104e00fd0 chromedriver + 528336
+13  chromedriver                        0x0000000104e01e7c chromedriver + 532092
+14  chromedriver                        0x0000000105162834 chromedriver + 4073524
+15  chromedriver                        0x00000001051667fc chromedriver + 4089852
+16  chromedriver                        0x0000000105166c58 chromedriver + 4090968
+17  chromedriver                        0x000000010516c8f8 chromedriver + 4114680
+18  chromedriver                        0x0000000105167234 chromedriver + 4092468
+19  chromedriver                        0x0000000105141604 chromedriver + 3937796
+20  chromedriver                        0x0000000105183ee8 chromedriver + 4210408
+21  chromedriver                        0x0000000105184064 chromedriver + 4210788
+22  chromedriver                        0x0000000105194134 chromedriver + 4276532
+23  libsystem_pthread.dylib             0x000000018a7be26c _pthread_start + 148
+24  libsystem_pthread.dylib             0x000000018a7b908c thread_start + 8
+"
+"9A Jesmond Terrace, Mount Albert, Auckland City",$800 per week,House,3,1,1,2,,,,
+"108/223a Greenlane West , Epsom, Auckland City",$770 per week,Apartment,2,2,1,1 ensuite,,,,
+"6/52 Ascot Avenue, Remuera, Auckland City",$690 per week,Townhouse,3,1,2,2,,,,
+"31 Findlay Street, Ellerslie, Auckland City",$780 per week,House,4,1,731m2,4,,,,
+"16 Mersey Place, New Windsor, Auckland City",$850 per week,House,3,1,4,5,Non furnished,,,
+"2/123 White Swan Road, Mount Roskill, Auckland City",$860 per week,House,4,2,202m2,620m2,2,2,,
+"307/250 Kepa Road, Mission Bay, Auckland City",$765 per week,Apartment,1,1,1,,,,,
+"A6/25 Cheshire Street, Parnell, Auckland City",$525 per week,Apartment,1,1,Non furnished,,,,,
+"1D/14 Waterloo Quadrant, Auckland Central, Auckland City",$500 per week,Apartment,1,1,Furnished,,,,,
+"37 Tamora Lane, Avondale, Auckland City",$930 per week,Townhouse,4,2,1,1,,,,
+"7 Shirley Road, Grey Lynn, Auckland City",$550 per week,Unit,1,1,1,,,,,
+"17B Rewi Road, Royal Oak, Auckland City","$1,400 per week",Townhouse,5,3,2,2,Non furnished,,,
+"125 Carrington Road, Point Chevalier, Auckland City",$400 per week,Apartment,1,1,,,,,,
+"98 Point Chevalier Road, Point Chevalier, Auckland City",$600 per week,House,3,1,2,Non furnished,,,,
+"83 Empire Road, Epsom, Auckland City","$1,750 per week",House,5,1,2,2,Non furnished,2 ensuites,,
+"3/6 Sarsfield Street, Herne Bay, Auckland City",$950 per week,Townhouse,3,1,1,Non furnished,1 ensuite,,,
+"101/1 Purewa Road, Meadowbank, Auckland City",$850 per week,House,2,2,1,,,,,
+"26 Codrington Crescent, Mission Bay, Auckland City","$1,500 per week",House,4,2,4,,,,,
+"2213/10 Waterloo Quadrant, Auckland Central, Auckland City",$430 per week,House,1,1,Furnished,,,,,
+"1008/20 Park Avenue, Ellerslie, Auckland City",$600 per week,House,1,1,,,,,,
+"6 Winchester Street, Grey Lynn, Auckland City",$870 per week,Apartment,3,1,1,Furnished,,,,
+"Room 5/Level 7-12 Vincent Street , Auckland Central, Auckland City",$280 per week,Apartment,1,1,,,,,,
+"7 Avon Street, Parnell, Auckland City","$1,100 per week",Apartment,2,2,,,,,,
+"1C,12 Vinegar Lane, Ponsonby, Auckland City",$780 per week,Apartment,2,2,Non furnished,,,,,
+"3 Exler Place, Avondale, Auckland City","$1,100 per week",House,5,2,2,2,1 ensuite,,,
+"4/31 Symonds Street, Onehunga, Auckland City",$575 per week,Unit,2,1,1,Non furnished,,,,
+"20B Roberton Road, Avondale, Auckland City","$1,200 per week",House,4,3,2,2,Non furnished,,,
+"304/1 Turakina Street, Grey Lynn, Auckland City",$820 per week,Apartment,2,2,1,Non furnished,,,,
+"1/12 Memorial Avenue, Mount Roskill, Auckland City",$645 per week,Unit,3,1,Non furnished,,,,,
+"2/42 Don Croot Street, Morningside, Auckland City",$460 per week,Apartment,2,1,1,,,,,
+"8/42 Don Croot Street, Morningside, Auckland City",$420 per week,Apartment,1,1,1,,,,,
+"216/149 Nelson Street, Auckland Central, Auckland City",$570 per week,Unit,2,1,Furnished,,,,,
+"72 Nelson Street, Auckland Central, Auckland City",$475 per week,Apartment,2,1,1,,,,,
+"23E Windsor Street, Parnell, Auckland City","$1,600 per week",Townhouse,4,4,Non furnished,,,,,
+,,,,,,,,,,"Message: timeout: Timed out receiving message from renderer: 266.333
+  (Session info: chrome=118.0.5993.70)
+Stacktrace:
+0   chromedriver                        0x000000010519c510 chromedriver + 4310288
+1   chromedriver                        0x00000001051944bc chromedriver + 4277436
+2   chromedriver                        0x0000000104dc7b6c chromedriver + 293740
+3   chromedriver                        0x0000000104daff54 chromedriver + 196436
+4   chromedriver                        0x0000000104dafd60 chromedriver + 195936
+5   chromedriver                        0x0000000104dae1ac chromedriver + 188844
+6   chromedriver                        0x0000000104daee1c chromedriver + 192028
+7   chromedriver                        0x0000000104dbe3d0 chromedriver + 254928
+8   chromedriver                        0x0000000104dd3140 chromedriver + 340288
+9   chromedriver                        0x0000000104daf56c chromedriver + 193900
+10  chromedriver                        0x0000000104dd2f64 chromedriver + 339812
+11  chromedriver                        0x0000000104e47fac chromedriver + 819116
+12  chromedriver                        0x0000000104e00fd0 chromedriver + 528336
+13  chromedriver                        0x0000000104e01e7c chromedriver + 532092
+14  chromedriver                        0x0000000105162834 chromedriver + 4073524
+15  chromedriver                        0x00000001051667fc chromedriver + 4089852
+16  chromedriver                        0x0000000105166c58 chromedriver + 4090968
+17  chromedriver                        0x000000010516c8f8 chromedriver + 4114680
+18  chromedriver                        0x0000000105167234 chromedriver + 4092468
+19  chromedriver                        0x0000000105141604 chromedriver + 3937796
+20  chromedriver                        0x0000000105183ee8 chromedriver + 4210408
+21  chromedriver                        0x0000000105184064 chromedriver + 4210788
+22  chromedriver                        0x0000000105194134 chromedriver + 4276532
+23  libsystem_pthread.dylib             0x000000018a7be26c _pthread_start + 148
+24  libsystem_pthread.dylib             0x000000018a7b908c thread_start + 8
+"
+"38 Budgen Street, Mount Roskill, Auckland City",$700 per week,House,3,1,3,,,,,
+"9 Cotesmore Way, Parnell, Auckland City",$720 per week,Townhouse,3,2,2,,,,,
+"4/70A Barrack Road, Mount Wellington, Auckland City",$640 per week,Townhouse,2,2,1,Non furnished,,,,
+"4 Hadlow Terrace, Grey Lynn, Auckland City",$830 per week,Apartment,2,3,1,,,,,
+"6 Hadlow Terrace, Grey Lynn, Auckland City",$830 per week,House,2,3,1,,,,,
+"247B Hillsborough Road, Hillsborough, Auckland City",$800 per week,House,4,2,3,,,,,
+,,,,,,,,,,"Message: timeout: Timed out receiving message from renderer: 242.942
+  (Session info: chrome=118.0.5993.70)
+Stacktrace:
+0   chromedriver                        0x000000010519c510 chromedriver + 4310288
+1   chromedriver                        0x00000001051944bc chromedriver + 4277436
+2   chromedriver                        0x0000000104dc7b6c chromedriver + 293740
+3   chromedriver                        0x0000000104daff54 chromedriver + 196436
+4   chromedriver                        0x0000000104dafd60 chromedriver + 195936
+5   chromedriver                        0x0000000104dae1ac chromedriver + 188844
+6   chromedriver                        0x0000000104daee1c chromedriver + 192028
+7   chromedriver                        0x0000000104dbe3d0 chromedriver + 254928
+8   chromedriver                        0x0000000104dd3140 chromedriver + 340288
+9   chromedriver                        0x0000000104daf56c chromedriver + 193900
+10  chromedriver                        0x0000000104dd2f64 chromedriver + 339812
+11  chromedriver                        0x0000000104e47fac chromedriver + 819116
+12  chromedriver                        0x0000000104e00fd0 chromedriver + 528336
+13  chromedriver                        0x0000000104e01e7c chromedriver + 532092
+14  chromedriver                        0x0000000105162834 chromedriver + 4073524
+15  chromedriver                        0x00000001051667fc chromedriver + 4089852
+16  chromedriver                        0x0000000105166c58 chromedriver + 4090968
+17  chromedriver                        0x000000010516c8f8 chromedriver + 4114680
+18  chromedriver                        0x0000000105167234 chromedriver + 4092468
+19  chromedriver                        0x0000000105141604 chromedriver + 3937796
+20  chromedriver                        0x0000000105183ee8 chromedriver + 4210408
+21  chromedriver                        0x0000000105184064 chromedriver + 4210788
+22  chromedriver                        0x0000000105194134 chromedriver + 4276532
+23  libsystem_pthread.dylib             0x000000018a7be26c _pthread_start + 148
+24  libsystem_pthread.dylib             0x000000018a7b908c thread_start + 8
+"
+"57 Tuarangi Rd, Grey Lynn, Auckland City","$1,250 per week",House,3,2,2,,,,,
+"G01/2 Finch Street, Morningside, Auckland City",$570 per week,House,1,1,,,,,,
+"3/43 Caulton Street, Saint Johns, Auckland City",$475 per week,Apartment,1,1,1,,,,,
+"407/88 The Strand, Parnell, Auckland City",$450 per week,Apartment,1,1,,,,1 storey,,
+"5D/46 Liverpool Street, Auckland Central, Auckland City",$350 per week,Apartment,1,1,,,,,,
+"2/40 Saxon Street, Waterview, Auckland City",$710 per week,Townhouse,3,1,1,1,Non furnished,,,
+"16/39 Pitt Steet, Auckland Central, Auckland City",$895 per week,Townhouse,3,1,2,Non furnished,1 ensuite,,,
+"203/70 Anzac Avenue, Auckland Central, Auckland City",$690 per week,Apartment,2,1,Furnished,,,,,
+"3/12/91 St Georges Bay Road, Parnell, Auckland City","$1,200 per week",House,3,1,2,,,,,
+,,,,,,,,,,"Message: timeout: Timed out receiving message from renderer: 294.332
+  (Session info: chrome=118.0.5993.70)
+Stacktrace:
+0   chromedriver                        0x000000010519c510 chromedriver + 4310288
+1   chromedriver                        0x00000001051944bc chromedriver + 4277436
+2   chromedriver                        0x0000000104dc7b6c chromedriver + 293740
+3   chromedriver                        0x0000000104daff54 chromedriver + 196436
+4   chromedriver                        0x0000000104dafd60 chromedriver + 195936
+5   chromedriver                        0x0000000104dae1ac chromedriver + 188844
+6   chromedriver                        0x0000000104daee1c chromedriver + 192028
+7   chromedriver                        0x0000000104dbe3d0 chromedriver + 254928
+8   chromedriver                        0x0000000104dd3140 chromedriver + 340288
+9   chromedriver                        0x0000000104daf56c chromedriver + 193900
+10  chromedriver                        0x0000000104dd2f64 chromedriver + 339812
+11  chromedriver                        0x0000000104e47fac chromedriver + 819116
+12  chromedriver                        0x0000000104e00fd0 chromedriver + 528336
+13  chromedriver                        0x0000000104e01e7c chromedriver + 532092
+14  chromedriver                        0x0000000105162834 chromedriver + 4073524
+15  chromedriver                        0x00000001051667fc chromedriver + 4089852
+16  chromedriver                        0x0000000105166c58 chromedriver + 4090968
+17  chromedriver                        0x000000010516c8f8 chromedriver + 4114680
+18  chromedriver                        0x0000000105167234 chromedriver + 4092468
+19  chromedriver                        0x0000000105141604 chromedriver + 3937796
+20  chromedriver                        0x0000000105183ee8 chromedriver + 4210408
+21  chromedriver                        0x0000000105184064 chromedriver + 4210788
+22  chromedriver                        0x0000000105194134 chromedriver + 4276532
+23  libsystem_pthread.dylib             0x000000018a7be26c _pthread_start + 148
+24  libsystem_pthread.dylib             0x000000018a7b908c thread_start + 8
+"
+"3/9 Sentinel Road, Herne Bay, Auckland City",$520 per week,House,1,1,Furnished,,,,,
+"4/65 Mariri Road, One Tree Hill, Auckland City",$535 per week,Unit,2,1,1,,,,,
+,,,,,,,,,,"Message: timeout: Timed out receiving message from renderer: 288.639
+  (Session info: chrome=118.0.5993.70)
+Stacktrace:
+0   chromedriver                        0x000000010519c510 chromedriver + 4310288
+1   chromedriver                        0x00000001051944bc chromedriver + 4277436
+2   chromedriver                        0x0000000104dc7b6c chromedriver + 293740
+3   chromedriver                        0x0000000104daff54 chromedriver + 196436
+4   chromedriver                        0x0000000104dafd60 chromedriver + 195936
+5   chromedriver                        0x0000000104dae1ac chromedriver + 188844
+6   chromedriver                        0x0000000104daee1c chromedriver + 192028
+7   chromedriver                        0x0000000104dbe3d0 chromedriver + 254928
+8   chromedriver                        0x0000000104dd3140 chromedriver + 340288
+9   chromedriver                        0x0000000104daf56c chromedriver + 193900
+10  chromedriver                        0x0000000104dd2f64 chromedriver + 339812
+11  chromedriver                        0x0000000104e47fac chromedriver + 819116
+12  chromedriver                        0x0000000104e00fd0 chromedriver + 528336
+13  chromedriver                        0x0000000104e01e7c chromedriver + 532092
+14  chromedriver                        0x0000000105162834 chromedriver + 4073524
+15  chromedriver                        0x00000001051667fc chromedriver + 4089852
+16  chromedriver                        0x0000000105166c58 chromedriver + 4090968
+17  chromedriver                        0x000000010516c8f8 chromedriver + 4114680
+18  chromedriver                        0x0000000105167234 chromedriver + 4092468
+19  chromedriver                        0x0000000105141604 chromedriver + 3937796
+20  chromedriver                        0x0000000105183ee8 chromedriver + 4210408
+21  chromedriver                        0x0000000105184064 chromedriver + 4210788
+22  chromedriver                        0x0000000105194134 chromedriver + 4276532
+23  libsystem_pthread.dylib             0x000000018a7be26c _pthread_start + 148
+24  libsystem_pthread.dylib             0x000000018a7b908c thread_start + 8
+"
