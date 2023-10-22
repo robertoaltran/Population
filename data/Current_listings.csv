@@ -1,0 +1,932 @@
+Address,Price,Bedrooms,Bathrooms,Date Listed,link,Suburb
+"196  Campbell Road, Greenlane",1300.0,5,3,Listed: Yesterday,/address/auckland/greenlane/196-campbell-road/MzJBDZ,Greenlane
+"7C/1 Emily Place, City Centre",800.0,2,1,Listed: Yesterday,/address/auckland/auckland-central/7c-1-emily-place/ODPg1,City Centre
+"1105/19 Anzac Ave, City Centre",600.0,2,1,Listed: Yesterday,/address/auckland/auckland-central/1105-19-anzac-avenue/RzJB7,City Centre
+"28 Georgina Street, Freemans Bay",700.0,1,1,Listed: Yesterday,/address/auckland/freemans-bay/28-georgina-street/grjvN,Freemans Bay
+"5A Matai Road, Greenlane",660.0,2,1,Listed: Yesterday,/address/auckland/greenlane/5a-matai-road/aaOq5,Greenlane
+"26B Waiohua Road, Greenlane",850.0,3,2,Listed: Yesterday,/address/auckland/greenlane/26b-waiohua-road/WMwoy,Greenlane
+"1/173A Portland Road, Remuera",650.0,2,1,Listed: Yesterday,/address/auckland/remuera/1-173a-portland-road/8EVv2K,Remuera
+"303/70 Daldy Street, City Centre",1350.0,2,1,Listed: Yesterday,/address/auckland/auckland-central/303-70-daldy-street/JB48q,City Centre
+"2/60 Oakdale Road, Mount Roskill",590.0,2,1,Listed: 13 Oct 2023,/address/auckland/mount-roskill/2-60-oakdale-road/Dr1nN,Mount Roskill
+"6c Tahora Ave, Remuera",880.0,3,2,Listed: 13 Oct 2023,/address/auckland/remuera/3-6-tahora-avenue/7aepq,Remuera
+"277 Meola Road, Point Chevalier",800.0,3,1,Listed: 13 Oct 2023,/address/auckland/point-chevalier/277-meola-road/Laxoq,Point Chevalier
+"2/19 Sudeley Street, Orakei",895.0,3,2,Listed: 13 Oct 2023,/address/auckland/orakei/2-19-sudeley-street/gJY52,Orakei
+"80 Benson Road, Remuera",1350.0,4,2,Listed: 13 Oct 2023,/address/auckland/remuera/80-benson-road/JbGgL,Remuera
+"8 Andes Place, Lynfield",1400.0,5,3,Listed: 13 Oct 2023,/address/auckland/lynfield/8-andes-place/alroL,Lynfield
+"32 Hadlow Terrace (406 Great North Road), Grey Lynn",750.0,2,1,Listed: 13 Oct 2023,/address/auckland/grey-lynn/32-hadlow-terrace/xMN4br,Grey Lynn
+"515/125 Customs street West, City Centre",700.0,1,1,Listed: 13 Oct 2023,/address/auckland/auckland-central/515-125-customs-street-west/GWn7,City Centre
+"1/7B Hoheria Road, Onehunga",685.0,3,1,Listed: 13 Oct 2023,/address/auckland/onehunga/1-7b-hoheria-road/ABLkoK,Onehunga
+"31A Dundee Pl--Viewing--On Sun 15th Oct at 11:20-11:40am, Blockhouse Bay",550.0,2,1,Listed: 13 Oct 2023,/address/auckland-city/blockhouse-bay/0-dundee-pl--viewing--on-sun-15th-oct-at-11-20-11-40am/BD00p7,Blockhouse Bay
+"1/30 Bollard Avenue, New Windsor",550.0,2,1,Listed: 13 Oct 2023,/address/auckland/new-windsor/1-30-bollard-avenue/5jaGK,New Windsor
+"1A/11 George St, Newmarket",1000.0,4,4,Listed: 13 Oct 2023,/address/auckland/newmarket/1a-11-george-street/NzLl5,Newmarket
+"119B/406 Great North Road, Grey Lynn",585.0,1,1,Listed: 13 Oct 2023,/address/auckland/grey-lynn/119b-406-great-north-road/8Erwqj,Grey Lynn
+"104A White Swan Rd, Mount Roskill",600.0,2,1,Listed: 13 Oct 2023,/address/auckland/mount-roskill/104a-white-swan-road/kwZl,Mount Roskill
+"119A/406 Great North Road, Grey Lynn",585.0,1,1,Listed: 13 Oct 2023,/address/auckland/grey-lynn/119a-406-great-north-road/KE4DWk,Grey Lynn
+"L5/15 City Road, City Centre",485.0,1,1,Listed: 13 Oct 2023,/address/auckland/auckland-central/5-15-city-road/ABLr8n,City Centre
+"2/11 Rangitiki Crescent, Lynfield",850.0,3,2,Listed: 13 Oct 2023,/address/auckland/lynfield/2-11-rangitiki-crescent/QjNPe4,Lynfield
+"1/11 Rangitiki Crescent, Lynfield",880.0,3,2,Listed: 13 Oct 2023,/address/auckland/lynfield/1-11-rangitiki-crescent/zD9Pyz,Lynfield
+"303/27 Rutland Street, City Centre",750.0,1,1,Listed: 13 Oct 2023,/address/auckland/auckland-central/303-27-rutland-street/OAgvY,City Centre
+"74 Webster Avenue, Mount Roskill",675.0,3,1,Listed: 13 Oct 2023,/address/auckland/mount-roskill/74-webster-avenue/YY1B5,Mount Roskill
+"603/10 Ronayne, City Centre",450.0,2,1,Listed: 13 Oct 2023,/address/auckland-city/city-centre/603-10-ronayne/0w9Q4N,City Centre
+"51 Hadlow Terrace, Grey Lynn",780.0,2,2,Listed: 13 Oct 2023,/address/auckland/grey-lynn/51-hadlow-terrace/4zBEVQ,Grey Lynn
+"2/9 Nihill Cres, Mission Bay",750.0,2,1,Listed: 13 Oct 2023,/address/auckland/mission-bay/2-9-nihill-crescent/nN2ng,Mission Bay
+"2307/6 Lorne Street, City Centre",690.0,1,1,Listed: 13 Oct 2023,/address/auckland/auckland-central/2307-6-lorne-street/eRJ5,City Centre
+"207/27 Union Street, City Centre",520.0,1,1,Listed: 13 Oct 2023,/address/auckland/auckland-central/207-27-union-street/laY7e,City Centre
+"6E/25 Rutland Street, City Centre",460.0,1,1,Listed: 13 Oct 2023,/address/auckland/auckland-central/6e-25-rutland-street/qjrqO,City Centre
+"4/16 Fairway Drive, Mount Roskill",780.0,4,2,Listed: 13 Oct 2023,/address/auckland/mount-roskill/4-16-fairway-drive/pL4E5V,Mount Roskill
+"9 Kingsway, Three Kings",850.0,3,2,Listed: 13 Oct 2023,/address/auckland/three-kings/9-kingsway/kOOpP,Three Kings
+"5/71 Moana Avenue, One Tree Hill",530.0,2,1,Listed: 13 Oct 2023,/address/auckland/one-tree-hill/5-71-moana-avenue/7axZBV,One Tree Hill
+"4/65 Mariri Road, One Tree Hill",535.0,2,1,Listed: 13 Oct 2023,/address/auckland/one-tree-hill/4-65-mariri-road/JMBJe,One Tree Hill
+"309a/428 Dominion Rd, Mount Eden",500.0,1,1,Listed: 13 Oct 2023,/address/auckland/mount-eden/309a-428-dominion-road/vMN1XO,Mount Eden
+"3/9 Sentinel Road, Herne Bay",520.0,1,1,Listed: 13 Oct 2023,/address/auckland/herne-bay/3-9-sentinel-road/Dgk5xw,Herne Bay
+"1/80 Selwyn Street, Onehunga",620.0,2,1,Listed: 13 Oct 2023,/address/auckland/onehunga/1-80-selwyn-street/0w9EPG,Onehunga
+"2/86 Market Road, Epsom",875.0,3,1,Listed: 13 Oct 2023,/address/auckland/epsom/2-86-market-road/Nzr1l,Epsom
+"4B/30  Upper Queen St, City Centre",400.0,1,1,Listed: 13 Oct 2023,/address/auckland/auckland-central/4b-30-upper-queen-street/0w9EGQ,City Centre
+"1/242 Mt Albert Road, Sandringham",820.0,4,1,Listed: 13 Oct 2023,/address/auckland/sandringham/1-242-mount-albert-road/8Er5jg,Sandringham
+"3/12/91 St Georges Bay Road, Parnell",1150.0,3,1,Listed: 13 Oct 2023,/address/auckland/parnell/3-91-st-georges-bay-road/VlePgb,Parnell
+"203/70 Anzac Avenue, City Centre",690.0,2,1,Listed: 13 Oct 2023,/address/auckland/auckland-central/203-70-anzac-avenue/j0agj,City Centre
+"8D Macaulay Street, Eden Terrace",1200.0,4,2,Listed: 13 Oct 2023,/address/auckland/eden-terrace/8d-macaulay-street/Rz8Wy,Eden Terrace
+"1106/147 Nelson Street, City Centre",550.0,2,1,Listed: 13 Oct 2023,/address/auckland/auckland-central/1106-147-nelson-street/xQXlk,City Centre
+"8D/17 Albert Street, City Centre",335.0,1,1,Listed: 13 Oct 2023,/address/auckland/auckland-central/8d-17-albert-street/NLE2k,City Centre
+"904/96 Symonds st, City Centre",330.0,1,1,Listed: 12 Oct 2023,/address/auckland/grafton/904-96-symonds-street/Azoqa,City Centre
+"510/85 wakefield st, City Centre",500.0,2,2,Listed: 12 Oct 2023,/address/auckland/auckland-central/510-85-wakefield-street/PqMEG,City Centre
+"46B Takitimu Street, Orakei",695.0,2,1,Listed: 12 Oct 2023,/address/auckland/orakei/46-takitimu-street/DgQ2rM,Orakei
+"Level 22/10 Commerce Street, City Centre",1300.0,2,2,Listed: 12 Oct 2023,/address/auckland/auckland-central/evel-22-10-commerce-street/LokEqN,City Centre
+"2/365 Great South Road, Ellerslie",600.0,2,1,Listed: 12 Oct 2023,/address/auckland/ellerslie/2-365-great-south-road/WVwaK,Ellerslie
+"4/13 Campbell Road, Royal Oak",820.0,3,1,Listed: 12 Oct 2023,/address/auckland/royal-oak/4-13-campbell-road/ZwG9,Royal Oak
+"5 Hillsdale Road, Hillsborough",860.0,4,2,Listed: 12 Oct 2023,/address/auckland/hillsborough/5-hillsdale-road/8Ny9M,Hillsborough
+"20E/16 Gore Street, City Centre",475.0,1,1,Listed: 12 Oct 2023,/address/auckland/auckland-central/20e-16-gore-street/Lo05W,City Centre
+"308/421 Queen St, City Centre",450.0,1,1,Listed: 12 Oct 2023,/address/auckland/auckland-central/308-421-queen-street/zDXqR,City Centre
+"1305/168 Hobson Street, City Centre",520.0,2,2,Listed: 12 Oct 2023,/address/auckland/auckland-central/1305-168-hobson-street/YPgbp,City Centre
+"22 Crescent Road, Epsom",1200.0,4,2,Listed: 12 Oct 2023,/address/auckland/epsom/22-crescent-road/lr9BZ,Epsom
+"5D/46 Liverpool Street, City Centre",350.0,1,1,Listed: 12 Oct 2023,/address/auckland/auckland-central/5d-46-liverpool-street/KzDLL,City Centre
+"7/12 Ruskin Street, Parnell",650.0,2,1,Listed: 12 Oct 2023,/address/auckland/parnell/7-12-ruskin-street/J4EW1,Parnell
+"29 Peter Mulgrew Street, New Windsor",630.0,3,2,Listed: 12 Oct 2023,/address/auckland/new-windsor/29-peter-mulgrew-street/EKlxK,New Windsor
+"1405/30 Beach Rd, City Centre",820.0,2,2,Listed: 12 Oct 2023,/address/auckland/auckland-central/1405-30-beach-road/eneN5,City Centre
+"16 Sunnyridge Place, Hillsborough",795.0,4,2,Listed: 12 Oct 2023,/address/auckland/hillsborough/16-sunnyridge-place/DrpNw,Hillsborough
+"1501B/8 Airedale Street, City Centre",420.0,1,1,Listed: 12 Oct 2023,/address/auckland/auckland-central/1501b-8-airedale-street/ABrM9K,City Centre
+"G01/2 Finch Street, Morningside",570.0,1,1,Listed: 12 Oct 2023,/address/auckland/morningside/g01-2-finch-street/5jNvBK,Morningside
+"105/2 Finch Street, Morningside",570.0,1,1,Listed: 12 Oct 2023,/address/auckland/morningside/105-2-finch-street/KEDNwD,Morningside
+"109/37 Symonds Street, City Centre",380.0,1,1,Listed: 12 Oct 2023,/address/auckland/grafton/109-37-symonds-street/5O74M,City Centre
+"57 Tuarangi Rd, Grey Lynn",1250.0,3,2,Listed: 12 Oct 2023,/address/auckland/grey-lynn/57-tuarangi-road/DaEv,Grey Lynn
+"10/67 Saint Vincent Avenue, Remuera",490.0,1,1,Listed: 12 Oct 2023,/address/auckland/remuera/10-67-st-vincent-avenue/ABrqGz,Remuera
+"18 Parkfield Terrace, Grafton",905.0,3,1,Listed: 12 Oct 2023,/address/auckland/grafton/18-parkfield-terrace/4RnaBr,Grafton
+"904/15 Union Street, City Centre",680.0,2,1,Listed: 12 Oct 2023,/address/auckland/auckland-central/904-15-union-street/rQgZM,City Centre
+"1/28A Rutherford Terrace, Meadowbank",750.0,2,2,Listed: 12 Oct 2023,/address/auckland/meadowbank/1-28a-rutherford-terrace/0wYNVB,Meadowbank
+"5F/18  Federal Street, City Centre",520.0,1,1,Listed: 12 Oct 2023,/address/auckland/auckland-central/5f-18-federal-street/qj810,City Centre
+"204/70 Victoria St, Onehunga",670.0,2,1,Listed: 12 Oct 2023,/address/auckland/onehunga/204-70-victoria-street/yqEXz,Onehunga
+"16A/34 Kingston street, City Centre",550.0,2,1,Listed: 12 Oct 2023,/address/auckland/auckland-central/16a-34-kingston-street/9z5pK,City Centre
+"3/10 Monteith Crescent, Remuera",740.0,3,1,Listed: 12 Oct 2023,/address/auckland/remuera/3-10-monteith-crescent/NLZDg,Remuera
+"7A/54 Liverpool Street, City Centre",1200.0,3,1,Listed: 12 Oct 2023,/address/auckland/auckland-central/7a-54-liverpool-street/Yl75P,City Centre
+"6 Hadlow Terrace, Grey Lynn",850.0,2,3,Listed: 12 Oct 2023,/address/auckland/grey-lynn/6-hadlow-terrace/Qn7R54,Grey Lynn
+"4 Hadlow Terrace, Grey Lynn",850.0,2,3,Listed: 12 Oct 2023,/address/auckland/grey-lynn/4-hadlow-terrace/PMROVG,Grey Lynn
+"1706/430 Queen street, City Centre",595.0,2,1,Listed: 12 Oct 2023,/address/auckland/auckland-central/1706-430-queen-street/ja4lx,City Centre
+"2F/72 Wellesley Street West, City Centre",730.0,2,2,Listed: 12 Oct 2023,/address/auckland/auckland-central/2f-72-wellesley-street-west/yRKaa,City Centre
+"407/88 The Strand, Parnell",450.0,1,1,Listed: 12 Oct 2023,/address/auckland/parnell/407-88-the-strand/AzOyL,Parnell
+"247B Hillsborough Road, Hillsborough",800.0,4,2,Listed: 12 Oct 2023,/address/auckland/hillsborough/247b-hillsborough-road/lajee,Hillsborough
+"6/22 Spring St, Onehunga",560.0,2,1,Listed: 12 Oct 2023,/address/auckland/onehunga/6-22-spring-street/RAjY,Onehunga
+"408/17 Vogel Lane, City Centre",670.0,2,1,Listed: 12 Oct 2023,/address/auckland/auckland-central/408-17-vogel-lane/0Wnr9,City Centre
+"45A Church Street, Devonport",895.0,3,2,Listed: 12 Oct 2023,/address/auckland/devonport/45a-church-street/Pxav,Devonport
+"30 Dunkerron Avenue, Epsom",1050.0,3,2,Listed: 12 Oct 2023,/address/auckland/epsom/30-dunkerron-street/jrJ8z,Epsom
+"4/38 Turama Road, Royal Oak",630.0,3,1,Listed: 12 Oct 2023,/address/auckland/royal-oak/4-38-turama-road/OgGqN,Royal Oak
+"1H/75 Anzac Avenue, City Centre",450.0,1,1,Listed: 12 Oct 2023,/address/auckland/auckland-central/1h-75-anzac-avenue/zMZR,City Centre
+"38 Budgen Street, Mount Roskill",700.0,3,1,Listed: 12 Oct 2023,/address/auckland/mount-roskill/38-budgen-street/bAOj2,Mount Roskill
+"9/14 Fowlds Avenue, Sandringham",620.0,3,1,Listed: 12 Oct 2023,/address/auckland/sandringham/9-14-fowlds-avenue/W8Ljk,Sandringham
+"517B/20 Park Avenue, Ellerslie",490.0,1,1,Listed: 12 Oct 2023,/address/auckland/grafton/517b-20-park-avenue/BDa7Lp,Ellerslie
+"1/14 Albert Road, Devonport",600.0,1,1,Listed: 12 Oct 2023,/address/auckland/devonport/1-14-albert-road/vM80Lr,Devonport
+"517A/20 Park Avenue, Ellerslie",545.0,1,1,Listed: 12 Oct 2023,/address/auckland/grafton/517a-20-park-avenue/7a7RzD,Ellerslie
+"9 Cotesmore Way, Parnell",720.0,3,2,Listed: 12 Oct 2023,/address/auckland/parnell/9-cotesmore-way/4Rnk7g,Parnell
+"8/109 Kohimarama Road, Kohimarama",1250.0,3,3,Listed: 12 Oct 2023,/address/auckland/kohimarama/8-109-kohimarama-road/EgV9w7,Kohimarama
+"944A New North Road, Mount Albert",495.0,1,1,Listed: 12 Oct 2023,/address/auckland/mount-albert/944a-new-north-road/qL5NX,Mount Albert
+"G03/11 Akepiro Street, Mount Eden",660.0,2,1,Listed: 12 Oct 2023,/address/auckland/mount-eden/g03-11-akepiro-street/G7wNk,Mount Eden
+"16/39 Pitt St, City Centre",895.0,3,2,Listed: 12 Oct 2023,/address/auckland/auckland-central/16-39-pitt-street/oboAB,City Centre
+"23E Windsor Street, Parnell",1600.0,4,4,Listed: 12 Oct 2023,/address/auckland/parnell/23e-windsor-street/4vvvE,Parnell
+"1/3 Gavin Street, Ellerslie",600.0,3,1,Listed: 12 Oct 2023,/address/auckland/ellerslie/1-3-gavin-street/BDaQR8,Ellerslie
+"9 Coleman Avenue, Mount Roskill",730.0,3,1,Listed: 12 Oct 2023,/address/auckland/mount-roskill/9-coleman-avenue/aBJKA,Mount Roskill
+"AU/32 Swanson Street, City Centre",100.0,1,1,Listed: 12 Oct 2023,/address/auckland/auckland-central/au-32-swanson-street/VloMb7,City Centre
+"944A New North Road, Mount Albert",495.0,1,1,Listed: 12 Oct 2023,/address/auckland/mount-albert/944-new-north-road/OYMZbY,Mount Albert
+"72 Nelson Street, City Centre",475.0,2,1,Listed: 12 Oct 2023,/address/auckland/auckland-central/72-nelson-street/Yl92Jp,City Centre
+"8/42 Don Croot Street, Morningside",420.0,1,1,Listed: 12 Oct 2023,/address/auckland/morningside/8-42-don-croot-street/oGDweV,Morningside
+"2/42 Don Croot Street, Morningside",460.0,2,1,Listed: 12 Oct 2023,/address/auckland/morningside/2-42-don-croot-street/PMRqDv,Morningside
+"70X/106 VINCENT ST, City Centre",480.0,1,1,Listed: 11 Oct 2023,/address/auckland/auckland-central/70x-106-vincent-street/KEpVZG,City Centre
+"10NN/369 QUEEN ST, City Centre",520.0,1,1,Listed: 11 Oct 2023,/address/auckland/auckland-central/10nn-369-queen-street/WKpgk1,City Centre
+"4 Grand Drive, Remuera",950.0,4,1,Listed: 11 Oct 2023,/address/auckland/remuera/4-grand-drive/OYnDR,Remuera
+"3XXC/15 UNION ST, City Centre",450.0,1,1,Listed: 11 Oct 2023,/address/auckland/auckland-central/3xxc-15-union-street/Y1pgJa,City Centre
+"11XX/15 UNION ST, City Centre",480.0,1,1,Listed: 11 Oct 2023,/address/auckland/auckland-central/11xx-15-union-street/nolzjW,City Centre
+"1/12 Memorial Avenue, Mount Roskill",645.0,3,1,Listed: 11 Oct 2023,/address/auckland/mount-roskill/1-12-memorial-avenue/WK9GL,Mount Roskill
+"304/1 Turakina Street, Grey Lynn",820.0,2,2,Listed: 11 Oct 2023,/address/auckland/grey-lynn/304-1-turakina-street/YEe1y,Grey Lynn
+"210/149 Nelson Street, City Centre",420.0,1,1,Listed: 11 Oct 2023,/address/auckland/auckland-central/210-149-nelson-street/N4G2n,City Centre
+"217/57 Mahuhu Crescent, City Centre",670.0,2,1,Listed: 11 Oct 2023,/address/auckland/auckland-central/217-57-mahuhu-crescent/jwqGG,City Centre
+"1507/10 Commerce Street, City Centre",800.0,1,1,Listed: 11 Oct 2023,/address/auckland/auckland-central/1507-10-commerce-street/w28K2,City Centre
+"4 Rona Avenue, Grey Lynn",695.0,2,1,Listed: 11 Oct 2023,/address/auckland/grey-lynn/4-rona-av/EgXwG,Grey Lynn
+"201/1A Kings Road, Three Kings",670.0,2,1,Listed: 11 Oct 2023,/address/auckland/mount-roskill/201-1a-kings-road/ABpL1G,Three Kings
+"4/31 Symonds Street, Onehunga",575.0,2,1,Listed: 11 Oct 2023,/address/auckland/onehunga/4-31-symonds-street/RXq7E,Onehunga
+"1 Invermay Ave, Mount Roskill",720.0,3,1,Listed: 11 Oct 2023,/address/auckland/mount-roskill/1-invermay-avenue/wVl4wW,Mount Roskill
+"1C,12 Vinegar Lane",780.0,2,2,Listed: 11 Oct 2023,/address/auckland/grey-lynn/1c-12-vinegar-lane/4RJnRl,12 Vinegar Lane
+"10D/105 Albert Street, City Centre",450.0,1,1,Listed: 11 Oct 2023,/address/auckland/auckland-central/10d-105-albert-street/a8yB,City Centre
+"2E/444  Great North Road, Grey Lynn",550.0,1,1,Listed: 11 Oct 2023,/address/auckland/grey-lynn/2e-444-great-north-road/DgW92,Grey Lynn
+"7 Avon Street, Parnell",1100.0,2,2,Listed: 11 Oct 2023,/address/auckland/parnell/7-avon-street/9BMLo,Parnell
+"4/67 Second Ave, Kingsland",560.0,2,1,Listed: 11 Oct 2023,/address/auckland/kingsland/4-67-second-avenue/Mz0a5,Kingsland
+"3#/6 Burgoyne Street, Grey Lynn",550.0,1,1,Listed: 11 Oct 2023,/address/auckland/grey-lynn/3--6-burgoyne-street/q0llb1,Grey Lynn
+"1R/99 Customs Street, City Centre",790.0,2,1,Listed: 11 Oct 2023,/address/auckland/auckland-central/1r-99-customs-street-west/krl7RP,City Centre
+"301/246 Khyber Pass Road, Grafton",630.0,1,1,Listed: 11 Oct 2023,/address/auckland/grafton/301-246-khyber-pass-road/j14jj,Grafton
+"6F/18 Scotia Place, City Centre",595.0,2,1,Listed: 11 Oct 2023,/address/auckland/auckland-central/6f-18-scotia-place/118D0,City Centre
+"399A Richardson Road, Mount Roskill",1050.0,5,3,Listed: 11 Oct 2023,/address/auckland/mount-roskill/399a-richardson-road/D0EbM,Mount Roskill
+"251 Balmoral road, Sandringham",680.0,1,1,Listed: 11 Oct 2023,/address/auckland/sandringham/251-balmoral-road/219Lnq,Sandringham
+"21/171 Queen Street, City Centre",650.0,1,1,Listed: 11 Oct 2023,/address/auckland/auckland-central/21-171-queen-street/WKpWEk,City Centre
+"3/8 Soljak Place, Mount Albert",630.0,2,1,Listed: 11 Oct 2023,/address/auckland/mount-albert/3-8-soljak-place/ja4XG,Mount Albert
+"741/35 Hobson Street, City Centre",585.0,1,1,Listed: 11 Oct 2023,/address/auckland/auckland-central/741-35-hobson-street/2Gpz4,City Centre
+"6/17 Ellerslie Park Road,",515.0,2,1,Listed: 11 Oct 2023,/address/auckland/ellerslie/6-17-ellerslie-park-road/Y2YYn,
+"2/9 Wootton Road, Remuera",595.0,2,1,Listed: 11 Oct 2023,/address/auckland/remuera/2-9-wootton-road/WjJeK,Remuera
+"612/20 Park Avenue, Ellerslie",890.0,2,2,Listed: 11 Oct 2023,/address/auckland/grafton/612-20-park-avenue/krlAOA,Ellerslie
+"28 College Hill, Freemans Bay",1950.0,2,2,Listed: 11 Oct 2023,/address/auckland/freemans-bay/28-college-hill/Y1pGaP,Freemans Bay
+"8/9 Sylvan Ave West, Mount Eden",495.0,1,1,Listed: 11 Oct 2023,,Mount Eden
+"2A/4 Rendall Place, Eden Terrace",695.0,,,Listed: 11 Oct 2023,/address/auckland/eden-terrace/2a-4-rendall-place/qjjAO,Eden Terrace
+"2 Celtic Crescent, Ellerslie",380.0,1,1,Listed: 11 Oct 2023,/address/auckland/ellerslie/2-celtic-crescent/BEAAk,Ellerslie
+"1206/20 Park Avenue, Ellerslie",650.0,1,1,Listed: 11 Oct 2023,/address/auckland/grafton/1206-20-park-avenue/Dgpbv1,Ellerslie
+"20/171 Queen Street, City Centre",680.0,1,1,Listed: 11 Oct 2023,/address/auckland/auckland-central/20-171-queen-street/JbpDLR,City Centre
+"1008/20 Park Avenue, Ellerslie",600.0,1,1,Listed: 11 Oct 2023,/address/auckland/grafton/1008-20-park-avenue/jrl1aA,Ellerslie
+"1 Adam St, Greenlane",950.0,3,2,Listed: 11 Oct 2023,/address/auckland/greenlane/1-adam-street/EY1DyQ,Greenlane
+"76 Albert street, City Centre",410.0,1,1,Listed: 11 Oct 2023,/address/auckland/auckland-central/76-albert-street/ZjpP71,City Centre
+"710B/176 Broadway, Newmarket",630.0,2,2,Listed: 11 Oct 2023,/address/auckland/newmarket/710b-176-broadway/ZjpZpw,Newmarket
+"5A/25 Rutland Street, Grafton",400.0,1,1,Listed: 11 Oct 2023,/address/auckland/auckland-central/5a-25-rutland-street/MLQ5n,Grafton
+"32 Boardman Lane, City Centre",595.0,1,1,Listed: 11 Oct 2023,/address/auckland/auckland-central/32-boardman-lane/bRJR,City Centre
+"13/2 Cawley Street, Ellerslie",650.0,2,2,Listed: 11 Oct 2023,/address/auckland/ellerslie/13-2-cawley-street/enk7J,Ellerslie
+"101 Terry Street, Blockhouse Bay",690.0,3,1,Listed: 11 Oct 2023,/address/auckland/blockhouse-bay/101-terry-street/obKa2,Blockhouse Bay
+"2213/10 Waterloo Quadrant, City Centre",430.0,1,1,Listed: 11 Oct 2023,/address/auckland/auckland-central/2213-10-waterloo-quadrant/nMbQN,City Centre
+"2c/12 Charles st, Mount Eden",495.0,1,1,Listed: 11 Oct 2023,/address/auckland/mount-eden/2c-12-charles-street/kOEJv,Mount Eden
+"8C/11 Nicholas Street, City Centre",830.0,2,2,Listed: 11 Oct 2023,/address/auckland/auckland-central/8c-11-nicholas-street/PMXMw,City Centre
+"26 Codrington Crescent, Mission Bay",1500.0,4,2,Listed: 11 Oct 2023,/address/auckland/mission-bay/26-codrington-crescent/7GnD,Mission Bay
+"3/21  Houghton Street , Meadowbank",520.0,1,1,Listed: 11 Oct 2023,/address/auckland/meadowbank/3-21-houghton-street/VzOW,Meadowbank
+"4H/11 Howe Street, Freemans Bay",420.0,1,1,Listed: 11 Oct 2023,/address/auckland/freemans-bay/4h-11-howe-street/ODJ7Y,Freemans Bay
+"101/1 Purewa Road, Meadowbank",850.0,2,2,Listed: 11 Oct 2023,/address/auckland/meadowbank/101-1-purewa-road/219Ba8,Meadowbank
+"83 Empire Rd, Epsom",1750.0,5,3,Listed: 11 Oct 2023,/address/auckland/epsom/83-empire-road/krjwv,Epsom
+"1R/99 Customs Street West, City Centre",1499.0,2,1,Listed: 10 Oct 2023,/address/auckland/auckland-central/1r-99-customs-street-west/VlpjJ5,City Centre
+"98 Point Chevalier Road, Point Chevalier",600.0,3,1,Listed: 10 Oct 2023,/address/auckland/point-chevalier/98-point-chevalier-road/jwveG,Point Chevalier
+"24 Owairaka Avenue, Mount Albert",1100.0,4,3,Listed: 10 Oct 2023,/address/auckland/mount-albert/24-owairaka-avenue/pPO54,Mount Albert
+"111/340 Onehunga Mall, Onehunga",550.0,1,1,Listed: 10 Oct 2023,/address/auckland/onehunga/111-340-onehunga-mall/ne2p9,Onehunga
+"306a Jervois Road, Herne Bay",3500.0,5,3,Listed: 10 Oct 2023,/address/auckland/herne-bay/306a-jervois-road/YYKaw,Herne Bay
+"309/59 France Street, Eden Terrace",800.0,2,1,Listed: 10 Oct 2023,/address/auckland/eden-terrace/309-59-france-street-south/lM8nE,Eden Terrace
+"134A Wheturangi Road, Greenlane",1090.0,4,2,Listed: 10 Oct 2023,/address/auckland/greenlane/134a-wheturangi-road/grNEK,Greenlane
+"76 Albert Street, City Centre",430.0,1,1,Listed: 10 Oct 2023,/address/auckland/auckland-central/76-albert-street/pLZZAa,City Centre
+"12/90 Remuera Road, Newmarket",690.0,2,1,Listed: 10 Oct 2023,/address/auckland/remuera/12-90-remuera-road/DX9j2,Newmarket
+"203/14-18 Edgerley Ave, Newmarket",695.0,2,1,Listed: 10 Oct 2023,/address/auckland/epsom/203-14-edgerley-avenue/xRlBO,Newmarket
+"132G Vincent Street, City Centre",750.0,2,2,Listed: 10 Oct 2023,/address/auckland/auckland-central/7-132-vincent-street/y0bob,City Centre
+"21A Pasadena Avenue, Point Chevalier",600.0,1,1,Listed: 10 Oct 2023,/address/auckland/point-chevalier/21-pasadena-avenue/l5w2rx,Point Chevalier
+"407/64 Great South Road, Remuera",795.0,2,2,Listed: 10 Oct 2023,/address/auckland/epsom/407-64-great-south-road/2zEaq,Remuera
+"42 Wanganui Avenue, Herne Bay",1495.0,4,1,Listed: 10 Oct 2023,/address/auckland/ponsonby/42-wanganui-avenue/KRVGB,Herne Bay
+"17B Rewi Road, Royal Oak",1400.0,5,3,Listed: 10 Oct 2023,/address/auckland/royal-oak/17b-rewi-road/neLW,Royal Oak
+"1B/60 Galway Street, Onehunga",550.0,2,1,Listed: 10 Oct 2023,/address/auckland/onehunga/1b-60-galway-street/GR72B,Onehunga
+"3/6 Sarsfield Street, Herne Bay",950.0,3,2,Listed: 10 Oct 2023,/address/auckland/herne-bay/3-6-sarsfield-street/7EJ0k,Herne Bay
+"PHD/189 Hobson Street, City Centre",530.0,2,1,Listed: 10 Oct 2023,/address/auckland/auckland-central/phd-189-hobson-street/Y1LG7M,City Centre
+"7XX/406 Great North Road, Grey Lynn",790.0,2,2,Listed: 10 Oct 2023,/address/auckland/grey-lynn/7xx-406-great-north-road/WKvE8k,Grey Lynn
+"2/35 Brixton Road, Mount Eden",600.0,2,1,Listed: 10 Oct 2023,/address/auckland/mount-eden/2-35-brixton-road/nM47M,Mount Eden
+"1/44 Tawhiri Road, One Tree Hill",740.0,3,1,Listed: 10 Oct 2023,/address/auckland/one-tree-hill/1-44-tawhiri-road/8jMGx,One Tree Hill
+"217/15-31 Wellesley Street, City Centre",650.0,1,1,Listed: 10 Oct 2023,/address/auckland/auckland-central/217-15-wellesley-street-west/XYvxxW,City Centre
+"L5/147 Hobson street, City Centre",500.0,2,1,Listed: 10 Oct 2023,/address/auckland/auckland-central/5-147-hobson-street/noeQA9,City Centre
+"320/15-31 Wellesley Street, City Centre",529.0,1,1,Listed: 10 Oct 2023,/address/auckland/auckland-central/320-15-wellesley-street-west/ABvXgQ,City Centre
+"3/27 Puriri Avenue, Greenlane",580.0,2,1,Listed: 10 Oct 2023,/address/auckland/greenlane/3-27-puriri-avenue/L7pRN,Greenlane
+"1D/14 Waterloo Quadrant, City Centre",500.0,1,1,Listed: 10 Oct 2023,/address/auckland/auckland-central/1d-14-waterloo-quadrant/oGxQB,City Centre
+"A6/25 Cheshire Street, Parnell",525.0,1,1,Listed: 10 Oct 2023,/address/auckland/parnell/a6-25-cheshire-street/lrGLe,Parnell
+"4/75 Ranfurly Rd, Epsom",510.0,1,1,Listed: 10 Oct 2023,/address/auckland/epsom/4-75-ranfurly-road/M8vqv,Epsom
+"2/123 White Swan Road, Mount Roskill",860.0,4,2,Listed: 10 Oct 2023,/address/auckland/mount-roskill/2-123-white-swan-road/zODz8,Mount Roskill
+"3/39 Onslow Avenue, Epsom",820.0,3,2,Listed: 10 Oct 2023,/address/auckland/epsom/3-39-onslow-avenue/x0eG,Epsom
+"7 Shirley Road, Grey Lynn",550.0,1,1,Listed: 10 Oct 2023,/address/auckland/grey-lynn/7-shirley-road/Egv54K,Grey Lynn
+"5/169 Jervois Road, Herne Bay",720.0,2,1,Listed: 10 Oct 2023,/address/auckland/herne-bay/5-169-jervois-road/QnkV,Herne Bay
+"16 Mersey Place, New Windsor",880.0,3,1,Listed: 10 Oct 2023,/address/auckland/new-windsor/16-mersey-place/V8AqW,New Windsor
+"44 Esplanade Rd, Mount Eden",620.0,2,1,Listed: 10 Oct 2023,/address/auckland/mount-eden/44-esplanade-road/rGb2k,Mount Eden
+"24/146 Fanshawe St, City Centre",580.0,2,1,Listed: 10 Oct 2023,/address/auckland/auckland-central/24-146-fanshawe-street/vpV8O,City Centre
+"1107/85 Beach Road, City Centre",620.0,2,1,Listed: 10 Oct 2023,/address/auckland/auckland-central/1107-85-beach-road/pOxvQ,City Centre
+"44/2 Cawley Street, Ellerslie",680.0,2,1,Listed: 10 Oct 2023,/address/auckland/ellerslie/44-2-cawley-street/R5MwY,Ellerslie
+"307/250 Kepa Road, Mission Bay",765.0,1,1,Listed: 10 Oct 2023,/address/auckland/mission-bay/307-250-kepa-road/OAXD1,Mission Bay
+"7D Walford Road, Point Chevalier",1300.0,4,3,Listed: 10 Oct 2023,/address/auckland/point-chevalier/7-walford-road/BDvV57,Point Chevalier
+"6B/11 Durham Street East, City Centre",360.0,1,1,Listed: 10 Oct 2023,/address/auckland/auckland-central/6b-11-durham-street-east/pL9NQ,City Centre
+"6/52 Ascot Avenue, Remuera",690.0,3,1,Listed: 10 Oct 2023,/address/auckland/remuera/6-52-ascot-avenue/K7JJQ,Remuera
+"1/2 Torrance Street, Epsom",580.0,2,1,Listed: 10 Oct 2023,/address/auckland/epsom/1-2-torrance-street/gVyQ2,Epsom
+"4/12 Dinglebank Rd, Mount Wellington",510.0,2,1,Listed: 10 Oct 2023,/address/auckland/mount-wellington/4-12-dinglebank-road/bLAOa,Mount Wellington
+"84 Aranui Road, Mount Wellington",300.0,3,1,Listed: 10 Oct 2023,/address/auckland/mount-wellington/84-aranui-road/8EDqK,Mount Wellington
+"1/10 Mauretania Place, Lynfield",580.0,2,1,Listed: 10 Oct 2023,/address/auckland/lynfield/1-10-mauretania-place/KzaKW,Lynfield
+"2/65 Dundale Ave, Blockhouse Bay",670.0,3,2,Listed: 10 Oct 2023,/address/auckland/blockhouse-bay/2-65-dundale-avenue/EgvevG,Blockhouse Bay
+"9A/109 Vincent Street, City Centre",430.0,1,1,Listed: 10 Oct 2023,/address/auckland/auckland-central/9a-109-vincent-street/YlZb7,City Centre
+"31 Findlay Street, Ellerslie",780.0,4,1,Listed: 10 Oct 2023,/address/auckland/ellerslie/31-findlay-street/4W9a,Ellerslie
+"202/25 Pollen Street, Ponsonby",1000.0,2,2,Listed: 10 Oct 2023,/address/auckland/grey-lynn/202-25-pollen-street/7Z8Pk,Ponsonby
+"11C Athens Road, One Tree Hill",1100.0,4,3,Listed: 10 Oct 2023,/address/auckland/onehunga/11-athens-road/PMPVzL,One Tree Hill
+"705/1 Greys Avenue, City Centre",730.0,1,1,Listed: 10 Oct 2023,/address/auckland/auckland-central/705-1-greys-avenue/7avOzv,City Centre
+"59/406 Great North Road, Grey Lynn",820.0,2,3,Listed: 10 Oct 2023,/address/auckland/grey-lynn/59-406-great-north-road/DgvVb1,Grey Lynn
+"159c Meadowbank Road, Meadowbank",750.0,3,1,Listed: 10 Oct 2023,/address/auckland/meadowbank/159c-meadowbank-road/grv50,Meadowbank
+"1/24 Douglas Road, Mount Eden",670.0,2,1,Listed: 09 Oct 2023,/address/auckland/mount-eden/1-24-douglas-road/eV7NE7,Mount Eden
+"8I/508 Queen Street, City Centre",400.0,1,1,Listed: 09 Oct 2023,/address/auckland/auckland-central/8i-508-queen-street/bLpz,City Centre
+"63/32 Edwin Street, Eden Terrace",850.0,3,1,Listed: 09 Oct 2023,/address/auckland/mount-eden/63-32-edwin-street/wG0D,Eden Terrace
+"3/296 Ellerslie Panmure Highway, Mount Wellington",585.0,2,1,Listed: 09 Oct 2023,/address/auckland/mount-wellington/3-296-ellerslie-panmure-highway/0zAaZ,Mount Wellington
+"8 Airedale Street, City Centre",420.0,1,1,Listed: 09 Oct 2023,/address/auckland/auckland-central/8-airedale-street/pLaara,City Centre
+"72 Nelson Street, City Centre",540.0,2,1,Listed: 09 Oct 2023,/address/auckland/auckland-central/72-nelson-street/Rz8BYP,City Centre
+"64/146 Fanshawe Street, City Centre",670.0,3,2,Listed: 09 Oct 2023,/address/auckland/auckland-central/64-146-fanshawe-street/0ORG,City Centre
+"6B/4 St Paul Street, City Centre",460.0,1,1,Listed: 09 Oct 2023,/address/auckland/auckland-central/6b-4-st-paul-street/rN82D,City Centre
+"44/428 Great North Road, Grey Lynn",790.0,2,1,Listed: 09 Oct 2023,/address/auckland/grey-lynn/44-428-great-north-road/y0gL5K,Grey Lynn
+"107A White Swan Road, Mount Roskill",720.0,3,2,Listed: 09 Oct 2023,/address/auckland/mount-roskill/107a-white-swan-road/WlRlb,Mount Roskill
+"20 Beachcroft Avenue, Onehunga",1000.0,4,2,Listed: 09 Oct 2023,/address/auckland/onehunga/20-beachcroft-avenue/vbQP0,Onehunga
+"4 Balmoral Road, Epsom",700.0,2,1,Listed: 09 Oct 2023,/address/auckland/epsom/4-balmoral-road/DEnxw,Epsom
+"PC/17 Blake Street, Ponsonby",540.0,1,1,Listed: 09 Oct 2023,/address/auckland/ponsonby/pc-17-blake-street/gJG9N,Ponsonby
+"5g/30 Upper Queen St, City Centre",620.0,2,1,Listed: 09 Oct 2023,/address/auckland/auckland-central/5g-30-upper-queen-street/axy2Ow,City Centre
+"19/1 Glenside Crescent, City Centre",750.0,2,2,Listed: 09 Oct 2023,/address/auckland/grafton/19-1-glenside-crescent/2zJgJ,City Centre
+"4J/250 Richmond Road, Grey Lynn",550.0,1,1,Listed: 09 Oct 2023,/address/auckland/grey-lynn/4j-250-richmond-road/b4rJk,Grey Lynn
+"104B Duke Street, Three Kings",870.0,3,3,Listed: 09 Oct 2023,/address/auckland/mount-roskill/b-104-duke-street/eaeOA2,Three Kings
+"9 Hubert Henderson Place, Remuera",830.0,4,1,Listed: 09 Oct 2023,/address/auckland/remuera/9-hubert-henderson-place/XKxeW,Remuera
+"L4/105 Queen Street, City Centre",440.0,1,1,Listed: 09 Oct 2023,/address/auckland/auckland-central/424-105-queen-street/4ERlg,City Centre
+"1A/37-39 Federal Street , City Centre",600.0,2,1,Listed: 09 Oct 2023,/address/auckland/auckland-central/1a-37-federal-street/2G20J,City Centre
+"12A/147 Hobson Street, City Centre",580.0,4,1,Listed: 09 Oct 2023,/address/auckland/auckland-central/12a-147-hobson-street/k94an,City Centre
+"33/8 Eaglehurst Road, Ellerslie",750.0,3,2,Listed: 09 Oct 2023,/address/auckland/ellerslie/33-8-eaglehurst-road/JlLAL,Ellerslie
+"2/180 Green Lane West, Greenlane",620.0,3,1,Listed: 09 Oct 2023,/address/auckland/greenlane/2-180-green-lane-west/MkLAn,Greenlane
+"1502/38A Liverpool Street, City Centre",1400.0,3,2,Listed: 09 Oct 2023,/address/auckland/auckland-central/1502-38a-liverpool-street/glZEQ,City Centre
+"1C Bathurst Road, Mount Eden",520.0,1,1,Listed: 09 Oct 2023,/address/auckland/mount-eden/c-1-bathurst-road/W8lbW,Mount Eden
+"5T/435 New North Road, Kingsland",680.0,1,1,Listed: 09 Oct 2023,/address/auckland/kingsland/5t-435-new-north-road/7JZYE,Kingsland
+"327/35 Hobson Street, City Centre",420.0,1,1,Listed: 09 Oct 2023,/address/auckland/auckland-central/327-35-hobson-street/NKpq5,City Centre
+"14B Rosedale Avenue, Mount Eden",830.0,4,2,Listed: 09 Oct 2023,/address/auckland/mount-eden/14-rosedale-avenue/zDMeb5,Mount Eden
+"18/25 Rossmay Terrace, Mount Eden",750.0,3,2,Listed: 09 Oct 2023,/address/auckland/mount-eden/18-25-rossmay-terrace/rNVNR,Mount Eden
+"31 Combes Road, Remuera",1100.0,4,2,Listed: 09 Oct 2023,/address/auckland/remuera/31-combes-road/xVMJb,Remuera
+"2N/32 Eden crescent, City Centre",425.0,1,1,Listed: 09 Oct 2023,/address/auckland/auckland-central/2n-32-eden-crescent/0ZzxO,City Centre
+"101/1 Greys Avenue, City Centre",1300.0,2,2,Listed: 09 Oct 2023,/address/auckland/auckland-central/101-1-greys-avenue/BDN798,City Centre
+"456A Karangahape Road, City Centre",395.0,1,1,Listed: 09 Oct 2023,/address/auckland/auckland-central/456-karangahape-road/0wQeX9,City Centre
+"8E/117 Victoria St West , City Centre",700.0,2,2,Listed: 09 Oct 2023,/address/auckland/auckland-central/8e-117-victoria-street-west/0nJGO,City Centre
+"88A Queenstown Road, Onehunga",950.0,4,2,Listed: 09 Oct 2023,/address/auckland/onehunga/88a-queenstown-road/GORyO,Onehunga
+"2/137 Crummer Road, Grey Lynn",540.0,1,1,Listed: 09 Oct 2023,/address/auckland/grey-lynn/2-137-crummer-road/l52GZx,Grey Lynn
+"4#/6 Piwakawaka Street, Eden Terrace",650.0,2,1,Listed: 09 Oct 2023,/address/auckland/eden-terrace/4--6-piwakawaka-street/Dg7WeL,Eden Terrace
+"2/4 Webber Street, Westmere",995.0,3,1,Listed: 09 Oct 2023,/address/auckland/westmere/2-4-webber-street/Z9XR9,Westmere
+"6#/135 Vincent Street, City Centre",520.0,2,1,Listed: 09 Oct 2023,/address/auckland/auckland-central/6--135-vincent-street/GReJwX,City Centre
+"72 Nelson, City Centre",365.0,2,1,Listed: 09 Oct 2023,/address/auckland-city/city-centre/72-nelson/b4nlyY,City Centre
+"1/130B Balmoral Road, Mount Eden",400.0,1,1,Listed: 09 Oct 2023,/address/auckland/mount-eden/1-130b-balmoral-road/gr9Y5B,Mount Eden
+"5#/149 Nelson Street, City Centre",460.0,1,1,Listed: 09 Oct 2023,/address/auckland/auckland-central/5--149-nelson-street/y0grVM,City Centre
+"47 Hobson Street, City Centre",590.0,2,1,Listed: 09 Oct 2023,/address/auckland/auckland-central/47-hobson-street/gr9Yve,City Centre
+"9/2A Ewenson Ave, One Tree Hill",620.0,3,1,Listed: 09 Oct 2023,/address/auckland/one-tree-hill/9-2a-ewenson-avenue/N4rjgM,One Tree Hill
+"50 Pompallier Terrace, Ponsonby",820.0,3,1,Listed: 09 Oct 2023,/address/auckland/ponsonby/50-pompallier-terrace/5KQ2R,Ponsonby
+"12a/8 Scotia Place, City Centre",430.0,1,1,Listed: 09 Oct 2023,/address/auckland/auckland-central/12a-8-scotia-place/8RNK,City Centre
+"1#/32 Eden Crescent, City Centre",420.0,1,1,Listed: 09 Oct 2023,/address/auckland/auckland-central/1--32-eden-crescent/vMDBQX,City Centre
+"72 Nelson Street, City Centre",350.0,2,1,Listed: 09 Oct 2023,/address/auckland/auckland-central/72-nelson-street/QjQBMX,City Centre
+"1/110 Ladies Mile, Ellerslie",895.0,4,2,Listed: 09 Oct 2023,/address/auckland/ellerslie/1-110-ladies-mile/Qn1ZJ,Ellerslie
+"2/14 Quentin Avenue, Epsom",830.0,3,2,Listed: 09 Oct 2023,/address/auckland/epsom/2-14-quentin-avenue/LoWWo,Epsom
+"452/6 Princes Street, City Centre",795.0,1,1,Listed: 09 Oct 2023,/address/auckland/auckland-central/452-6-princes-street/1GVxyp,City Centre
+"5-2C/9 Victoria Street East, City Centre",330.0,1,4,Listed: 09 Oct 2023,/address/auckland/auckland-central/5-2c-9-victoria-street-east/5jkl7L,City Centre
+"10E/30 Symonds Street, City Centre",220.0,1,1,Listed: 09 Oct 2023,/address/auckland/grafton/10e-30-symonds-street/B95z7,City Centre
+"4/30 Rutland Road, Mount Wellington",625.0,3,1,Listed: 09 Oct 2023,/address/auckland/mount-wellington/4-30-rutland-road/8ZORx,Mount Wellington
+"3/533 Manukau Road, Epsom",440.0,1,1,Listed: 09 Oct 2023,/address/auckland/epsom/3-533-manukau-road/vVxyG,Epsom
+"8D/17 Albert Street, City Centre",285.0,1,1,Listed: 09 Oct 2023,/address/auckland/auckland-central/8d-17-albert-street/WKJYz7,City Centre
+"21i/76 Albert Street, City Centre",395.0,1,1,Listed: 09 Oct 2023,/address/auckland/auckland-central/21i-76-albert-street/rNqJ1,City Centre
+"15/11 Balfour Road, Parnell",525.0,1,1,Listed: 09 Oct 2023,/address/auckland/parnell/15-11-balfour-road/7JLxv,Parnell
+"413/77 Halsey Street, City Centre",550.0,1,1,Listed: 09 Oct 2023,/address/auckland/auckland-central/413-77-halsey-street/Pkgnv,City Centre
+"16A Edenvale Crescent, Mount Eden",1150.0,4,1,Listed: 09 Oct 2023,/address/auckland/mount-eden/16-edenvale-crescent/ABno8x,Mount Eden
+"1003/168 Hobson Street , City Centre",550.0,2,1,Listed: 09 Oct 2023,/address/auckland/auckland-central/1003-168-hobson-street/oWMGg,City Centre
+"1/37 Upland Road, Remuera",950.0,3,2,Listed: 09 Oct 2023,/address/auckland/remuera/1-37-upland-road/KE2Lwx,Remuera
+"1/29 Dudley Road, Mission Bay",600.0,2,1,Listed: 09 Oct 2023,/address/auckland/mission-bay/1-29-dudley-road/zQYNE,Mission Bay
+"L10/18 Scotia Place, City Centre",530.0,2,1,Listed: 08 Oct 2023,/address/auckland/auckland-central/10-18-scotia-place/Y1Wrwp,City Centre
+"125 Carrington Road, Point Chevalier",400.0,1,1,Listed: 08 Oct 2023,/address/auckland/point-chevalier/125-carrington-road/XYWxDn,Point Chevalier
+"100X/6-8 Lorne Street, City Centre",520.0,1,1,Listed: 08 Oct 2023,/address/auckland/auckland-central/100x-6-lorne-street/q0OPNx,City Centre
+"102/8 Whitaker Place, Grafton",600.0,2,1,Listed: 08 Oct 2023,/address/auckland/grafton/102-8-whitaker-place/8EP9a1,Grafton
+"1B/406-428 Great North Road, Grey Lynn",530.0,1,1,Listed: 08 Oct 2023,/address/auckland/grey-lynn/1b-406-great-north-road/9JPGwK,Grey Lynn
+"1A/406 Great North Road, Grey Lynn",585.0,1,1,Listed: 08 Oct 2023,/address/auckland/grey-lynn/1a-406-great-north-road/axWw7e,Grey Lynn
+"Alaunia Pl, Lynfield",850.0,3,2,Listed: 08 Oct 2023,/address/auckland-city/lynfield/0-alaunia-pl/RzWo0Y,Lynfield
+"2/380 Ellerslie-Panmure Highway, Mount Wellington",620.0,3,1,Listed: 08 Oct 2023,/address/auckland/mount-wellington/2-380-ellerslie-panmure-highway/0zxRZ,Mount Wellington
+"715/147 Nelson Street, City Centre",650.0,1,1,Listed: 08 Oct 2023,/address/auckland/auckland-central/715-147-nelson-street/QvbvX,City Centre
+"147 Quay Street (Shed 22), City Centre",1650.0,2,2,Listed: 07 Oct 2023,/address/auckland-city/city-centre/147-quay-street--shed-22-/zD05QE,City Centre
+"43 Maungarei Road, Remuera",920.0,3,2,Listed: 07 Oct 2023,/address/auckland/remuera/43-maungarei-road/21jEN,Remuera
+"12 Rangipawa Road, One Tree Hill",950.0,3,1,Listed: 07 Oct 2023,/address/auckland/one-tree-hill/12-rangipawa-road/vbqwe,One Tree Hill
+"51 Richmond Road, Ponsonby",1895.0,3,2,Listed: 07 Oct 2023,/address/auckland/grey-lynn/51-richmond-road/M82rv,Ponsonby
+"5R/16 Burton Street, Grafton",670.0,2,1,Listed: 06 Oct 2023,/address/auckland/grafton/5r-16-burton-street/l5Kpo,Grafton
+"8 St Leonards Road, Mount Eden",950.0,5,1,Listed: 06 Oct 2023,/address/auckland/mount-eden/8-st-leonards-road/ZBwp,Mount Eden
+"4 Dockside Lane, City Centre",665.0,2,1,Listed: 06 Oct 2023,/address/auckland/auckland-central/4-dockside-lane/QjrDLA,City Centre
+"2205/32 Swanson Street, City Centre",460.0,1,1,Listed: 06 Oct 2023,/address/auckland/auckland-central/2205-32-swanson-street/RakjY,City Centre
+"803B/438 Queen Street, City Centre",450.0,1,1,Listed: 06 Oct 2023,/address/auckland/auckland-central/803b-438-queen-street/OYzE2R,City Centre
+"3/148 Arthur Street, Onehunga",700.0,2,1,Listed: 06 Oct 2023,/address/auckland/onehunga/3-148-arthur-street/XobRJ,Onehunga
+"G03/135-145 Symonds Street, Eden Terrace",390.0,1,1,Listed: 06 Oct 2023,/address/auckland/eden-terrace/g03-135-symonds-street/grEjJN,Eden Terrace
+"302/20 Upper Queen St, City Centre",550.0,2,1,Listed: 06 Oct 2023,/address/auckland/auckland-central/302-20-upper-queen-street/NL9og,City Centre
+"1F/6 Piwakawaka Street, Eden Terrace",590.0,2,2,Listed: 06 Oct 2023,/address/auckland/eden-terrace/1f-6-piwakawaka-street/wBE2,Eden Terrace
+"41/406 Great North Road, Grey Lynn",780.0,2,2,Listed: 06 Oct 2023,/address/auckland/grey-lynn/41-406-great-north-road/1GzlWW,Grey Lynn
+"L10/6 Lorne Street, City Centre",390.0,1,1,Listed: 06 Oct 2023,/address/auckland/auckland-central/10-6-lorne-street/b41jVb,City Centre
+"2/3A Haast Street, Remuera",850.0,3,2,Listed: 06 Oct 2023,/address/auckland/remuera/2-3a-haast-street/1GzGER,Remuera
+"106 Vincent Street, City Centre",460.0,1,1,Listed: 06 Oct 2023,/address/auckland/auckland-central/106-vincent-street/5jLjvX,City Centre
+"14A Wheturangi Road, Greenlane",750.0,2,1,Listed: 06 Oct 2023,/address/auckland/greenlane/14-wheturangi-road/grEJye,Greenlane
+"9D/15 Whitaker Place, City Centre",595.0,3,1,Listed: 06 Oct 2023,/address/auckland/grafton/9d-15-whitaker-place/Y2aPy,City Centre
+"2B/2 White Street, City Centre",480.0,2,1,Listed: 06 Oct 2023,/address/auckland/auckland-central/2b-2-white-street/z4a8O,City Centre
+"52B King George Avenue, Epsom",1400.0,5,3,Listed: 06 Oct 2023,/address/auckland/epsom/52b-king-george-avenue/VjJP5,Epsom
+"4/7 Gowing Drive, Meadowbank",450.0,1,1,Listed: 06 Oct 2023,/address/auckland/meadowbank/4-7-gowing-drive/9JXzV9,Meadowbank
+"6/14 Campbell Road, Royal Oak",650.0,3,1,Listed: 06 Oct 2023,/address/auckland/royal-oak/6-14-campbell-road/zD8rJ,Royal Oak
+"1133A Dominion Road, Mount Roskill",1100.0,5,3,Listed: 06 Oct 2023,/address/auckland/mount-roskill/1133a-dominion-road/yRk8E,Mount Roskill
+"5/81-83 Jervois Road, Herne Bay",650.0,2,1,Listed: 06 Oct 2023,/address/auckland/ponsonby/5-81-jervois-road/QjrnqP,Herne Bay
+"32D Roseville St, New Windsor",695.0,2,1,Listed: 06 Oct 2023,/address/auckland/new-windsor/32-roseville-street/q0LxBg,New Windsor
+"32A Roseville St, New Windsor",795.0,3,2,Listed: 06 Oct 2023,/address/auckland/new-windsor/32-roseville-street/DgnqOn,New Windsor
+"72 Nelson Street, City Centre",375.0,2,1,Listed: 06 Oct 2023,/address/auckland/auckland-central/72-nelson-street/N4rjRn,City Centre
+"72 Nelson Street, City Centre",475.0,2,1,Listed: 06 Oct 2023,/address/auckland/auckland-central/72-nelson-street/9J2rQA,City Centre
+"15/3 Sherbourne Road, Mount Eden",550.0,1,1,Listed: 06 Oct 2023,/address/auckland/mount-eden/15-3-sherbourne-road/NzzJ5,Mount Eden
+"8/11 Nicholas Street, City Centre",510.0,1,1,Listed: 06 Oct 2023,/address/auckland/auckland-central/8-11-nicholas-street/krQJro,City Centre
+"145 Nelson Street, City Centre",900.0,2,1,Listed: 06 Oct 2023,/address/auckland/auckland-central/145-nelson-street/492Dl,City Centre
+"4/48 Esplanade Road, Mount Eden",440.0,1,1,Listed: 06 Oct 2023,/address/auckland/mount-eden/4-48-esplanade-road/7JErE,Mount Eden
+"70 Sale Street, City Centre",590.0,1,1,Listed: 06 Oct 2023,/address/auckland/auckland-central/70-sale-street/krQoJA,City Centre
+"6 Fontenoy Street, Mount Albert",850.0,3,2,Listed: 06 Oct 2023,/address/auckland/mount-albert/6-fontenoy-street/zx8QJ,Mount Albert
+"2302/32 Swanson Street, City Centre",750.0,2,2,Listed: 06 Oct 2023,/address/auckland/auckland-central/2302-32-swanson-street/LBljN,City Centre
+"4D/16 Chapman Street, Grey Lynn",700.0,2,2,Listed: 06 Oct 2023,/address/auckland/grey-lynn/4d-16-chapman-street/OGXxR,Grey Lynn
+"3/21 Montrose St, Point Chevalier",450.0,1,1,Listed: 06 Oct 2023,/address/auckland/point-chevalier/3-21-montrose-street/XYxnE0,Point Chevalier
+"327/184 Symonds Street, Eden Terrace",600.0,2,1,Listed: 06 Oct 2023,/address/auckland/eden-terrace/327-184-symonds-street/4ReP8,Eden Terrace
+"66A Albrecht Avenue, Mount Roskill",740.0,3,1,Listed: 06 Oct 2023,/address/auckland/mount-roskill/66a-albrecht-avenue/0e4G,Mount Roskill
+"Apt. 2c/11 George Street, Newmarket",1100.0,3,3,Listed: 06 Oct 2023,/address/auckland/newmarket/apt--2c-11-george-street/JboWJO,Newmarket
+"2/1 Kingsway Avenue, Sandringham",500.0,2,1,Listed: 05 Oct 2023,/address/auckland/sandringham/2-1-kingsway-avenue/Y10BM,Sandringham
+"5A Buchanan Street, Kingsland",660.0,3,1,Listed: 05 Oct 2023,/address/auckland/kingsland/5-buchanan-street/oGQqZ5,Kingsland
+"221/125 Customs street West, City Centre",850.0,2,1,Listed: 05 Oct 2023,/address/auckland/auckland-central/221-125-customs-street-west/Vl77o,City Centre
+"2D/3 Edinburgh Street, City Centre",745.0,2,1,Listed: 05 Oct 2023,/address/auckland/auckland-central/2d-3-edinburgh-street/RzeXPq,City Centre
+"304/2A Truro Road, Sandringham",640.0,2,2,Listed: 05 Oct 2023,/address/auckland/sandringham/304-2a-truro-road/DgBljN,Sandringham
+"3 Carmont Street, Remuera",2500.0,6,4,Listed: 05 Oct 2023,/address/auckland/remuera/3-carmont-street/JxRR,Remuera
+"5/71 Sarsfield Street, City Centre",1050.0,2,2,Listed: 05 Oct 2023,/address/auckland/herne-bay/5-71-sarsfield-street/oGQGzb,City Centre
+"2J/16 Market Place Auckland, Auckland City1010",530.0,1,1,Listed: 05 Oct 2023,/address/auckland/auckland-central/2j-16-market-place/LonoeJ,Auckland City1010
+"15 Hillsborough Road, Hillsborough",1400.0,6,5,Listed: 05 Oct 2023,/address/auckland/hillsborough/15-hillsborough-road/wnLAr,Hillsborough
+"2/21 Ngake Street, Orakei",525.0,1,1,Listed: 05 Oct 2023,/address/auckland/orakei/21b-ngake-street/VlMR7,Orakei
+"147 Nelson Street, City Centre",650.0,2,1,Listed: 05 Oct 2023,/address/auckland/auckland-central/147-nelson-st/eqG5x,City Centre
+"5B/132 Vincent Street, City Centre",880.0,2,2,Listed: 05 Oct 2023,/address/auckland/auckland-central/5b-132-vincent-street/Zwew,City Centre
+"3/33 Beckenham Avenue, Royal Oak",890.0,3,3,Listed: 05 Oct 2023,/address/auckland/royal-oak/3-33-beckenham-avenue/xL0LyZ,Royal Oak
+"27 Union Street, City Centre",650.0,2,1,Listed: 05 Oct 2023,/address/auckland/auckland-central/27-union-street/4R9RGr,City Centre
+"409/4 Dockside Lane, City Centre",600.0,2,1,Listed: 05 Oct 2023,/address/auckland/auckland-central/409-4-dockside-lane/0zGK9,City Centre
+"16A Aorere Street, Parnell",960.0,3,2,Listed: 05 Oct 2023,/address/auckland/parnell/16a-aorere-street/9zpNA,Parnell
+"465A Onehunga Mall Rd, Onehunga",900.0,4,2,Listed: 05 Oct 2023,/address/auckland/onehunga/465a-onehunga-mall/QXkoX,Onehunga
+"1/46 Godden Crescent, Mission Bay",1550.0,4,3,Listed: 05 Oct 2023,/address/auckland/mission-bay/1-46-godden-crescent/kD40j,Mission Bay
+"89B Alfred Street, Onehunga",995.0,4,3,Listed: 05 Oct 2023,/address/auckland/onehunga/89-alfred-street/zDk4EQ,Onehunga
+"2/165 Tamaki Drive, Kohimarama",1300.0,3,2,Listed: 05 Oct 2023,/address/auckland/kohimarama/2-165-tamaki-drive/g00N9,Kohimarama
+"89A Alfred Street, Onehunga",795.0,3,2,Listed: 05 Oct 2023,/address/auckland/onehunga/89-alfred-street/8EKJPx,Onehunga
+"606/43 Anzac Avenue, City Centre",275.0,1,1,Listed: 05 Oct 2023,/address/auckland/auckland-central/606-43-anzac-avenue/kYNew,City Centre
+"303/145 Symonds Street, Eden Terrace",540.0,1,1,Listed: 05 Oct 2023,/address/auckland/eden-terrace/303-145-symonds-street/J4bLq,Eden Terrace
+"597A Mt Albert Road, Three Kings",650.0,3,1,Listed: 05 Oct 2023,/address/auckland/royal-oak/597-mount-albert-road/LonjRW,Three Kings
+"212 Richmond Rd, Ponsonby",790.0,3,1,Listed: 05 Oct 2023,/address/auckland/grey-lynn/212-richmond-road/nYgWN,Ponsonby
+"L7/6 Dock Street, City Centre",680.0,2,1,Listed: 05 Oct 2023,/address/auckland/auckland-central/7-6-dock-street/0wNz9J,City Centre
+"L1/85 Wakefield Street, City Centre",395.0,1,1,Listed: 05 Oct 2023,/address/auckland/auckland-central/1-85-wakefield-street/EgOYXG,City Centre
+"Hillsborough, Auckland City",800.0,3,2,Listed: 05 Oct 2023,/address/auckland/hillsborough/336-hillsborough-road/V8KOo,Auckland City
+"1/124 St Johns Road, Meadowbank",900.0,2,1,Listed: 05 Oct 2023,/address/auckland/saint-johns/1-124-st-johns-road/Py40,Meadowbank
+"15/533 Manukau Road, Epsom",650.0,2,1,Listed: 05 Oct 2023,/address/auckland/epsom/15-533-manukau-road/ob51g,Epsom
+"708/135 Vincent Street, City Centre",590.0,2,1,Listed: 05 Oct 2023,/address/auckland/auckland-central/708-135-vincent-street/9J0yQ,City Centre
+"L4/11 Union Street, City Centre",400.0,1,1,Listed: 05 Oct 2023,/address/auckland/auckland-central/4-11-union-street/LonaXK,City Centre
+"62/146 Fanshawe Street, City Centre",600.0,2,1,Listed: 05 Oct 2023,/address/auckland/auckland-central/62-146-fanshawe-street/oooqb,City Centre
+"89 St Vincent Avenue, Remuera",835.0,3,1,Listed: 05 Oct 2023,/address/auckland/remuera/89-st-vincent-avenue/axpAL,Remuera
+"2/205 Abbotts Way, Remuera",740.0,3,1,Listed: 05 Oct 2023,/address/auckland/remuera/2-205-abbotts-way/Y1aA7,Remuera
+"30A Hayr Road, Three Kings",850.0,4,2,Listed: 04 Oct 2023,/address/auckland/three-kings/30a-hayr-road/Bj7jR,Three Kings
+"26 Briody Terrace, Stonefields",1299.0,5,3,Listed: 04 Oct 2023,/address/auckland/stonefields/26-briody-terrace/OeMM,Stonefields
+"32 Queen Mary Ave, Epsom",1800.0,5,3,Listed: 04 Oct 2023,/address/auckland/epsom/32-queen-mary-avenue/9zwRb,Epsom
+"2/3 Eden Crescent, City Centre",650.0,2,1,Listed: 04 Oct 2023,/address/auckland/auckland-central/2-3-eden-crescent/kxYO,City Centre
+"2/6 Prebble Place, Mission Bay",775.0,3,1,Listed: 04 Oct 2023,/address/auckland/mission-bay/2-6-prebble-place/qKDgg,Mission Bay
+"Room 4/6C/17 Albert Street City Centre Auckland, City Centre",280.0,5,1,Listed: 04 Oct 2023,/address/auckland-city/city-centre/room-4-0-albert-street-city-centre-auckland/zD1oXR,City Centre
+"23A Watea Road, Sandringham",1350.0,5,3,Listed: 04 Oct 2023,/address/auckland/sandringham/a-23-watea-road/gqGR9,Sandringham
+"2/55 Brighton Road, Parnell",750.0,2,1,Listed: 04 Oct 2023,/address/auckland/parnell/2-55-brighton-road/DgbQNn,Parnell
+"9#/72 Nelson Street, City Centre",460.0,2,1,Listed: 04 Oct 2023,/address/auckland/auckland-central/9--72-nelson-street/y01qJO,City Centre
+"1/30 Amaru Road, One Tree Hill",720.0,3,1,Listed: 04 Oct 2023,/address/auckland/one-tree-hill/1-30-amaru-road/DlZJv,One Tree Hill
+"5A Pasteur Place, New Windsor",700.0,3,2,Listed: 04 Oct 2023,/address/auckland/new-windsor/5-pasteur-place/PMOjjD,New Windsor
+"26 Old Mill Road, Grey Lynn",2450.0,4,2,Listed: 04 Oct 2023,/address/auckland/grey-lynn/26-old-mill-road/21O0K,Grey Lynn
+"10D/156 Vincent Street, City Centre",580.0,2,1,Listed: 04 Oct 2023,/address/auckland/auckland-central/10d-156-vincent-street/rDbkY,City Centre
+"3/365 Great South Road, Ellerslie",640.0,2,1,Listed: 04 Oct 2023,/address/auckland/ellerslie/3-365-great-south-road/DXK40,Ellerslie
+"30A Dromorne Road, Remuera",1150.0,4,2,Listed: 04 Oct 2023,/address/auckland/remuera/30a-dromorne-road/4ZBBa,Remuera
+"811/76 Wakefield Street, City Centre",550.0,2,1,Listed: 04 Oct 2023,/address/auckland/auckland-central/811-76-wakefield-street/OYqkM,City Centre
+"103/406-426 Great North Road, Grey Lynn",800.0,2,2,Listed: 04 Oct 2023,/address/auckland/grey-lynn/103-406-great-north-road/EgbpnK,Grey Lynn
+"1906/75 Victoria St West, City Centre",650.0,2,1,Listed: 04 Oct 2023,/address/auckland/auckland-central/75-victoria-street-west/9XKvJ,City Centre
+"1/30 Woodside Road, Mount Eden",650.0,2,1,Listed: 04 Oct 2023,/address/auckland/mount-eden/1-30-woodside-road/4vQNk,Mount Eden
+"130A Kohimarama Rd, Kohimarama",685.0,2,1,Listed: 04 Oct 2023,/address/auckland/kohimarama/130a-kohimarama-road/EM0Br,Kohimarama
+"502 Great North Road, Grey Lynn",700.0,3,1,Listed: 04 Oct 2023,/address/auckland/grey-lynn/502-great-north-road/4llpE,Grey Lynn
+"32C Hayr Road, Three Kings",520.0,2,1,Listed: 04 Oct 2023,/address/auckland/three-kings/32-hayr-road/8EbvoZ,Three Kings
+"3/12 Tawera Road, Greenlane",1190.0,4,3,Listed: 04 Oct 2023,/address/auckland/greenlane/3-12-tawera-road/gr1yWD,Greenlane
+"3D/31 Scanlan Street, Grey Lynn",695.0,2,2,Listed: 04 Oct 2023,/address/auckland/grey-lynn/3d-31-scanlan-street/4RZ4k,Grey Lynn
+"2011/11 Liverpool Street , City Centre",400.0,1,1,Listed: 04 Oct 2023,/address/auckland/auckland-central/2011-11-liverpool-street/Pk0RD,City Centre
+"5/53A Abbotts Way, Remuera",920.0,4,2,Listed: 04 Oct 2023,/address/auckland/remuera/1-53a-abbotts-way/zEpoz,Remuera
+"Carpark 10/6 Whitaker Place , City Centre",80.0,1,1,Listed: 04 Oct 2023,/address/auckland/grafton/carpark-10-6-whitaker-place/rD1Qvg,City Centre
+"1104/7 Scotia Place, City Centre",530.0,1,1,Listed: 04 Oct 2023,/address/auckland/auckland-central/1104-7-scotia-place/02ORj,City Centre
+"2/38 Seaview Road, Remuera",640.0,1,1,Listed: 04 Oct 2023,/address/auckland/remuera/2-38-seaview-road/LrJ0,Remuera
+"41B Budgen Street, Mount Roskill",440.0,1,1,Listed: 04 Oct 2023,/address/auckland/mount-roskill/41-budgen-street/gr1Wq0,Mount Roskill
+"3/44 Owens Road, Epsom",630.0,2,1,Listed: 04 Oct 2023,/address/auckland/epsom/3-44-owens-road/NKzPJ,Epsom
+"66 Wanganui Avenue  (Fully furnished), Herne Bay",1900.0,4,2,Listed: 04 Oct 2023,/address/auckland-city/herne-bay/66-wanganui-avenue---fully-furnished-/gr1o7N,Herne Bay
+"2/28 Victoria Avenue, Remuera",795.0,2,2,Listed: 04 Oct 2023,/address/auckland/remuera/2-28-victoria-avenue/lwZ0x,Remuera
+"1A Hoheria Road, Onehunga",680.0,3,1,Listed: 03 Oct 2023,/address/auckland/onehunga/1a-hoheria-road/GOzoX,Onehunga
+"1/173A Portland Road, Remuera",650.0,2,1,Listed: 03 Oct 2023,/address/auckland/remuera/1-173a-portland-road/OYRwgj,Remuera
+"41 Kurahaupo Street, Orakei",750.0,2,1,Listed: 03 Oct 2023,/address/auckland/orakei/41-kurahaupo-street/7jAq,Orakei
+"26 Eaton road, Hillsborough",850.0,4,2,Listed: 03 Oct 2023,/address/auckland/hillsborough/26-eaton-road/9nD2A,Hillsborough
+"1J/99 Customs street west, City Centre",495.0,1,1,Listed: 03 Oct 2023,/address/auckland/auckland-central/1j-99-customs-street-west/eV1zbW,City Centre
+"168B Whitney Street, Blockhouse Bay",745.0,3,1,Listed: 03 Oct 2023,/address/auckland/blockhouse-bay/168-whitney-street/ABbNEy,Blockhouse Bay
+"87/406 Great North Rd, Grey Lynn",550.0,1,1,Listed: 03 Oct 2023,/address/auckland/grey-lynn/87-406-great-north-road/zD1RxR,Grey Lynn
+"3/12 Kipling Avenue, Epsom",830.0,3,2,Listed: 03 Oct 2023,/address/auckland/epsom/3-12-kipling-avenue/EYEb7,Epsom
+"22/406 Great North Rd, Grey Lynn",850.0,2,2,Listed: 03 Oct 2023,/address/auckland/grey-lynn/22-406-great-north-road/ABbNwz,Grey Lynn
+"36/8 Burgoyne Street, Grey Lynn",820.0,3,2,Listed: 03 Oct 2023,/address/auckland/grey-lynn/36-8-burgoyne-street/1NDrX,Grey Lynn
+"168C Whitney Street, Blockhouse Bay",695.0,2,1,Listed: 03 Oct 2023,/address/auckland/blockhouse-bay/168-whitney-street/JbDjqY,Blockhouse Bay
+"3/37 Victoria Ave, Remuera",850.0,2,1,Listed: 03 Oct 2023,/address/auckland/remuera/3-37-victoria-avenue/RopZ,Remuera
+"807/18 Beach Road, City Centre",600.0,1,1,Listed: 03 Oct 2023,/address/auckland/auckland-central/807-18-beach-road/YO2jw,City Centre
+"904/18 Beach Road, City Centre",600.0,1,1,Listed: 03 Oct 2023,/address/auckland/auckland-central/904-18-beach-road/Dgey2,City Centre
+"5/118 Grafton Road, Grafton",325.0,1,1,Listed: 03 Oct 2023,/address/auckland/grafton/5-118-grafton-road/1GbYXw,Grafton
+"3/4 Rewi Road, Royal Oak",630.0,2,1,Listed: 03 Oct 2023,/address/auckland/royal-oak/3-4-rewi-road/8N7a7,Royal Oak
+"37 Nirvana Way, Mount Roskill",750.0,3,2,Listed: 03 Oct 2023,/address/auckland/mount-roskill/37-nirvana-way/0ZyDR,Mount Roskill
+"9/121A Selwyn Street, Onehunga",440.0,1,1,Listed: 03 Oct 2023,/address/auckland/onehunga/9-121a-selwyn-street/Mzgb7K,Onehunga
+"4D/21 Hargreaves Street, Saint Marys Bay",1300.0,3,2,Listed: 03 Oct 2023,/address/auckland/auckland-central/4d-21-hargreaves-street/12Dy,Saint Marys Bay
+"4E/16 Market Place, City Centre",900.0,2,2,Listed: 03 Oct 2023,/address/auckland/auckland-central/4e-16-market-place/0wbAEn,City Centre
+"7a Dexter Rd, Mount Eden",1500.0,5,3,Listed: 03 Oct 2023,/address/auckland/mount-eden/7-dexter-avenue/N4MJ74,Mount Eden
+"72 Brighton Road, Parnell",1000.0,3,1,Listed: 03 Oct 2023,/address/auckland/parnell/72-brighton-road/ZjlN1,Parnell
+"15 Fisher Point Drive, City Centre",900.0,2,1,Listed: 03 Oct 2023,/address/auckland/auckland-central/15-fisher-point-drive/4zyQg,City Centre
+"42 Kingsview Road, Mount Eden",1400.0,5,2,Listed: 03 Oct 2023,/address/auckland/mount-eden/42-kingsview-road/ooPJg,Mount Eden
+"3E/2 Queen street, City Centre",595.0,2,1,Listed: 03 Oct 2023,/address/auckland/auckland-central/3e-2-queen-street/kOj8O,City Centre
+"509/125 Customs street west, City Centre",850.0,2,1,Listed: 03 Oct 2023,/address/auckland/auckland-central/509-125-customs-street-west/Vj9O7,City Centre
+"5 Hawkins Street, Meadowbank",850.0,3,1,Listed: 03 Oct 2023,/address/auckland/meadowbank/5-hawkins-street/5VVbX,Meadowbank
+"207/79 Halsey Street, City Centre",750.0,1,1,Listed: 03 Oct 2023,/address/auckland/auckland-central/207-79-halsey-street/R5AOP,City Centre
+"13/27 Rossmay Terrace, Mount Eden",800.0,2,1,Listed: 03 Oct 2023,/address/auckland/mount-eden/13-27-rossmay-terrace/O0kNY,Mount Eden
+"504/43a Gillies Avenue, Newmarket",1150.0,3,2,Listed: 03 Oct 2023,/address/auckland/epsom/504-43a-gillies-avenue/LezrW,Newmarket
+"69/406-426 Great North Road, Grey Lynn",900.0,3,2,Listed: 03 Oct 2023,/address/auckland/grey-lynn/69-406-great-north-road/q01RBX,Grey Lynn
+"28C Claude Road, Epsom",1190.0,4,3,Listed: 03 Oct 2023,/address/auckland/greenlane/28c-claude-road/pxyE4,Epsom
+"206/1 Cobden St, City Centre",520.0,1,1,Listed: 03 Oct 2023,/address/auckland/auckland-central/206-1-cobden-street/Ba9Zk,City Centre
+"2/175a Grey Street, Onehunga",560.0,1,1,Listed: 03 Oct 2023,/address/auckland/onehunga/2-175a-grey-street/JbDrv2,Onehunga
+"40B Lewis Street, Blockhouse Bay",1080.0,4,3,Listed: 03 Oct 2023,/address/auckland/blockhouse-bay/40-lewis-street/4RbeVE,Blockhouse Bay
+"6 Keate Place, Mount Wellington",650.0,3,1,Listed: 03 Oct 2023,/address/auckland/mount-wellington/6-keate-place/wqbD,Mount Wellington
+"91 Parau Street, Three Kings",745.0,3,1,Listed: 03 Oct 2023,/address/auckland/mount-roskill/91-parau-street/LjBlV,Three Kings
+"9/1 Epsom Avenue, Epsom",640.0,3,1,Listed: 03 Oct 2023,/address/auckland/epsom/9-1-epsom-avenue/21Pq4,Epsom
+"1005/22 Nelson Street, City Centre",550.0,1,1,Listed: 03 Oct 2023,/address/auckland/auckland-central/1005-22-nelson-street/8JrX1,City Centre
+"3/43 Abbotts Way, Remuera",595.0,2,1,Listed: 03 Oct 2023,/address/auckland/remuera/3-43-abbotts-way/XQBM2,Remuera
+"72 Bassett Road, Remuera",1000.0,3,1,Listed: 03 Oct 2023,/address/auckland/remuera/72-bassett-road/J2KlQ,Remuera
+"1003/8 Middleton Road, Newmarket",900.0,2,3,Listed: 03 Oct 2023,/address/auckland/remuera/1003-8-middleton-road/2noN,Newmarket
+"3/1D Orakau Avenue, Epsom",950.0,2,2,Listed: 02 Oct 2023,/address/auckland/epsom/3-1d-orakau-avenue/noWl9N,Epsom
+"7/1D Orakau Avenue, Epsom",1100.0,3,3,Listed: 02 Oct 2023,/address/auckland/epsom/7-1d-orakau-avenue/pLWlJo,Epsom
+"614/223A Green Lane West, Epsom",710.0,1,1,Listed: 02 Oct 2023,/address/auckland/epsom/614-223a-green-lane-west/BD5Naq,Epsom
+"11D Athens Road, Onehunga",1150.0,4,3,Listed: 02 Oct 2023,/address/auckland/onehunga/11-athens-road/zDWMX2,Onehunga
+"514/35 Hobson Street, City Centre",490.0,1,1,Listed: 02 Oct 2023,/address/auckland/auckland-central/514-35-hobson-street/P5gr,City Centre
+"447A Great North Road, Grey Lynn",650.0,2,1,Listed: 02 Oct 2023,/address/auckland/grey-lynn/447-great-north-road/OY5jnY,Grey Lynn
+"54 Arundel Street, Mount Roskill",950.0,4,2,Listed: 02 Oct 2023,/address/auckland/mount-roskill/54-arundel-street/kBvej,Mount Roskill
+"72 Nelson Street, City Centre",475.0,2,1,Listed: 02 Oct 2023,/address/auckland/auckland-central/72-nelson-street/4R97jk,City Centre
+"402/41 Gillies Avenue, Newmarket",600.0,1,1,Listed: 02 Oct 2023,/address/auckland/auckland-central/14a-76-albert-street/1GMjw,Newmarket
+"209/223D Green Lane West, Epsom",930.0,2,2,Listed: 02 Oct 2023,/address/auckland/epsom/209-223d-green-lane-west/Jb5erQ,Epsom
+"3/149 Church Street, Onehunga",540.0,2,1,Listed: 02 Oct 2023,/address/auckland/onehunga/3-149-church-street/j8JnM,Onehunga
+"10/291 Ellerslie-panmure Highway, Mount Wellington",460.0,1,1,Listed: 02 Oct 2023,/address/auckland/mount-wellington/10-291-ellerslie-panmure-highway/krPEan,Mount Wellington
+"1/66 Emily Place, City Centre",595.0,2,1,Listed: 02 Oct 2023,/address/auckland/auckland-central/1-66-emily-place/Azkpy,City Centre
+"30 Bell Road, Remuera",1350.0,4,3,Listed: 02 Oct 2023,/address/auckland/remuera/30-bell-road/opWQ,Remuera
+"16 Allen Johnston Place, Saint Johns",1600.0,5,3,Listed: 02 Oct 2023,/address/auckland/saint-johns/16-allen-johnston-place/pOn02,Saint Johns
+"1J/16 Burton Street, Grafton",465.0,1,1,Listed: 02 Oct 2023,/address/auckland/grafton/1j-16-burton-street/RXN7x,Grafton
+"41a Armadale, Remuera",950.0,3,2,Listed: 02 Oct 2023,/address/auckland/remuera/41a-armadale-road/rXDJ8,Remuera
+"3/18 Mt Smart Road, Royal Oak",570.0,2,1,Listed: 02 Oct 2023,/address/auckland/royal-oak/3-18-mount-smart-road/RzPPpZ,Royal Oak
+"7 Eden Crescent, City Centre",500.0,1,1,Listed: 02 Oct 2023,/address/auckland/auckland-central/7-eden-crescent/Qj55gY,City Centre
+"407/26 Remuera Road, Newmarket",820.0,3,2,Listed: 02 Oct 2023,/address/auckland/newmarket/407-26-remuera-road/5aaa,Newmarket
+"4/748 Remuera Road, Remuera",950.0,2,2,Listed: 02 Oct 2023,/address/auckland/remuera/4-748-remuera-road/xLba0O,Remuera
+"702/1 Greys Avenue, City Centre",940.0,2,2,Listed: 02 Oct 2023,/address/auckland/auckland-central/702-1-greys-avenue/Y1PJPp,City Centre
+"2#/72 Wellesley Street West, City Centre",600.0,2,1,Listed: 02 Oct 2023,/address/auckland/auckland-central/2--72-wellesley-street-west/1GQvow,City Centre
+"8/12 Arabi Street, Sandringham",540.0,,,Listed: 02 Oct 2023,/address/auckland/sandringham/8-12-arabi-street/4jAM,Sandringham
+"4#/35 Hobson Street, City Centre",420.0,1,1,Listed: 02 Oct 2023,/address/auckland/auckland-central/4--35-hobson-street/5jQDlV,City Centre
+"103/246 Khyber Pass Rd, Grafton",695.0,2,1,Listed: 02 Oct 2023,/address/auckland/grafton/103-246-khyber-pass-road/q1NRO,Grafton
+"C604/176 Broadway, Newmarket",600.0,2,2,Listed: 02 Oct 2023,/address/auckland/newmarket/c604-176-broadway/b4PJZY,Newmarket
+"12/67 Sarsfield Street, Herne Bay",700.0,1,1,Listed: 02 Oct 2023,/address/auckland/herne-bay/12-67-sarsfield-street/XKA8J,Herne Bay
+"401/7 Scotia Place, City Centre",565.0,2,1,Listed: 02 Oct 2023,/address/auckland/auckland-central/401-7-scotia-place/QzEvx,City Centre
+"903/8 Albert Street, City Centre",650.0,1,1,Listed: 02 Oct 2023,/address/auckland/auckland-central/903-8-albert-street/K07Qn,City Centre
+"70 Sale Street, City Centre",600.0,1,1,Listed: 02 Oct 2023,/address/auckland/auckland-central/70-sale-street/8E59G1,City Centre
+"4#/72 Nelson Street, City Centre",350.0,1,1,Listed: 02 Oct 2023,/address/auckland/auckland-central/4--72-nelson-street/krPbwO,City Centre
+"147 Hobson Street, City Centre",480.0,2,1,Listed: 02 Oct 2023,/address/auckland/auckland-central/147-hobson-street/0WJXnN,City Centre
+"6B/81  Wakefield Street , City Centre",370.0,1,1,Listed: 02 Oct 2023,/address/auckland/auckland-central/6b-81-wakefield-street/MzjMen,City Centre
+"1M/94 Dominion Road, Mount Eden",550.0,,,Listed: 02 Oct 2023,/address/auckland/mount-eden/1m-94-dominion-road/9nnJJ,Mount Eden
+"1/37 Upland Road, Remuera",950.0,3,2,Listed: 02 Oct 2023,/address/auckland/remuera/1-37-upland-road/8E5RW1,Remuera
+"3B/1 Ophir Street, Grey Lynn",695.0,2,1,Listed: 02 Oct 2023,/address/auckland/grey-lynn/3b-1-ophir-street/gVxpV,Grey Lynn
+"31B Somerset Road, Mount Roskill",880.0,4,3,Listed: 02 Oct 2023,/address/auckland/mount-roskill/31b-somerset-road/vE2KX,Mount Roskill
+"101 Marua Road, Ellerslie",795.0,3,1,Listed: 02 Oct 2023,/address/auckland/ellerslie/101-marua-road/xMggb,Ellerslie
+"302/34 Edwin Street, Mount Eden",1205.0,3,2,Listed: 01 Oct 2023,/address/auckland/mount-eden/302-34-edwin-street/b4gJVy,Mount Eden
+"3/90 Remuera Road, Remuera",650.0,1,1,Listed: 30 Sep 2023,/address/auckland/remuera/3-90-remuera-road/ODj91,Remuera
+"L4/1 Parliament, City Centre",650.0,2,1,Listed: 30 Sep 2023,/address/auckland-city/city-centre/l4-1-parliament/ZjyyzN,City Centre
+"3/889 Mount Eden Road, Mount Eden",745.0,3,1,Listed: 29 Sep 2023,/address/auckland/mount-eden/3-889-mount-eden-road/N47aJ5,Mount Eden
+"6/717 Remuera Road, Remuera",730.0,3,1,Listed: 29 Sep 2023,/address/auckland/remuera/6-717-remuera-road/Xo47N,Remuera
+"6 Ennismore Road, Mount Albert",850.0,3,1,Listed: 29 Sep 2023,/address/auckland/mount-albert/6-ennismore-road/BDek5,Mount Albert
+"9M/36 Day street , City Centre",480.0,2,1,Listed: 29 Sep 2023,/address/auckland/auckland-central/9m-36-day-street/Mo7VY,City Centre
+"31 Ngapuhi Road, Remuera",1250.0,4,2,Listed: 29 Sep 2023,/address/auckland/remuera/31-ngapuhi-road/07LN,Remuera
+"309/47 Hobson Street, City Centre",670.0,1,1,Listed: 29 Sep 2023,/address/auckland/auckland-central/309-47-hobson-street/gRWD,City Centre
+"902A/15 Union Street, City Centre",480.0,1,1,Listed: 29 Sep 2023,/address/auckland/auckland-central/902a-15-union-street/jrBaKx,City Centre
+"6H/15 Whitaker Place, City Centre",595.0,3,1,Listed: 29 Sep 2023,/address/auckland/grafton/6h-15-whitaker-place/axOqA,City Centre
+"5/65 Mays Road, Onehunga",580.0,2,1,Listed: 29 Sep 2023,/address/auckland/onehunga/5-65-mays-road/QLExJ,Onehunga
+"28/59 Sackville Street, Grey Lynn",930.0,3,2,Listed: 29 Sep 2023,/address/auckland/grey-lynn/28-59-sackville-street/A7nwn,Grey Lynn
+"314/15-31 Wellesley Street West, City Centre",620.0,2,1,Listed: 29 Sep 2023,/address/auckland/auckland-central/314-15-wellesley-street-west/jrBarW,City Centre
+"201/43 Anzac Avenue, City Centre",1100.0,5,2,Listed: 29 Sep 2023,/address/auckland/auckland-central/201-43-anzac-avenue/yQMVQ,City Centre
+"16B Wilkie Place, Mount Wellington",740.0,3,1,Listed: 29 Sep 2023,/address/auckland/mount-wellington/16b-wilkie-place/4Oqyl,Mount Wellington
+"701/85 Nuffield Street, Newmarket",1200.0,2,2,Listed: 29 Sep 2023,/address/auckland/newmarket/701-85-nuffield-street/wGkzW,Newmarket
+"5E Athens Road, Onehunga",950.0,5,2,Listed: 29 Sep 2023,/address/auckland/onehunga/5e-athens-road/MzwpZ,Onehunga
+"76 Ronayne Street, Parnell",450.0,1,1,Listed: 29 Sep 2023,/address/auckland/parnell/76-ronayne-street/wxqaZ,Parnell
+"121 Ngapuhi Road, Remuera",1200.0,4,2,Listed: 29 Sep 2023,/address/auckland/remuera/121-ngapuhi-road/9B9r7,Remuera
+"88A Donovan Street, Blockhouse Bay",875.0,4,2,Listed: 29 Sep 2023,/address/auckland/blockhouse-bay/88a-donovan-street/k9ppP,Blockhouse Bay
+"26 Trevola Street, New Windsor",760.0,3,2,Listed: 29 Sep 2023,/address/auckland/new-windsor/26-trevola-street/8J8oj,New Windsor
+"114/57 Mahuhu Crescent, City Centre",700.0,2,1,Listed: 29 Sep 2023,/address/auckland/auckland-central/114-57-mahuhu-crescent/QXewE,City Centre
+"1602/10 Commerce Street, City Centre",750.0,1,1,Listed: 29 Sep 2023,/address/auckland/auckland-central/1602-10-commerce-street/1EKWp,City Centre
+"4A Westwood Terrace, Saint Marys Bay",1850.0,5,2,Listed: 29 Sep 2023,/address/auckland/saint-marys-bay/4a-westwood-terrace/BBnMO,Saint Marys Bay
+"9/3 Rocklands Avenue, Mount Eden",530.0,2,1,Listed: 29 Sep 2023,/address/auckland/mount-eden/9-3-rocklands-avenue/jrLKA,Mount Eden
+"306/1 Kimiora Street, Three Kings",740.0,2,2,Listed: 29 Sep 2023,/address/auckland/three-kings/306-1-kimiora-street/5VqJK,Three Kings
+"7K/36 Day Street, City Centre",630.0,2,1,Listed: 29 Sep 2023,/address/auckland/auckland-central/7k-36-day-street/ODDDe,City Centre
+"3/30 Felix Street, Onehunga",620.0,3,1,Listed: 28 Sep 2023,/address/auckland/onehunga/3-30-felix-street/8EOjwK,Onehunga
+"4C/6 Whitaker Place, City Centre",525.0,1,1,Listed: 28 Sep 2023,/address/auckland/grafton/4c-6-whitaker-place/ooLyr,City Centre
+"5J/113 Vincent Street, City Centre",400.0,1,1,Listed: 28 Sep 2023,/address/auckland/auckland-central/5j-113-vincent-street/R0oex,City Centre
+"12/37 Upland Road, Remuera",975.0,3,2,Listed: 28 Sep 2023,/address/auckland/remuera/12-37-upland-road/7aRnJv,Remuera
+"58 Margot Street, Epsom",850.0,3,2,Listed: 28 Sep 2023,/address/auckland/epsom/58-margot-street/MLl7v,Epsom
+"6 Griffin Avenue, Epsom",1500.0,4,2,Listed: 28 Sep 2023,/address/auckland/epsom/6-griffin-av/4E18l,Epsom
+"41 McCullough Avenue, Three Kings",660.0,3,1,Listed: 28 Sep 2023,/address/auckland/mount-roskill/41-mccullough-avenue/xooPG,Three Kings
+"115G Franklin Road, Freemans Bay",745.0,2,1,Listed: 28 Sep 2023,/address/auckland/freemans-bay/115g-franklin-road/8EnwZ,Freemans Bay
+"L8/11 Union Street, City Centre",380.0,1,1,Listed: 28 Sep 2023,/address/auckland/auckland-central/8-11-union-street/zDg48B,City Centre
+"L4/11 Union Street, City Centre",500.0,2,1,Listed: 28 Sep 2023,/address/auckland/auckland-central/4-11-union-street/0wLW19,City Centre
+"5A Locke Avenue, Mount Roskill",730.0,3,1,Listed: 28 Sep 2023,/address/auckland/mount-roskill/5a-locke-avenue/wneD,Mount Roskill
+"1/35 Celtic Crescent, Ellerslie",565.0,2,1,Listed: 28 Sep 2023,/address/auckland/ellerslie/1-35-celtic-crescent/Jbx4O,Ellerslie
+"10A Cornwall Park Avenue, Epsom",1400.0,5,3,Listed: 28 Sep 2023,/address/auckland/epsom/10-cornwall-park-avenue/21DGeL,Epsom
+"L11/85 Wakefield street, City Centre",480.0,1,2,Listed: 28 Sep 2023,/address/auckland/auckland-central/k-85-wakefield-street/MzR4e,City Centre
+"602A/106 Vincent Street, City Centre",460.0,1,1,Listed: 28 Sep 2023,/address/auckland/auckland-central/602a-106-vincent-street/rDv7QD,City Centre
+"15A/8 Bankside Street, City Centre",480.0,1,1,Listed: 28 Sep 2023,/address/auckland/auckland-central/15a-8-bankside-street/DleVr,City Centre
+"1514/10 Waterloo Quadrant, City Centre",550.0,1,1,Listed: 28 Sep 2023,/address/auckland/auckland-central/1514-10-waterloo-quadrant/0nXZn,City Centre
+"APT 43 (Shed 20)/139 Quay Street (Princess Wharf), City Centre",550.0,1,1,Listed: 28 Sep 2023,/address/auckland-city/city-centre/apt-43--shed-20--139-quay-street--princess-wharf-/Dgw2Mn,City Centre
+"30 Halesowen Avenue, Sandringham",1200.0,5,2,Listed: 28 Sep 2023,/address/auckland/sandringham/30-halesowen-avenue/BEKj5,Sandringham
+"10/37 Upland Road, Remuera",975.0,3,2,Listed: 28 Sep 2023,/address/auckland/remuera/10-37-upland-road/OYZ1BR,Remuera
+"9 Kotare Avenue, Westmere",700.0,2,1,Listed: 28 Sep 2023,/address/auckland/westmere/9-kotare-avenue/jrzJZj,Westmere
+"11/220 Queen Street, City Centre",680.0,2,1,Listed: 28 Sep 2023,/address/auckland/auckland-central/11-220-queen-street/0weYzN,City Centre
+"12A/156 Vincent Street, City Centre",600.0,2,1,Listed: 28 Sep 2023,/address/auckland/auckland-central/12a-156-vincent-street/jQKM,City Centre
+"31I/16 Gore Street, City Centre",495.0,1,1,Listed: 28 Sep 2023,/address/auckland/auckland-central/31i-16-gore-street/0wDNG,City Centre
+"4/37 Upland Road, Remuera",950.0,3,2,Listed: 27 Sep 2023,/address/auckland/remuera/4-37-upland-road/pLzyw5,Remuera
+"44 Ivanhoe Road, Grey Lynn",750.0,3,2,Listed: 27 Sep 2023,/address/auckland/grey-lynn/44-ivanhoe-road/GEgA8,Grey Lynn
+"111/1 Kimiora Street, Three Kings",720.0,2,2,Listed: 27 Sep 2023,/address/auckland/three-kings/111-1-kimiora-street/LvEpk,Three Kings
+"23B Geneva Place, Blockhouse Bay",890.0,4,3,Listed: 27 Sep 2023,/address/auckland/blockhouse-bay/23-geneva-place/0weyQG,Blockhouse Bay
+"514/53 Cook Street, City Centre",520.0,2,1,Listed: 27 Sep 2023,/address/auckland/auckland-central/514-53-cook-street/9Ln9,City Centre
+"3 Warwick Avenue, Westmere",1325.0,3,2,Listed: 27 Sep 2023,/address/auckland/westmere/3-warwick-avenue/11Mry,Westmere
+"11/37 Upland Road, Remuera",950.0,3,2,Listed: 27 Sep 2023,/address/auckland/remuera/11-37-upland-road/oG2RNg,Remuera
+"137 Quay Street, City Centre",580.0,1,1,Listed: 27 Sep 2023,/address/auckland/auckland-central/137-quay-street/oJzj2,City Centre
+"15 Mount Street, City Centre",400.0,1,1,Listed: 27 Sep 2023,/address/auckland/auckland-central/15-mount-street/krxZ7W,City Centre
+"230 Mt Wellington Highway, Mount Wellington",750.0,4,1,Listed: 27 Sep 2023,/address/auckland/mount-wellington/230-mount-wellington-highway/R02W7,Mount Wellington
+"2/46 School Road, Morningside",700.0,2,1,Listed: 27 Sep 2023,/address/auckland/morningside/2-46-school-road/WjyQq,Morningside
+"L2/85 Wakefield Street, City Centre",450.0,1,2,Listed: 27 Sep 2023,/address/auckland/auckland-central/2-85-wakefield-street/0wBXAB,City Centre
+"G4/19 Fleet Street, Eden Terrace",625.0,3,1,Listed: 27 Sep 2023,/address/auckland/eden-terrace/g4-19-fleet-street/p49V,Eden Terrace
+"40 Epsom Avenue, Epsom",995.0,4,2,Listed: 27 Sep 2023,/address/auckland/epsom/40-epsom-av/Y1L8P,Epsom
+"105/18 Chapman Street, Grey Lynn",715.0,2,1,Listed: 27 Sep 2023,/address/auckland/grey-lynn/105-18-chapman-street/7aAL1D,Grey Lynn
+"13/37 Upland Road, Remuera",995.0,3,2,Listed: 27 Sep 2023,/address/auckland/remuera/13-37-upland-road/Y185qn,Remuera
+"Turama Road, Royal Oak",700.0,3,1,Listed: 27 Sep 2023,/address/auckland-city/royal-oak/0-turama-road/eV20M2,Royal Oak
+"Jamaica Place, Blockhouse Bay",580.0,3,1,Listed: 27 Sep 2023,/address/auckland-city/blockhouse-bay/0-jamaica-place/9Jway9,Blockhouse Bay
+"16A Victoria Road, Devonport",680.0,2,1,Listed: 27 Sep 2023,/address/auckland/devonport/16-victoria-road/zDL90B,Devonport
+"76 Ivanhoe Road, Grey Lynn",450.0,1,1,Listed: 27 Sep 2023,/address/auckland/grey-lynn/76-ivanhoe-road/PD7Jr,Grey Lynn
+"31A Herd Road, Hillsborough",860.0,4,3,Listed: 27 Sep 2023,/address/auckland/hillsborough/31a-herd-road/7LqqV,Hillsborough
+"7C Walford Road, Point Chevalier",1300.0,4,2,Listed: 27 Sep 2023,/address/auckland/point-chevalier/7-walford-road/Y18eyV,Point Chevalier
+"1/12 Dinglebank Road, Mount Wellington",530.0,2,1,Listed: 26 Sep 2023,/address/auckland/mount-wellington/1-12-dinglebank-road/gJMoM,Mount Wellington
+"10D/100 Greys Avenue, City Centre",750.0,1,2,Listed: 26 Sep 2023,/address/auckland/auckland-central/10d-100-greys-avenue/1NbNq,City Centre
+"1129A New North Road, Mount Albert",895.0,3,3,Listed: 26 Sep 2023,/address/auckland/mount-albert/1129a-new-north-road/rGYvM,Mount Albert
+"510/85 Airedale Street, City Centre",525.0,2,1,Listed: 26 Sep 2023,/address/auckland/auckland-central/510-85-airedale-street/XRRaj,City Centre
+"31a Ruskin Street, Parnell",895.0,3,1,Listed: 26 Sep 2023,/address/auckland/parnell/31-ruskin-street/MzQlLY,Parnell
+"Ponsonby, Auckland City",1785.0,3,2,Listed: 26 Sep 2023,/address/auckland-city/ponsonby/0/q0DYQa,Auckland City
+"320/15-31 Wellesley Street, City Centre",529.0,1,1,Listed: 26 Sep 2023,/address/auckland/auckland-central/320-15-wellesley-street-west/OYJan1,City Centre
+"5 Tenterden ave, Mount Eden",1050.0,4,2,Listed: 26 Sep 2023,/address/auckland/mount-eden/5-tenterden-avenue/5jx49R,Mount Eden
+"66B Queenstown Road, Onehunga",525.0,2,1,Listed: 26 Sep 2023,/address/auckland/onehunga/66b-queenstown-road/Drwx0,Onehunga
+"301/10 Waterloo Quadrant, City Centre",650.0,2,1,Listed: 26 Sep 2023,/address/auckland/auckland-central/301-10-waterloo-quadrant/y0aPE,City Centre
+"79B Remuera Road, Remuera",820.0,3,3,Listed: 26 Sep 2023,/address/auckland/remuera/79-remuera-road/OYJ12X,Remuera
+"156 Vincent Street, City Centre",410.0,1,1,Listed: 26 Sep 2023,/address/auckland/auckland-central/156-vincent-street/Y1zKqn,City Centre
+"1A Kowhatu Road, One Tree Hill",780.0,3,1,Listed: 26 Sep 2023,/address/auckland/one-tree-hill/1a-kowhatu-road/oBy9B,One Tree Hill
+"27 Pyatt Crescent, Saint Johns Park",1150.0,4,2,Listed: 26 Sep 2023,/address/auckland/saint-johns/27-pyatt-crescent/VlJWPy,Saint Johns Park
+"103/428 Dominion Road, Mount Eden",600.0,1,1,Listed: 26 Sep 2023,/address/auckland/mount-eden/103-428-dominion-road/JbJWRL,Mount Eden
+"2/10 Shelly Beach Road, Saint Marys Bay",1250.0,3,2,Listed: 26 Sep 2023,/address/auckland/saint-marys-bay/2-10-shelly-beach-road/2Z777,Saint Marys Bay
+"47 Beach Road, City Centre",895.0,2,2,Listed: 26 Sep 2023,/address/auckland/auckland-central/47-beach-road/zDYAGB,City Centre
+"503/135 Vincent Street, City Centre",550.0,2,1,Listed: 26 Sep 2023,/address/auckland/auckland-central/503-135-vincent-street/2NDPZ,City Centre
+"252 Mount Albert Road, Sandringham",875.0,3,2,Listed: 26 Sep 2023,/address/auckland/wesley/252-mount-albert-road/7NYeE,Sandringham
+"65A Shackleton Road, Mount Eden",800.0,3,1,Listed: 26 Sep 2023,/address/auckland/mount-eden/65a-shackleton-road/loZXO,Mount Eden
+"23 Paget Street, Freemans Bay",2450.0,3,3,Listed: 25 Sep 2023,/address/auckland/freemans-bay/23-paget-street/Qjkkz,Freemans Bay
+"306/157 Hobson Street, City Centre",420.0,1,1,Listed: 25 Sep 2023,/address/auckland/auckland-central/607-57-wakefield-street/elpq7,City Centre
+"Parnell, Auckland City",525.0,1,1,Listed: 25 Sep 2023,/address/auckland-city/parnell/0/wV9pv2,Auckland City
+"6/253 Balmoral Road, Sandringham",530.0,2,1,Listed: 25 Sep 2023,/address/auckland/sandringham/6-253-balmoral-road/4z24Q,Sandringham
+"6K/11 Durham Lane East, City Centre",410.0,1,1,Listed: 25 Sep 2023,/address/auckland-city/city-centre/6k-11-durham-lane-east/VlVDYl,City Centre
+"46 Bella Vista Rd, Herne Bay",1850.0,4,2,Listed: 25 Sep 2023,/address/auckland/herne-bay/46-bella-vista-road/zDNEB,Herne Bay
+"30D Armadale Road, Remuera",1350.0,4,3,Listed: 25 Sep 2023,/address/auckland/remuera/30d-armadale-road/jJox,Remuera
+"7/170 Gillies Avenue, Epsom",720.0,3,2,Listed: 25 Sep 2023,/address/auckland/epsom/7-170-gillies-avenue/8EYNM,Epsom
+"82 St Marys Road, Saint Marys Bay",2300.0,2,3,Listed: 25 Sep 2023,/address/auckland/saint-marys-bay/82-saint-marys-road/rDZywg,Saint Marys Bay
+"20 Balmoral Road, Epsom",1100.0,4,2,Listed: 25 Sep 2023,/address/auckland/epsom/20-balmoral-road/Qk22x,Epsom
+"12L/156 Vincent Street, City Centre",575.0,2,1,Listed: 25 Sep 2023,/address/auckland/auckland-central/12l-156-vincent-street/YYkQP,City Centre
+"7D/8 Howe Street, Freemans Bay",900.0,2,2,Listed: 25 Sep 2023,/address/auckland/freemans-bay/7d-8-howe-street/R5KyE,Freemans Bay
+"1/39 Margate Road, Blockhouse Bay",680.0,3,1,Listed: 25 Sep 2023,/address/auckland/blockhouse-bay/1-39-margate-road/jwaO5,Blockhouse Bay
+"406C/176 Broadway, Newmarket",650.0,2,2,Listed: 25 Sep 2023,/address/auckland/newmarket/406c-176-broadway/zDjMZp,Newmarket
+"4/39A Fourth Ave , Kingsland",870.0,3,1,Listed: 25 Sep 2023,/address/auckland/kingsland/4-39a-fourth-avenue/grYoBN,Kingsland
+"755 Remuera Road, Remuera",850.0,3,1,Listed: 25 Sep 2023,/address/auckland/remuera/755-remuera-road/leQb,Remuera
+"43 Temple Street, Meadowbank",1100.0,4,2,Listed: 25 Sep 2023,/address/auckland/meadowbank/43-temple-street/jajeo,Meadowbank
+"126C New Windsor Road, New Windsor",975.0,4,3,Listed: 24 Sep 2023,/address/auckland/new-windsor/c-126-new-windsor-road/aapzWV,New Windsor
+"12 Paritai Drive, Orakei",2500.0,5,3,Listed: 24 Sep 2023,/address/auckland/orakei/12-paritai-drive/JM7pe,Orakei
+"L18/171 Queen Street, City Centre",380.0,1,1,Listed: 24 Sep 2023,/address/auckland/auckland-central/18-171-queen-street/Y1Q5na,City Centre
+"L8/171 Queen Street, City Centre",550.0,1,1,Listed: 24 Sep 2023,/address/auckland/auckland-central/8-171-queen-street/5jMaG4,City Centre
+"32 Platina Street, Remuera",1450.0,5,3,Listed: 24 Sep 2023,/address/auckland/remuera/32-platina-street/8EPox,Remuera
+"4D/31 Scanlan Street, Grey Lynn",895.0,2,2,Listed: 24 Sep 2023,/address/auckland/grey-lynn/4d-31-scanlan-street/kOOeo,Grey Lynn
+"2/185 Mt Eden Road, Mount Eden",750.0,3,1,Listed: 23 Sep 2023,/address/auckland/mount-eden/2-185-mount-eden-road/KEranW,Mount Eden
+"3/676 Mount Albert Road, Royal Oak",900.0,3,2,Listed: 23 Sep 2023,/address/auckland/royal-oak/3-676-mount-albert-road/DgVNGN,Royal Oak
+"16 Hira Way, Hillsborough",995.0,5,3,Listed: 23 Sep 2023,/address/auckland/hillsborough/16-hira-way/Oqwe,Hillsborough
+"1416 Dominion Road, Mount Roskill",750.0,3,1,Listed: 22 Sep 2023,/address/auckland/mount-roskill/1416-dominion-road/rxxl1,Mount Roskill
+"18A Vause Street, Ellerslie",850.0,3,1,Listed: 22 Sep 2023,/address/auckland/ellerslie/18a-vause-street/Rg9vx,Ellerslie
+"2 Burwood Crescent, Remuera",1450.0,5,2,Listed: 22 Sep 2023,/address/auckland/remuera/2-burwood-cr/LOBBW,Remuera
+"3 Russell Street, Freemans Bay",1650.0,4,2,Listed: 22 Sep 2023,/address/auckland/freemans-bay/3-russell-street/pPQjY,Freemans Bay
+"3/131 Penrose Road, Mount Wellington",585.0,2,1,Listed: 22 Sep 2023,/address/auckland/mount-wellington/131c-penrose-road/p4oDQ,Mount Wellington
+"10/78 Orakei Road, Remuera",995.0,3,2,Listed: 22 Sep 2023,/address/auckland/remuera/10-78-orakei-road/1G4a70,Remuera
+"2/1 Parliament Street, City Centre",400.0,1,1,Listed: 22 Sep 2023,/address/auckland/auckland-central/2-1-parliament-street/VxzJ,City Centre
+"430 Queen Street, City Centre",495.0,1,1,Listed: 22 Sep 2023,/address/auckland/auckland-central/430-queen-street/QjXvP,City Centre
+"L5/133 Beach Road, City Centre",350.0,1,1,Listed: 22 Sep 2023,/address/auckland/auckland-central/5-133-beach-road/0w8lkO,City Centre
+"66B Huia Road, Point Chevalier",1175.0,3,2,Listed: 22 Sep 2023,/address/auckland/point-chevalier/66-huia-road/1G4jxw,Point Chevalier
+"66C Huia Road, Point Chevalier",1200.0,3,2,Listed: 22 Sep 2023,/address/auckland/point-chevalier/66-huia-road/OYeErX,Point Chevalier
+"813B/106 Vincent Street, City Centre",480.0,1,1,Listed: 22 Sep 2023,/address/auckland/auckland-central/813b-106-vincent-street/Lo908X,City Centre
+"3/147 Quay Street, City Centre",775.0,1,1,Listed: 22 Sep 2023,/address/auckland/auckland-central/3-147-quay-street/Zjkqlw,City Centre
+"L1/223 Greenlane West, Epsom",950.0,2,2,Listed: 22 Sep 2023,/address/auckland-city/epsom/0-greenlane-west/grLXON,Epsom
+"37 Rocklands Avenue, Mount Eden",870.0,3,1,Listed: 22 Sep 2023,/address/auckland/mount-eden/37-rocklands-avenue/EYBoM,Mount Eden
+"32/218 Green Lane West, Epsom",910.0,3,2,Listed: 22 Sep 2023,/address/auckland/epsom/32-218-green-lane-west/oogwB,Epsom
+"65 Selwyn Avenue, Mission Bay",795.0,3,2,Listed: 22 Sep 2023,/address/auckland/mission-bay/65-selwyn-avenue/Jpya2,Mission Bay
+"25a Ngake  Street, Orakei",895.0,3,2,Listed: 21 Sep 2023,/address/auckland/orakei/25a-ngake-street/MeBgv,Orakei
+"D5XX/176 Broadway, Newmarket",650.0,2,2,Listed: 21 Sep 2023,/address/auckland/newmarket/d5xx-176-broadway/oGpvjg,Newmarket
+"35A Ronaki Road, Mission Bay",1050.0,3,2,Listed: 21 Sep 2023,/address/auckland/mission-bay/35a-ronaki-road/La21V,Mission Bay
+"711/22 Nelson Street, City Centre",500.0,1,1,Listed: 21 Sep 2023,/address/auckland/auckland-central/711-22-nelson-street/K7k0B,City Centre
+"19A Aldersgate Road, Hillsborough",700.0,2,3,Listed: 21 Sep 2023,/address/auckland/hillsborough/19a-aldersgate-road/b11rY,Hillsborough
+"607/53 Cook Street, City Centre",550.0,2,1,Listed: 21 Sep 2023,/address/auckland/auckland-central/607-53-cook-street/k9V8p,City Centre
+"15 Nelson Street, City Centre",500.0,1,1,Listed: 21 Sep 2023,/address/auckland/auckland-central/15-nelson-street/Rz7N2p,City Centre
+"35 Hobson Street, City Centre",465.0,1,1,Listed: 21 Sep 2023,/address/auckland/auckland-central/35-hobson-street/l0Dle,City Centre
+"123 Aotea St, Orakei",685.0,3,1,Listed: 21 Sep 2023,/address/auckland/orakei/123-aotea-street/DrKL1,Orakei
+"301/26 Poynton Terrace, City Centre",795.0,2,2,Listed: 21 Sep 2023,/address/auckland/auckland-central/301-26-poynton-terrace/qLNVa,City Centre
+"401/6-8 Heather St, Parnell",600.0,1,1,Listed: 21 Sep 2023,/address/auckland/parnell/401-6-heather-street/grzXK,Parnell
+"89 Celtic Crescent, Ellerslie",750.0,3,1,Listed: 20 Sep 2023,/address/auckland/ellerslie/89-celtic-crescent/9YnqJ,Ellerslie
+"7 Elam Street, Parnell",1895.0,3,3,Listed: 20 Sep 2023,/address/auckland/parnell/7-elam-street/YvG7,Parnell
+"1B Halesowen Avenue, Sandringham",1850.0,5,3,Listed: 20 Sep 2023,/address/auckland/sandringham/2-1-halesowen-avenue/g7a0,Sandringham
+"35Q Garnet Road, Westmere",860.0,3,2,Listed: 20 Sep 2023,/address/auckland/westmere/35q-garnet-road/Gnjg,Westmere
+"G11/1B Soljak Place, Mount Albert",700.0,2,1,Listed: 20 Sep 2023,/address/auckland/mount-albert/g11-1b-soljak-place/pLKpvY,Mount Albert
+"1110/147 Nelson St, City Centre",550.0,2,1,Listed: 20 Sep 2023,/address/auckland/auckland-central/1110-147-nelson-street/Z0O0w,City Centre
+"1/78 Paihia Road, One Tree Hill",795.0,3,1,Listed: 20 Sep 2023,/address/auckland/one-tree-hill/1-78-paihia-road/XxEW,One Tree Hill
+"17A/30 30 Symonds Street, City Centre",490.0,2,1,Listed: 20 Sep 2023,/address/auckland-city/city-centre/17a-30-30-symonds-street/XYpWpW,City Centre
+"1205/1 Hobson Street, City Centre",600.0,1,1,Listed: 20 Sep 2023,/address/auckland/auckland-central/1205-1-hobson-street/NL589,City Centre
+"3C/16 Market Place, City Centre",875.0,2,2,Listed: 20 Sep 2023,/address/auckland/auckland-central/3c-16-market-place/q05AKa,City Centre
+"83 Kurahaupo Street, Orakei",800.0,3,2,Listed: 20 Sep 2023,/address/auckland/orakei/83-kurahaupo-street/RzjLZ,Orakei
+"6/397 Ellerslie Panmure Highway, Mount Wellington",550.0,2,1,Listed: 20 Sep 2023,/address/auckland/mount-wellington/6-397-ellerslie-panmure-highway/5oWqL,Mount Wellington
+"44B Freeland Ave, Mount Roskill",750.0,3,2,Listed: 20 Sep 2023,/address/auckland/mount-roskill/44-freeland-avenue/RzGXAP,Mount Roskill
+"44D Freeland Ave, Mount Roskill",900.0,4,2,Listed: 20 Sep 2023,/address/auckland/mount-roskill/44-freeland-avenue/vMvV4e,Mount Roskill
+"5/96 Mount Smart Road, Onehunga",680.0,3,1,Listed: 20 Sep 2023,/address/auckland/onehunga/5-96-mount-smart-road/Mopre,Onehunga
+"6/322 Ellerslie Panmure Highway, Mount Wellington",550.0,2,1,Listed: 19 Sep 2023,/address/auckland/mount-wellington/6-322-ellerslie-panmure-highway/YW4r7,Mount Wellington
+"9 Worley Place, Saint Johns",1350.0,5,3,Listed: 19 Sep 2023,/address/auckland/saint-johns/9-worley-place/O8Ayj,Saint Johns
+"3i/15 Nelson Street, City Centre",400.0,1,1,Listed: 19 Sep 2023,/address/auckland/auckland-central/3i-15-nelson-street/EKg9X,City Centre
+"24a Patteson Ave, Mission Bay",1850.0,4,3,Listed: 19 Sep 2023,/address/auckland/mission-bay/24-patteson-avenue/BDyqn5,Mission Bay
+"5/75 Parnell Road, Parnell",520.0,1,1,Listed: 19 Sep 2023,/address/auckland/parnell/5-75-parnell-road/LjEqk,Parnell
+"13 Linden Street, Mount Roskill",650.0,2,1,Listed: 19 Sep 2023,/address/auckland/mount-roskill/13-linden-street/xoJ95,Mount Roskill
+"Po box 106909/207 Gillies Ave, Epsom",1050.0,4,2,Listed: 19 Sep 2023,/address/auckland/epsom/po-box-106909-207-gillies-avenue/OYyvkM,Epsom
+"919/430 Queen Street, City Centre",530.0,2,1,Listed: 19 Sep 2023,/address/auckland/auckland-central/919-430-queen-street/JYena,City Centre
+"105/79 Halsey Street, City Centre",895.0,2,2,Listed: 19 Sep 2023,/address/auckland/auckland-central/105-79-halsey-street/KEQDL,City Centre
+"3 Marshall Laing Avenue, Mount Roskill",970.0,4,3,Listed: 19 Sep 2023,/address/auckland/mount-roskill/3-marshall-laing-avenue/jx8KA,Mount Roskill
+"72 Nelson Street, City Centre",480.0,2,1,Listed: 19 Sep 2023,/address/auckland/auckland-central/72-nelson-street/Mzj7R5,City Centre
+"511/100 Greys Avenue, City Centre",500.0,1,1,Listed: 19 Sep 2023,/address/auckland/auckland-central/511-100-greys-avenue/oGVVw4,City Centre
+"3b/44 Lorne Street, Hamilton City Central",265.0,1,1,Listed: 19 Sep 2023,/address/auckland/auckland-central/3b-44-lorne-street/XY88R0,Hamilton City Central
+"4/58 Taylors Rd, Mount Albert",540.0,2,1,Listed: 19 Sep 2023,/address/auckland/mount-albert/4-58-taylors-road/rG17,Mount Albert
+"17 Wimbledon Way, Remuera",900.0,3,1,Listed: 19 Sep 2023,/address/auckland/remuera/17-wimbledon-wy/R0DJP,Remuera
+"3 Alberon Place, Parnell",1770.0,4,3,Listed: 19 Sep 2023,/address/auckland/parnell/3-alberon-place/2yKq,Parnell
+"24/3 Ngahura St, Eden Terrace",590.0,2,2,Listed: 19 Sep 2023,/address/auckland/eden-terrace/24-3-ngahura-street/8NwYr,Eden Terrace
+"Eden Terrace, Auckland City",595.0,2,1,Listed: 18 Sep 2023,/address/auckland-city/eden-terrace/0/7aWvMv,Auckland City
+"4D/34 Kingston Street, City Centre",450.0,2,1,Listed: 18 Sep 2023,/address/auckland/auckland-central/4d-34-kingston-street/jaDl5,City Centre
+"60 Batkin Road, New Windsor",950.0,4,2,Listed: 18 Sep 2023,/address/auckland/new-windsor/60-batkin-road/RjjPP,New Windsor
+"60a Batkin Road, New Windsor",1400.0,5,4,Listed: 18 Sep 2023,/address/auckland/new-windsor/60-batkin-road/wVNy92,New Windsor
+"20A Jamaica Place, Blockhouse Bay",820.0,4,2,Listed: 18 Sep 2023,/address/auckland/blockhouse-bay/20a-jamaica-place/gw7zM,Blockhouse Bay
+"5/245 Gillies Avenue, Epsom",1300.0,4,3,Listed: 18 Sep 2023,/address/auckland/epsom/5-245-gillies-avenue/XY88e0,Epsom
+"3a/34 Kingston Street, City Centre",500.0,2,1,Listed: 18 Sep 2023,/address/auckland/auckland-central/3a-34-kingston-street/yP01O,City Centre
+"9 Harwood Street, Sandringham",630.0,3,1,Listed: 18 Sep 2023,/address/auckland/sandringham/9-harwood-street/KaAQ,Sandringham
+"1A/1 Haverstock, Sandringham",670.0,3,1,Listed: 18 Sep 2023,/address/auckland/sandringham/1a-1-haverstock-road/XY7b8J,Sandringham
+"22 Queen Street, City Centre",410.0,1,1,Listed: 18 Sep 2023,/address/auckland/auckland-central/22-queen-street/nokvZ7,City Centre
+"668A Manukau Rd, Royal Oak",1100.0,4,3,Listed: 18 Sep 2023,/address/auckland/royal-oak/1-668-manukau-road/vR8ye,Royal Oak
+"15A Hendon Avenue, Mount Albert",695.0,3,1,Listed: 18 Sep 2023,/address/auckland/mount-albert/15a-hendon-avenue/K0qwB,Mount Albert
+"369 Queen street, City Centre",900.0,2,2,Listed: 18 Sep 2023,/address/auckland/auckland-central/369-queen-street/XkeBb,City Centre
+"47 Beach Road, City Centre",950.0,2,2,Listed: 18 Sep 2023,/address/auckland/auckland-central/47-beach-road/Vl7MAb,City Centre
+"9K/189 Hobson Street, City Centre",720.0,4,1,Listed: 18 Sep 2023,/address/auckland/auckland-central/9k-189-hobson-street/2Znw8,City Centre
+"3/2 Tagalad Road, Mission Bay",1100.0,2,2,Listed: 18 Sep 2023,/address/auckland/mission-bay/3-2-tagalad-road/KEBjeq,Mission Bay
+"109/10 Lion Place, Epsom",1030.0,3,2,Listed: 18 Sep 2023,/address/auckland/epsom/109-10-lion-place/1Akzy,Epsom
+"701/8 Albert Street, City Centre",900.0,2,2,Listed: 18 Sep 2023,/address/auckland/auckland-central/701-8-albert-street/XK2oj,City Centre
+"7B/28 Liverpool Street, City Centre",600.0,2,1,Listed: 18 Sep 2023,/address/auckland/auckland-central/7b-28-liverpool-street/1qe1,City Centre
+"5/3 Pollen Street, Ponsonby",780.0,2,1,Listed: 18 Sep 2023,/address/auckland/grey-lynn/5-3-pollen-street/axDNQA,Ponsonby
+"501/5 Dundonald Street, Eden Terrace",710.0,2,2,Listed: 18 Sep 2023,/address/auckland/eden-terrace/501-5-dundonald-street/1G9RRq,Eden Terrace
+"L8/147 Victoria Street West, City Centre",580.0,1,1,Listed: 18 Sep 2023,/address/auckland/auckland-central/8-147-victoria-street-west/eVMxzW,City Centre
+"301/47 Hobson Street, City Centre",565.0,1,1,Listed: 18 Sep 2023,/address/auckland/auckland-central/301-47-hobson-street/EyGK,City Centre
+"9 Herbert Road, Mount Eden",875.0,4,1,Listed: 18 Sep 2023,/address/auckland/mount-eden/9-herbert-road/GRwnOX,Mount Eden
+"2/35A Ripon Crescent, Meadowbank",680.0,2,1,Listed: 18 Sep 2023,/address/auckland/meadowbank/2-35a-ripon-crescent/LoKKWK,Meadowbank
+"72 Second Avenue, Kingsland",825.0,3,1,Listed: 18 Sep 2023,/address/auckland/kingsland/72-second-av/KRl0n,Kingsland
+"5/7 Crummer Road, Grey Lynn",790.0,2,1,Listed: 17 Sep 2023,/address/auckland/grey-lynn/5-7-crummer-road/5pwJ5,Grey Lynn
+"18 Wakefield Street, City Centre",650.0,2,2,Listed: 17 Sep 2023,/address/auckland/auckland-central/5k-18-wakefield-street/WKa1b,City Centre
+"2/39 Littlejohn Street, Hillsborough",685.0,2,1,Listed: 17 Sep 2023,/address/auckland/hillsborough/2-39-littlejohn-street/RzYaY,Hillsborough
+"23 Emily Place, City Centre",425.0,1,1,Listed: 16 Sep 2023,/address/auckland/auckland-central/23-emily-place/WK0yv1,City Centre
+"LWS/183 Karangahape Road, City Centre",1200.0,4,2,Listed: 15 Sep 2023,/address/auckland/auckland-central/ws-183-karangahape-road/XYLN5b,City Centre
+"133 Beach Road, City Centre",350.0,1,1,Listed: 15 Sep 2023,/address/auckland/auckland-central/133-beach-road/ZjD7bV,City Centre
+"221/15-39 Wellesley Street, City Centre",465.0,1,1,Listed: 15 Sep 2023,/address/auckland/auckland-central/1709-11-liverpool-street/O0NxM,City Centre
+"12/10 Ngauruhoe Street, Mount Eden",470.0,1,1,Listed: 15 Sep 2023,/address/auckland/mount-eden/12-10-ngauruhoe-street/OYE59J,Mount Eden
+"6/245 Gillies Avenue, Epsom",1350.0,4,3,Listed: 15 Sep 2023,/address/auckland/epsom/6-245-gillies-avenue/Ega5NK,Epsom
+"4/183 Mt Albert Road, Sandringham",620.0,2,1,Listed: 15 Sep 2023,/address/auckland/mount-albert/4-183-mount-albert-road/PkRVX,Sandringham
+"13E Hamlin Road, Mount Wellington",920.0,4,3,Listed: 15 Sep 2023,/address/auckland/mount-wellington/13e-hamlin-road/kxb1A,Mount Wellington
+"72 Nelson Street, City Centre",375.0,2,1,Listed: 15 Sep 2023,/address/auckland/auckland-central/72-nelson-street/Lol4N0,City Centre
+"72 Nelson Street, City Centre",375.0,2,1,Listed: 15 Sep 2023,/address/auckland/auckland-central/72-nelson-street/pL5YZO,City Centre
+"4c Harbour Street, Saint Marys Bay",995.0,2,1,Listed: 15 Sep 2023,/address/auckland/saint-marys-bay/4c-harbour-street/0WVB,Saint Marys Bay
+"406/138 Anzac Ave, City Centre",320.0,1,1,Listed: 15 Sep 2023,/address/auckland/auckland-central/406-138-anzac-avenue/nM0X7,City Centre
+"4/53 Grange Road, Mount Eden",520.0,2,1,Listed: 14 Sep 2023,/address/auckland/mount-eden/4-53-grange-road/W8roK,Mount Eden
+"805/18 Beach Road, City Centre",850.0,2,2,Listed: 14 Sep 2023,/address/auckland/auckland-central/805-18-beach-road/QkpPJ,City Centre
+"37A Horotutu Road, Greenlane",1050.0,4,3,Listed: 14 Sep 2023,/address/auckland/greenlane/37a-horotutu-road/Qkj25,Greenlane
+"203/43 Brown Street, Ponsonby",970.0,2,2,Listed: 14 Sep 2023,/address/auckland/ponsonby/203-43-brown-street/A52bK,Ponsonby
+"121/72 Nelson St , City Centre",470.0,2,1,Listed: 14 Sep 2023,/address/auckland/auckland-central/121-72-nelson-street/aa8PQ,City Centre
+"201/85 Nuffield Street, Newmarket",1100.0,2,2,Listed: 14 Sep 2023,/address/auckland/newmarket/201-85-nuffield-street/JvKJQ,Newmarket
+"105/4-8 Rose Road, Ponsonby",845.0,2,2,Listed: 14 Sep 2023,/address/auckland/grey-lynn/105-4-rose-road/eVDO1w,Ponsonby
+"108/4-8 Rose Road, Ponsonby",685.0,1,1,Listed: 14 Sep 2023,/address/auckland/grey-lynn/108-4-rose-road/Dgz0jn,Ponsonby
+"103/4-8 Rose Road, Ponsonby",525.0,1,1,Listed: 14 Sep 2023,/address/auckland/grey-lynn/103-4-rose-road/KELO7W,Ponsonby
+"Carpark/9 Commerce Street, City Centre",100.0,1,1,Listed: 14 Sep 2023,/address/auckland/auckland-central/carpark-9-commerce-street/krqMEP,City Centre
+"11 Baden Powell Place, Remuera",930.0,3,2,Listed: 14 Sep 2023,/address/auckland/remuera/11-baden-powell-place/GKgDO,Remuera
+"404/85 Customs street west, City Centre",500.0,1,1,Listed: 14 Sep 2023,/address/auckland/auckland-central/404-85-customs-street-west/1Jxpw,City Centre
+"155C Great South Road, Greenlane",1195.0,5,3,Listed: 13 Sep 2023,/address/auckland/greenlane/155c-great-south-road/ZxJww,Greenlane
+"1101/70 Daldy Street, City Centre",3500.0,3,2,Listed: 13 Sep 2023,/address/auckland/auckland-central/1101-70-daldy-street/MJ8qZ,City Centre
+"4/32 Eden Crescent, City Centre",370.0,1,1,Listed: 13 Sep 2023,/address/auckland/auckland-central/4-32-eden-crescent/krWyzp,City Centre
+"1906/10 Waterloo Quadrant, City Centre",450.0,1,1,Listed: 13 Sep 2023,/address/auckland/auckland-central/1906-10-waterloo-quadrant/DrvAN,City Centre
+"803/76 Wakefield St, City Centre",450.0,1,1,Listed: 13 Sep 2023,/address/auckland/auckland-central/803-76-wakefield-street/1AXEp,City Centre
+"19 Avon Street, Parnell",1800.0,4,2,Listed: 13 Sep 2023,/address/auckland/parnell/19-avon-street/ajQye,Parnell
+"L3/127 Newton road, Eden Terrace",660.0,2,1,Listed: 13 Sep 2023,/address/auckland/eden-terrace/3-127-newton-road/y0Y9bM,Eden Terrace
+"723/430 Queen Street, City Centre",510.0,2,1,Listed: 13 Sep 2023,/address/auckland/auckland-central/723-430-queen-street/QzYV,City Centre
+"9 Princes Street, City Centre",2200.0,2,2,Listed: 13 Sep 2023,/address/auckland/auckland-central/9-princes-street/L12LV,City Centre
+"27A  Commodore Drive, Lynfield",960.0,4,2,Listed: 13 Sep 2023,/address/auckland/lynfield/27a-commodore-drive/Y592P,Lynfield
+"27B Lochiel Road, Remuera",1020.0,4,3,Listed: 13 Sep 2023,/address/auckland/remuera/27b-lochiel-road/5OLA0,Remuera
+"Sudeley Street, Orakei",1700.0,4,3,Listed: 12 Sep 2023,/address/auckland-city/orakei/0-sudeley-street/9JYyq9,Orakei
+"67A Patteson Avenue, Mission Bay",1650.0,5,4,Listed: 12 Sep 2023,/address/auckland/mission-bay/67-patteson-avenue/xL4W9b,Mission Bay
+"1205/18 Beach Road, City Centre",1000.0,3,2,Listed: 12 Sep 2023,/address/auckland/auckland-central/1205-18-beach-road/pP88Q,City Centre
+"1T/160 Symonds Street, Eden Terrace",795.0,3,2,Listed: 12 Sep 2023,/address/auckland/eden-terrace/1t-160-symonds-street/Z8VRv,Eden Terrace
+"2/70 Haycock Avenue Mount Roskill, Auckland 1041",570.0,2,1,Listed: 12 Sep 2023,/address/auckland-city/mount-roskill/2-70-haycock-avenue-mount-roskill--auckland-1041/LoDX59,Auckland 1041
+"1SB/160 Symonds Street, Eden Terrace",455.0,1,1,Listed: 12 Sep 2023,/address/auckland/eden-terrace/1sb-160-symonds-street/oG01P4,Eden Terrace
+"229A Marua Road, Ellerslie",700.0,3,3,Listed: 12 Sep 2023,/address/auckland/mount-wellington/229a-marua-road/qk8Qa,Ellerslie
+"1N/160 Symonds St, Eden Terrace",550.0,1,1,Listed: 12 Sep 2023,/address/auckland/eden-terrace/1n-160-symonds-street/yP95V,Eden Terrace
+"16 Maungarei Road, Remuera",860.0,3,2,Listed: 12 Sep 2023,/address/auckland/remuera/16-maungarei-road/kBM7v,Remuera
+"2/39 Peek Street, Ellerslie",540.0,2,1,Listed: 12 Sep 2023,/address/auckland/ellerslie/2-39-peek-street/nMLbv,Ellerslie
+"427/15-31 Wellesley street, City Centre",539.0,1,1,Listed: 11 Sep 2023,/address/auckland/auckland-central/427-15-wellesley-street-west/l5jezb,City Centre
+"14 brookland Place, Remuera",1250.0,4,3,Listed: 11 Sep 2023,/address/auckland/remuera/14-brookland-place/nYPen,Remuera
+"1/65 Selwyn Avenue, Mission Bay",795.0,3,1,Listed: 11 Sep 2023,/address/auckland/mission-bay/65a-selwyn-avenue/ZpbVP,Mission Bay
+"711/85 Wakefield Street, City Centre",520.0,2,2,Listed: 11 Sep 2023,/address/auckland/auckland-central/711-85-wakefield-street/2GXnZ,City Centre
+"506/18 Chapman Street, Grey Lynn",715.0,2,1,Listed: 11 Sep 2023,/address/auckland/grey-lynn/506-18-chapman-street/0w5w1O,Grey Lynn
+"5B/22 Liverpool Street, City Centre",560.0,2,1,Listed: 11 Sep 2023,/address/auckland/auckland-central/5b-22-liverpool-street/Bb04,City Centre
+"32 Tawariki Street, Ponsonby",920.0,3,1,Listed: 11 Sep 2023,/address/auckland/ponsonby/32-tawariki-street/DEy12,Ponsonby
+"507/77 Halsey Street, City Centre",1095.0,2,2,Listed: 11 Sep 2023,/address/auckland/auckland-central/507-77-halsey-street/jragzG,City Centre
+"7/1 Ruskin Street, Parnell",1295.0,3,2,Listed: 11 Sep 2023,/address/auckland/parnell/7-1-ruskin-street/l5qkX,Parnell
+"3/849 Manukau Road, Royal Oak",600.0,2,1,Listed: 11 Sep 2023,/address/auckland/royal-oak/3-849-manukau-road/5jnqa,Royal Oak
+"13B/1 Emily Place, City Centre",650.0,2,1,Listed: 11 Sep 2023,/address/auckland/auckland-central/13b-1-emily-place/nonzv,City Centre
+"87 St Vincent Avenue, Remuera",960.0,4,2,Listed: 10 Sep 2023,/address/auckland/remuera/87-st-vincent-avenue/lre5X,Remuera
+"10 Commerce Street (Pacifica), City Centre",1360.0,2,2,Listed: 10 Sep 2023,/address/auckland-city/city-centre/10-commerce-street--pacifica-/LooNa9,City Centre
+"10 Lion Place, Epsom",710.0,2,2,Listed: 10 Sep 2023,/address/auckland/epsom/10-lion-place/rDDZgG,Epsom
+"4H/19 Fleet Street, Eden Terrace",695.0,2,1,Listed: 08 Sep 2023,/address/auckland/eden-terrace/4h-19-fleet-street/Rz0E2E,Eden Terrace
+"430 Queen Street, City Centre",530.0,2,1,Listed: 08 Sep 2023,/address/auckland/auckland-central/430-queen-st/Dg2lw,City Centre
+"31 Whitney street, Blockhouse Bay",600.0,3,1,Listed: 08 Sep 2023,/address/auckland/new-windsor/31-whitney-street/vXDPG,Blockhouse Bay
+"8C/97 Shortland Street, City Centre",600.0,1,1,Listed: 08 Sep 2023,/address/auckland/auckland-central/8c-97-shortland-street/B0e5,City Centre
+"24L/76-84 Albert Street, City Centre",530.0,2,1,Listed: 08 Sep 2023,/address/auckland/auckland-central/24l-76-albert-street/gJM8K,City Centre
+"8C/97 Shortland Street, City Centre",600.0,1,1,Listed: 08 Sep 2023,/address/auckland/auckland-central/8c-97-shortland-street/1GJ4by,City Centre
+"1/8 Soljak Place, Mount Albert",630.0,2,1,Listed: 08 Sep 2023,/address/auckland/mount-albert/1-8-soljak-place/2rOOe,Mount Albert
+"210 Richmond Road, Grey Lynn",1750.0,6,2,Listed: 08 Sep 2023,/address/auckland/grey-lynn/210-richmond-road/yRbrM,Grey Lynn
+"18 Ingram Road, Remuera",900.0,3,1,Listed: 07 Sep 2023,/address/auckland/remuera/18-ingram-road/Rzgr7,Remuera
+"28/145 Quay Street, City Centre",590.0,1,1,Listed: 07 Sep 2023,/address/auckland/auckland-central/28-145-quay-street/BDE1E5,City Centre
+"6G/18 Federal street, City Centre",550.0,1,1,Listed: 07 Sep 2023,/address/auckland/auckland-central/6g-18-federal-street/pNRpM,City Centre
+"16 (Shed 19)/137 Quay street, City Centre",1100.0,2,1,Listed: 07 Sep 2023,/address/auckland/auckland-central/16--shed-19--137-quay-street/DgEYBL,City Centre
+"6F/16 Burton Street, Grafton",700.0,2,2,Listed: 06 Sep 2023,/address/auckland/grafton/6f-16-burton-street/DLgVL,Grafton
+"Ngahue Drive, Stonefields",870.0,3,2,Listed: 06 Sep 2023,/address/auckland-city/stonefields/0-ngahue-drive/KEJLvD,Stonefields
+"17 Wakefield Street, City Centre",615.0,2,2,Listed: 06 Sep 2023,/address/auckland/auckland-central/17-wakefield-street/Y1NEVG,City Centre
+"1404/37 Symonds St, Grafton",550.0,2,1,Listed: 06 Sep 2023,/address/auckland/auckland-central/1404-37-symonds-street/A7wvK,Grafton
+"208/5 Dundonald Street, Eden Terrace",360.0,1,1,Listed: 06 Sep 2023,/address/auckland/eden-terrace/208-5-dundonald-street/RzwDrq,Eden Terrace
+"2/143 May Road, Mount Roskill",650.0,3,1,Listed: 06 Sep 2023,/address/auckland/mount-roskill/2-143-may-road/DoK0,Mount Roskill
+"209/5 Dundonald Street, Eden Terrace",440.0,1,1,Listed: 06 Sep 2023,/address/auckland/eden-terrace/209-5-dundonald-street/noaK0g,Eden Terrace
+"72 Nelson Street, City Centre",460.0,2,1,Listed: 06 Sep 2023,/address/auckland/auckland-central/72-nelson-street/7azXwM,City Centre
+"L2A/8 Upper Queen Street, City Centre",500.0,1,1,Listed: 05 Sep 2023,/address/auckland/auckland-central/2a-8-upper-queen-street/b4ABOY,City Centre
+"L2/8 Upper Queen Street, City Centre",450.0,1,1,Listed: 05 Sep 2023,/address/auckland/auckland-central/2-8-upper-queen-street/OY8x5e,City Centre
+"L2B/8 Upper Queen Street, City Centre",750.0,2,2,Listed: 05 Sep 2023,/address/auckland/auckland-central/2b-8-upper-queen-street/OY8xwM,City Centre
+"28 Wairiki Road, Mount Eden",1400.0,6,2,Listed: 05 Sep 2023,/address/auckland/mount-eden/28-wairiki-road/BBGBk,Mount Eden
+"22D Puriri Ave, Greenlane",850.0,3,2,Listed: 05 Sep 2023,/address/auckland/greenlane/22d-puriri-avenue/9JlP7,Greenlane
+"1A Harrison Road, Mount Wellington",700.0,3,2,Listed: 05 Sep 2023,/address/auckland/mount-wellington/1-harrison-road/XQXJgJ,Mount Wellington
+"309/10 Flower Street, Eden Terrace",500.0,2,1,Listed: 05 Sep 2023,/address/auckland/eden-terrace/309-10-flower-street/DrVj2,Eden Terrace
+"8A Brookland Place, Remuera",1300.0,4,2,Listed: 05 Sep 2023,/address/auckland/remuera/8a-brookland-place/obLgB,Remuera
+"6/960 New North Road, Mount Albert",650.0,3,1,Listed: 05 Sep 2023,/address/auckland/mount-albert/6-960-new-north-road/ML28X5,Mount Albert
+"1/8 Otahuri Crescent, Greenlane",740.0,3,2,Listed: 04 Sep 2023,/address/auckland/greenlane/1-8-otahuri-crescent/aBrvn,Greenlane
+"201/43 Anzac Avenue, City Centre",1100.0,5,2,Listed: 04 Sep 2023,/address/auckland/auckland-central/201-43-anzac-avenue/RzJXw7,City Centre
+"240a New Windsor Rd, New Windsor",725.0,3,2,Listed: 04 Sep 2023,/address/auckland/new-windsor/240-new-windsor-road/4v8oDM,New Windsor
+"4/13 Rahiri Road, Mount Eden",495.0,1,1,Listed: 04 Sep 2023,/address/auckland/mount-eden/4-13-rahiri-road/ZQPp,Mount Eden
+"4A Moata Road, One Tree Hill",1250.0,5,3,Listed: 04 Sep 2023,/address/auckland/one-tree-hill/4a-moata-road/x7Y2G,One Tree Hill
+"78 Shelly Beach Road, Saint Marys Bay",1395.0,3,2,Listed: 04 Sep 2023,/address/auckland/saint-marys-bay/78-shelly-beach-road/RpAq,Saint Marys Bay
+"906/147 Victoria Street, City Centre",830.0,2,2,Listed: 04 Sep 2023,/address/auckland/auckland-central/906-147-victoria-street-west/GpaV1,City Centre
+"810/152 Hobson St, City Centre",750.0,2,2,Listed: 04 Sep 2023,/address/auckland/auckland-central/810-152-hobson-street/qYNM,City Centre
+"3703/10 Commerce Street, City Centre",1500.0,3,2,Listed: 02 Sep 2023,/address/auckland/auckland-central/3703-10-commerce-street/NZky7,City Centre
+"204/15-31 Wellesley Street, City Centre",460.0,1,1,Listed: 01 Sep 2023,/address/auckland/auckland-central/204-15-wellesley-street-west/en0QqJ,City Centre
+"221/15-31 Wellesley Street, City Centre",465.0,1,1,Listed: 01 Sep 2023,/address/auckland/auckland-central/221-15-wellesley-street-west/q8oPLM,City Centre
+"5B/32 Crescent, City Centre",440.0,1,1,Listed: 01 Sep 2023,/address/auckland/auckland-central/5b-32-eden-crescent/enEWK,City Centre
+"Lot 5/24 Pah Road, Epsom",1350.0,4,3,Listed: 01 Sep 2023,/address/auckland/epsom/5-24-pah-road/KYoylE,Epsom
+"G01/45 Union Street, City Centre",700.0,2,1,Listed: 01 Sep 2023,/address/auckland/auckland-central/g01-45-union-street/P2DPG,City Centre
+"88 Kohimarama, Kohimarama",1200.0,4,3,Listed: 01 Sep 2023,/address/auckland/kohimarama/88-kohimarama-road/bLAMz,Kohimarama
+"24C Rockfield Road, Ellerslie",1300.0,5,3,Listed: 01 Sep 2023,/address/auckland/ellerslie/24c-rockfield-road/AoVG,Ellerslie
+"8 Bracken Ave, Epsom",1800.0,5,3,Listed: 01 Sep 2023,/address/auckland/epsom/8-bracken-avenue/4vL08,Epsom
+"26E Windmill Road, Epsom",500.0,1,1,Listed: 01 Sep 2023,/address/auckland/mount-eden/5-26-windmill-road/bVY7l,Epsom
+"430 Queen Street, City Centre",510.0,2,1,Listed: 31 Aug 2023,/address/auckland/auckland-central/430-queen-st/z09B,City Centre
+"14 Apihai Street, Orakei",405.0,1,1,Listed: 31 Aug 2023,/address/auckland/orakei/14-apihai-street/LL7N,Orakei
+"12A/113 Vincent Street, City Centre",400.0,1,1,Listed: 31 Aug 2023,/address/auckland/auckland-central/12a-113-vincent-street/k9Rjv,City Centre
+"37D Greenlane East, Remuera",1200.0,4,3,Listed: 31 Aug 2023,/address/auckland-city/remuera/0-greenlane-east/QXNRkE,Remuera
+"2C/31 Scanlan Street, Grey Lynn",750.0,2,2,Listed: 31 Aug 2023,/address/auckland/grey-lynn/2c-31-scanlan-street/W8ryL,Grey Lynn
+"72 Nelson Street, City Centre",385.0,1,1,Listed: 31 Aug 2023,/address/auckland/auckland-central/72-nelson-street/K7B0Px,City Centre
+"4 Ranier Street, Ellerslie",700.0,2,1,Listed: 30 Aug 2023,/address/auckland/ellerslie/4-ranier-street/RXQxY,Ellerslie
+"7/22 Oak Street, Royal Oak",320.0,1,1,Listed: 30 Aug 2023,/address/auckland/royal-oak/7-22-oak-street/pZa8O,Royal Oak
+"8/147 Quay Street, City Centre",775.0,1,1,Listed: 30 Aug 2023,/address/auckland/auckland-central/8-147-quay-street/YapM77,City Centre
+"812/85 Wakefield Street, City Centre",480.0,1,2,Listed: 30 Aug 2023,/address/auckland/auckland-central/812-85-wakefield-street/VgYxW,City Centre
+"21 Parawai Crescent, Ponsonby",925.0,3,1,Listed: 29 Aug 2023,/address/auckland/ponsonby/21-parawai-crescent/eV28W,Ponsonby
+"22B Aberfoyle Street, Epsom",1300.0,4,3,Listed: 29 Aug 2023,/address/auckland/epsom/22b-aberfoyle-street/Dr10Mv,Epsom
+"1108/9 Princes Street, City Centre",1650.0,2,2,Listed: 29 Aug 2023,/address/auckland/auckland-central/1108-9-princes-street/lO4ze,City Centre
+"4 Dockside Lane, City Centre",745.0,2,1,Listed: 29 Aug 2023,/address/auckland/auckland-central/4-dockside-lane/KYveaE,City Centre
+"12/36 Marau Cres, Mission Bay",575.0,2,1,Listed: 29 Aug 2023,/address/auckland/mission-bay/12-36-marau-crescent/9lrVQ,Mission Bay
+"4/326 Mt Eden Road, Mount Eden",550.0,2,1,Listed: 29 Aug 2023,/address/auckland/mount-eden/4-326-mount-eden-road/DXNaM,Mount Eden
+"22 Roseville Street, New Windsor",585.0,3,1,Listed: 29 Aug 2023,/address/auckland/new-windsor/22-roseville-street/Vg2J,New Windsor
+"7 Dunkerron Avenue, Epsom",1350.0,4,4,Listed: 29 Aug 2023,/address/auckland/epsom/7-dunkerron-av/WlzB1,Epsom
+"7 Dunkerron Avenue, Epsom",1250.0,4,4,Listed: 28 Aug 2023,/address/auckland/epsom/7-dunkerron-avenue/5jNP95,Epsom
+"Royal Oak, Auckland City",690.0,3,1,Listed: 28 Aug 2023,/address/auckland/onehunga/3-32-campbell-road/L1Gq,Auckland City
+"4#/17 Albert Street, City Centre",350.0,1,3,Listed: 28 Aug 2023,/address/auckland/auckland-central/4--17-albert-street/0WQ7xN,City Centre
+"10/5 Orakei Road, Remuera",635.0,1,1,Listed: 28 Aug 2023,/address/auckland/remuera/10-5-orakei-road/vXEJ0,Remuera
+"L/4/92 Nelson Street, City Centre",490.0,1,1,Listed: 28 Aug 2023,/address/auckland/auckland-central/l-92-nelson-street/4vDDJM,City Centre
+"83 Grand Drive, Remuera",960.0,3,2,Listed: 27 Aug 2023,/address/auckland/remuera/83-grand-drive/DXYrw,Remuera
+"2/32 Cardigan Street, Morningside",950.0,3,2,Listed: 27 Aug 2023,/address/western-springs/2-32-cardigan-street/XEVRj,Morningside
+"G07/147  Nelson St, City Centre",550.0,2,1,Listed: 27 Aug 2023,/address/auckland/auckland-central/g07-147-nelson-street/XEKgN,City Centre
+"30/145 Quay Street, City Centre",535.0,1,1,Listed: 26 Aug 2023,/address/auckland/auckland-central/30-145-quay-street/LjAR90,City Centre
+"425/15-31 Wellesley Street West, City Centre",575.0,1,1,Listed: 24 Aug 2023,/address/auckland/auckland-central/425-15-wellesley-street-west/WMzabL,City Centre
+"18 Wakefield Street, City Centre",888.0,2,1,Listed: 24 Aug 2023,/address/auckland/auckland-central/18-wakefield-street/N0Aaqg,City Centre
+"L6/10 Waterloo Quadrant, City Centre",380.0,1,1,Listed: 24 Aug 2023,/address/auckland/auckland-central/6-10-waterloo-quadrant/GE4BRg,City Centre
+"2DB/160 Symonds Street, Eden Terrace",460.0,1,1,Listed: 24 Aug 2023,/address/auckland/eden-terrace/2db-160-symonds-street/gJQa9B,Eden Terrace
+"1601/1 Greys Avenue, City Centre",1350.0,2,2,Listed: 23 Aug 2023,/address/auckland/auckland-central/1601-1-greys-avenue/vX1YoX,City Centre
+"1/9 Wootton Road, Remuera",610.0,1,1,Listed: 23 Aug 2023,/address/auckland/remuera/1-9-wootton-road/zejE,Remuera
+"57A Anita Avenue, Mount Roskill",890.0,4,3,Listed: 23 Aug 2023,/address/auckland/mount-roskill/a-57-anita-avenue/512x0,Mount Roskill
+"7/118 Grafton Road, Grafton",690.0,3,1,Listed: 22 Aug 2023,/address/auckland/grafton/7-118-grafton-road/DX5D9n,Grafton
+"12 Waima Street, Grey Lynn",1500.0,6,2,Listed: 22 Aug 2023,/address/auckland/grey-lynn/12-waima-street/BD0Kq,Grey Lynn
+"9G Ramsgate Street, Ellerslie",950.0,3,2,Listed: 22 Aug 2023,/address/auckland/ellerslie/9g-ramsgate-street/EgZZX,Ellerslie
+"Studio/31B Carlton Gore Road , Grafton",390.0,1,1,Listed: 22 Aug 2023,/address/auckland/grafton/studio-31b-carlton-gore-road/q89r91,Grafton
+"85 Beach Road, City Centre",395.0,1,1,Listed: 22 Aug 2023,/address/auckland/auckland-central/85-beach-road/BjVJr5,City Centre
+"32 Swanson Street, City Centre",580.0,2,1,Listed: 21 Aug 2023,/address/auckland/auckland-central/32-swanson-st/GNVvZ,City Centre
+"321/26 Te Taou Crescent, City Centre",550.0,3,1,Listed: 21 Aug 2023,/address/auckland/auckland-central/321-26-te-taou-crescent/y0bgE,City Centre
+"64/139 Quay Street,",1095.0,2,1,Listed: 21 Aug 2023,/address/auckland-city/city-centre/64-139-quay-street--/bVJyva,
+"18 Charlton Avenue, Mount Eden",1850.0,5,4,Listed: 21 Aug 2023,/address/auckland/mount-eden/18-charlton-av/rDeGG,Mount Eden
+"142A Gowing Dr , Meadowbank",700.0,3,1,Listed: 21 Aug 2023,/address/auckland/meadowbank/142a-gowing-drive/ajPP5,Meadowbank
+"L3/250 Richmond Road, Grey Lynn",500.0,1,1,Listed: 21 Aug 2023,/address/auckland/grey-lynn/3-250-richmond-road/2rKxEJ,Grey Lynn
+"76 Albert Street, City Centre",530.0,2,1,Listed: 20 Aug 2023,/address/auckland/auckland-central/76-albert-street/2rBnEe,City Centre
+"6 Brookfield Ave, Onehunga",340.0,1,1,Listed: 19 Aug 2023,/address/auckland/onehunga/6-brookfield-avenue/kOBbO,Onehunga
+"509A Remuera Road, Remuera",700.0,3,1,Listed: 18 Aug 2023,/address/auckland/remuera/509-remuera-road/ooj4AB,Remuera
+"701 Great North Road, Grey Lynn",1250.0,5,2,Listed: 18 Aug 2023,/address/auckland/grey-lynn/701-great-north-road/A74L,Grey Lynn
+"143b Mt Albert Road, Mount Albert",890.0,4,2,Listed: 17 Aug 2023,/address/auckland/mount-albert/143b-mount-albert-road/k9W5l,Mount Albert
+"1J/444 Great North Road, Grey Lynn",590.0,1,1,Listed: 17 Aug 2023,/address/auckland/grey-lynn/1j-444-great-north-road/WKqOk,Grey Lynn
+"L9/72 Nelson Street, City Centre",400.0,1,1,Listed: 17 Aug 2023,/address/auckland/auckland-central/9-72-nelson-street/QjNwNE,City Centre
+"10A CORNWALL PARK AVE, Epsom",1350.0,5,3,Listed: 16 Aug 2023,/address/auckland/epsom/10-cornwall-park-avenue/xLBEX5,Epsom
+"1E/15 Hopetoun street, City Centre",720.0,2,1,Listed: 15 Aug 2023,/address/auckland/freemans-bay/1e-15-hopetoun-street/ajGW7w,City Centre
+"4/3 Eden Crescent, City Centre",700.0,2,1,Listed: 14 Aug 2023,/address/auckland/auckland-central/4-3-eden-crescent/W8blq,City Centre
+"5AL/14 Waterloo Quadrant , City Centre",750.0,2,2,Listed: 10 Aug 2023,/address/auckland/auckland-central/5al-14-waterloo-quadrant/RgNbB1,City Centre
+"Saint Marys Bay, Auckland City",3995.0,5,6,Listed: 09 Aug 2023,/address/auckland-city/saint-marys-bay/0/JMgg7O,Auckland City
+"22 King Edward Parade, Devonport",770.0,2,1,Listed: 09 Aug 2023,/address/auckland/devonport/22-king-edward-parade/gVpVD,Devonport
+"Lvl 11/8 Airedale St--On Sat 30th Sep at 4:10-4:30pm, City Centre",440.0,1,1,Listed: 08 Aug 2023,/address/auckland-city/city-centre/lvl-11-8-airedale-st--on-sat-30th-sep-at-4-10-4-30pm/bVDwqa,City Centre
+"35B Wallace Street, Herne Bay",1500.0,4,2,Listed: 08 Aug 2023,/address/auckland/herne-bay/35b-wallace-street/aByOe,Herne Bay
+"231 Manukau Rd, Epsom",530.0,2,1,Listed: 08 Aug 2023,/address/auckland/epsom/231-manukau-road/vXjxaP,Epsom
+"25 Sentinel Road, Herne Bay",1450.0,4,1,Listed: 07 Aug 2023,/address/auckland/herne-bay/25-sentinel-road/gNEZ9,Herne Bay
+"42a Glanville Terrace, Parnell",2300.0,3,2,Listed: 04 Aug 2023,/address/auckland/parnell/a-42-glanville-terrace/Vg4wl,Parnell
+"Arabi Street, Sandringham",280.0,1,1,Listed: 03 Aug 2023,/address/auckland-city/sandringham/0-arabi-street/WMKYvL,Sandringham
+"48 Ti Kouka Lane, Sandringham",925.0,4,2,Listed: 03 Aug 2023,/address/auckland/sandringham/48-ti-kouka-la/b1wZ2,Sandringham
+"43/139 Quay Street, City Centre",595.0,1,1,Listed: 03 Aug 2023,/address/auckland/auckland-central/43-139-quay-street/kOrezW,City Centre
+"69 Grand Drive, Remuera",865.0,4,1,Listed: 02 Aug 2023,/address/auckland/remuera/69-grand-drive/Qa75,Remuera
+"108/3 Basque Road, Eden Terrace",380.0,1,1,Listed: 01 Aug 2023,/address/auckland/eden-terrace/108-3-basque-road/gJALAQ,Eden Terrace
+"8 Hereford Street, Freemans Bay",655.0,1,1,Listed: 01 Aug 2023,/address/auckland/freemans-bay/8-hereford-street/Z9xYzL,Freemans Bay
+"2/698 Mt Albert Road, Royal Oak",650.0,2,1,Listed: 31 Jul 2023,/address/auckland/royal-oak/2-698-mount-albert-road/OGLDN,Royal Oak
+"72 Nelson Street, City Centre",375.0,2,1,Listed: 31 Jul 2023,/address/auckland/auckland-central/72-nelson-street/z4XpMB,City Centre
+"1/35 Brown Street, Ponsonby",1000.0,4,1,Listed: 31 Jul 2023,/address/auckland/ponsonby/1-35-brown-street/51OO4X,Ponsonby
+"31 Day Street, City Centre",695.0,1,1,Listed: 30 Jul 2023,/address/auckland/auckland-central/31-day-street/yPAEMW,City Centre
+"10/277 Mt Eden Road, Mount Eden",690.0,3,1,Listed: 28 Jul 2023,/address/auckland/mount-eden/10-277-mount-eden-road/Zenv,Mount Eden
+"3/91 Sarsfield Street, Herne Bay",850.0,3,1,Listed: 28 Jul 2023,/address/auckland/herne-bay/3-91-sarsfield-street/7NypeE,Herne Bay
+"14 Keystone Avenue, Mount Roskill",1300.0,5,2,Listed: 28 Jul 2023,/address/auckland/mount-roskill/14-keystone-avenue/YORGYP,Mount Roskill
+"811/106 Vincent St, City Centre",480.0,1,1,Listed: 27 Jul 2023,/address/auckland/auckland-central/811-106-vincent-street/vlW5O,City Centre
+"956 Dominion Road, Mount Roskill",700.0,1,1,Listed: 27 Jul 2023,/address/auckland/mount-roskill/956-dominion-road/gAergN,Mount Roskill
+"4A/21 Hargreaves Street, City Centre",695.0,2,1,Listed: 27 Jul 2023,/address/auckland/auckland-central/4a-21-hargreaves-street/KErjQ,City Centre
+"8 Whitaker Place, Grafton",925.0,2,2,Listed: 26 Jul 2023,/address/auckland/grafton/8-whitaker-pl/V2E07,Grafton
+"12/59 View Road, Mount Eden",320.0,1,1,Listed: 26 Jul 2023,/address/auckland/mount-albert/12-59-range-view-road/yQBgQK,Mount Eden
+"40AJ Monteith Crescent, Remuera",980.0,4,2,Listed: 26 Jul 2023,/address/auckland/remuera/40-monteith-crescent/DroVZL,Remuera
+"1/65 Selwyn Avenue, Mission Bay",780.0,3,1,Listed: 25 Jul 2023,/address/auckland/mission-bay/1-65-selwyn-avenue/wVxW1Z,Mission Bay
+"2/16 Atkin Avenue, Mission Bay",1100.0,3,1,Listed: 25 Jul 2023,/address/auckland/mission-bay/2-16-atkin-avenue/GZvoB,Mission Bay
+"15 Sadgrove Terrace, Mount Albert",1100.0,5,2,Listed: 25 Jul 2023,/address/auckland/mount-albert/15-sadgrove-terrace/Lkrb9,Mount Albert
+"Greenlane, Auckland City",1150.0,4,3,Listed: 25 Jul 2023,/address/auckland-city/greenlane/0/2GzVre,Auckland City
+"56 Hamilton Road, Herne Bay",1950.0,4,3,Listed: 25 Jul 2023,/address/auckland/herne-bay/56-hamilton-road/7NqoM,Herne Bay
+"1A/2 Fisher Point, City Centre",700.0,2,1,Listed: 21 Jul 2023,/address/auckland/auckland-central/1a-2-fisher-point-drive/5jM70,City Centre
+"L41/10 Commerce Street, City Centre",1350.0,2,2,Listed: 20 Jul 2023,/address/auckland/auckland-central/41-10-commerce-street/zQMGDE,City Centre
+"125 Carrington Road, Point Chevalier",620.0,3,1,Listed: 20 Jul 2023,/address/auckland/point-chevalier/18-125-carrington-road/BD1Lk,Point Chevalier
+"125 Carrington Road, Point Chevalier",580.0,2,1,Listed: 20 Jul 2023,/address/auckland/point-chevalier/10-125-carrington-road/QXNKJ,Point Chevalier
+"125 Carrington Road, Point Chevalier",720.0,4,1,Listed: 20 Jul 2023,/address/auckland/point-chevalier/28-125-carrington-road/vpqkl,Point Chevalier
+"28 Empire Rd, Epsom",1000.0,4,2,Listed: 16 Jul 2023,/address/auckland/epsom/28-empire-road/YOlPV,Epsom
+"GF/83 New North Road, Eden Terrace",530.0,1,1,Listed: 12 Jul 2023,/address/auckland/eden-terrace/gf-83-new-north-road/vX49r,Eden Terrace
+"10 Upland Road, Remuera",6000.0,6,3,Listed: 05 Jul 2023,/address/auckland/remuera/10-upland-road/WO1W,Remuera
+"52A Carlton Gore Road, Grafton",580.0,2,1,Listed: 04 Jul 2023,/address/auckland/grafton/52-carlton-gore-road/JYAY8O,Grafton
+"25 Gibraltar Crescent, Parnell",3500.0,3,3,Listed: 03 Jul 2023,/address/auckland/parnell/25-gibraltar-cr/2NRxj,Parnell
+"2/14 Richard Farrell Avenue, Remuera",420.0,1,1,Listed: 30 Jun 2023,/address/auckland/remuera/2-14-richard-farrell-avenue/yQGaMe,Remuera
+"4V/16 Burton Street, Grafton",670.0,2,1,Listed: 29 Jun 2023,/address/auckland/grafton/4v-16-burton-street/Koyn,Grafton
+"1/341 Hillsborough Road, Hillsborough",1000.0,4,3,Listed: 27 Jun 2023,/address/auckland/hillsborough/1-341-hillsborough-road/r9xg,Hillsborough
+"6A Bradford Road, Parnell",860.0,2,1,Listed: 26 Jun 2023,/address/auckland-city/parnell/a-6-bradford-road/7N4ez8,Parnell
+"161A Portland Road, Remuera",1250.0,5,3,Listed: 24 Jun 2023,/address/auckland/remuera/161a-portland-road/LaKvW,Remuera
+"2/651 Manukau Road, Royal Oak",950.0,4,2,Listed: 23 Jun 2023,/address/auckland/royal-oak/2-651-manukau-road/eKgK2,Royal Oak
+"37A St Georges Bay Rd, Parnell",1500.0,3,2,Listed: 23 Jun 2023,/address/auckland/parnell/37-st-georges-bay-road/OYQ27w,Parnell
+"23/137 Quay Street, City Centre",1295.0,1,1,Listed: 21 Jun 2023,/address/auckland/auckland-cbd/23-137-quay-street/kYY05l,City Centre
+"106 Vincent Street, City Centre",480.0,1,1,Listed: 16 Jun 2023,/address/auckland-city/city-centre/106-vincent-street/obalVa,City Centre
+"21/39 Pitt Street, City Centre",950.0,3,2,Listed: 15 Jun 2023,/address/auckland/auckland-central/21-39-pitt-street/KMKk,City Centre
+"L8/30 Symonds Street, City Centre",450.0,2,1,Listed: 14 Jun 2023,/address/auckland/grafton/8-30-symonds-street/R5xxqy,City Centre
+"1/71 Sarsfield Street, Herne Bay",1200.0,3,2,Listed: 13 Jun 2023,/address/auckland/herne-bay/71a-sarsfield-street/bjMwe,Herne Bay
+"2A/14 Beaumont Street, City Centre",650.0,1,1,Listed: 13 Jun 2023,/address/auckland/auckland-central/2a-14-beaumont-street/PZGv,City Centre
+"401/1 Enfield Street, Mount Eden",750.0,2,2,Listed: 12 Jun 2023,/address/auckland/mount-eden/401-1-enfield-street/ob8AQQ,Mount Eden
+"2010/171 Queen Street, City Centre",650.0,1,1,Listed: 11 Jun 2023,/address/auckland/auckland-central/2010-171-queen-street/zxLpQ,City Centre
+"4B/21 Hargreaves Street, City Centre",1050.0,3,2,Listed: 09 Jun 2023,/address/auckland/auckland-central/4b-21-hargreaves-street/Mvk1,City Centre
+"106B GLADSTONE RD, Parnell",2750.0,4,4,Listed: 29 May 2023,/address/auckland/parnell/106b-gladstone-road/J4krR,Parnell
+"20/123 Owens Road, Epsom",640.0,2,1,Listed: 28 May 2023,/address/auckland/epsom/20-123-owens-road/R0DRE,Epsom
+"145 Quay Street, City Centre",1800.0,1,1,Listed: 23 May 2023,/address/auckland/auckland-central/145-quay-street/0Wwxj,City Centre
+"33/139 Quay Street, City Centre",825.0,1,1,Listed: 21 May 2023,/address/auckland/auckland-cbd/33-139-quay-street/jxOYvD,City Centre
+"34 Kingston Street, City Centre",425.0,1,1,Listed: 19 May 2023,/address/auckland/auckland-central/34-kingston-street/xVWR75,City Centre
+"86 Selwyn Avenue, Mission Bay",2250.0,6,3,Listed: 17 May 2023,/address/auckland/mission-bay/86-selwyn-avenue/la2eO,Mission Bay
+"15 Union Street, City Centre",480.0,1,1,Listed: 02 May 2023,/address/auckland/auckland-cbd/15-union-street/owKalQ,City Centre
+"139 Quay Street, City Centre",695.0,1,1,Listed: 24 Apr 2023,/address/auckland/auckland-central/139-quay-street/4vDeM,City Centre
+"8 Airedale Street, City Centre",500.0,1,1,Listed: 22 Apr 2023,/address/auckland/auckland-cbd/8-airedale-street/eJWGpK,City Centre
+"503/41-43 Gillies Avenue, Newmarket",1500.0,3,2,Listed: 19 Apr 2023,/address/auckland/epsom/503-41-gillies-avenue/B9Qk0O,Newmarket
+"6E 2 Queen Street, City Centre",1500.0,2,2,Listed: 04 Apr 2023,/address/auckland/auckland-central/6e-2-queen-street/DgZ70,City Centre
+"218/223 Greenlane Road West, Epsom",1300.0,2,2,Listed: 04 Apr 2023,/address/auckland-city/epsom/218-223-greenlane-road-west/LoXpO9,Epsom
+"1/23 Codrington Crescent, Mission Bay",650.0,2,1,Listed: 03 Apr 2023,/address/auckland/mission-bay/1-23-codrington-crescent/5jJyPR,Mission Bay
+"1006/8 Ronayne Street, City Centre",780.0,2,2,Listed: 27 Feb 2023,/address/auckland/auckland-central/1006-8-ronayne-street/xLDjP,City Centre
+"31A Rogan Street, Mount Roskill",1100.0,4,4,Listed: 05 Feb 2023,/address/auckland/mount-roskill/31a-rogan-street/eKNyQ,Mount Roskill
+"2/24 West End Road, Herne Bay",1795.0,6,2,Listed: 27 Jan 2023,/address/auckland/herne-bay/2-24-west-end-road/Dpr2,Herne Bay
+"1 Dovedale Place, Parnell",850.0,3,2,Listed: 25 Jan 2023,/address/auckland/parnell/1-dovedale-place/8J7Qj,Parnell
+"Howe Street, Freemans Bay",1100.0,3,2,Listed: 24 Jan 2023,/address/auckland-city/freemans-bay/0-howe-street/vpKQbP,Freemans Bay
+"5 Partridge Street, Grey Lynn",380.0,1,1,Listed: 09 Jan 2023,/address/auckland/grey-lynn/5-partridge-street/YZA4P,Grey Lynn
+"147-149 Victoria Street, City Centre",900.0,2,2,Listed: 26 Dec 2022,/address/auckland-city/city-centre/0-victoria-street/NKzGlk,City Centre
+"52A Parau Street, Mount Roskill",425.0,1,1,Listed: 08 Dec 2022,/address/auckland/mount-roskill/52-parau-street/0nznP9,Mount Roskill
+"Furneaux Way, Remuera",1000.0,2,1,Listed: 03 Oct 2022,/address/auckland-city/remuera/furneaux-way/XKjWKj,Remuera
+"192B Manukau Road, Epsom",370.0,1,1,Listed: 11 Sep 2022,/address/auckland/epsom/196-manukau-road/O0N0w,Epsom
+"Epsom, Auckland City",1400.0,4,4,Listed: 08 Aug 2022,/address/auckland-city/epsom/0/9lELQQ,Auckland City
+"Mount Eden, Auckland City",500.0,2,1,Listed: 04 Aug 2022,/address/auckland/mount-eden/12-62-grange-road/bAky,Auckland City
+"3 Paerimu St, Orakei",900.0,3,2,Listed: 23 May 2022,/address/auckland/orakei/3-paerimu-street/11KWW,Orakei
